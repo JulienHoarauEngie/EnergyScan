@@ -1,53 +1,91 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2023-07-31,JN,Retail Sales MoM,01:50,Jun,-0.7%,1.3%
-2023-07-31,JN,Industrial Production MoM,01:50,Jun P,2.4%,-2.2%
-2023-07-31,CH,Manufacturing PMI,03:30,Jul,48.9,49.0
-2023-07-31,CH,Non-manufacturing PMI,03:30,Jul,53.0,53.2
-2023-07-31,JN,Consumer Confidence Index,07:00,Jul,36.2,36.2
-2023-07-31,JN,Housing Starts YoY,07:00,Jun,-0.5%,3.5%
-2023-07-31,GE,Import Price Index YoY,08:00,Jun,-10.7%,-9.1%
-2023-07-31,GE,Retail Sales MoM,08:00,Jun,-0.3%,0.4%
-2023-07-31,IT,GDP WDA QoQ,10:00,2Q P,0.0%,0.6%
-2023-07-31,UK,Mortgage Approvals,10:30,Jun,--,50.5k
-2023-07-31,EC,GDP SA QoQ,11:00,2Q A,0.1%,-0.1%
-2023-07-31,IT,CPI EU Harmonized YoY,11:00,Jul P,6.6%,6.7%
-2023-07-31,EC,CPI Estimate YoY,11:00,Jul,5.2%,5.5%
-2023-07-31,EC,CPI Core YoY,11:00,Jul P,5.3%,5.5%
-2023-07-31,US,MNI Chicago PMI,15:45,Jul,43.5,41.5
-2023-07-31,US,Dallas Fed Manf. Activity,16:30,Jul,-22.5,-23.2
-2023-08-01,JN,Jobless Rate,01:30,Jun,2.6%,2.6%
-2023-08-01,JN,Jibun Bank Japan PMI Mfg,02:30,Jul F,--,49.4
-2023-08-01,CH,Caixin China PMI Mfg,03:45,Jul,50.1,50.5
-2023-08-01,UK,Nationwide House Px NSA YoY,08:00,Jul,-4.0%,-3.5%
-2023-08-01,EC,HCOB Eurozone Manufacturing PMI,10:00,Jul F,42.7,42.7
-2023-08-01,UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Jul F,45.0,45.0
-2023-08-01,EC,Unemployment Rate,11:00,Jun,6.5%,6.5%
-2023-08-01,US,S&P Global US Manufacturing PMI,15:45,Jul F,49.0,49.0
-2023-08-01,US,Construction Spending MoM,16:00,Jun,0.6%,0.9%
-2023-08-01,US,JOLTS Job Openings,16:00,Jun,--,9824k
-2023-08-01,US,ISM Manufacturing,16:00,Jul,46.9,46.0
-2023-08-01,US,Wards Total Vehicle Sales,--,Jul,15.50m,15.68m
-2023-08-02,JN,BOJ Minutes of June Meeting,01:50,--,--,--
-2023-08-02,US,ADP Employment Change,14:15,Jul,185k,497k
-2023-08-02,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-600k
-2023-08-03,JN,Jibun Bank Japan PMI Services,02:30,Jul F,--,53.9
-2023-08-03,CH,Caixin China PMI Services,03:45,Jul,52.4,53.9
-2023-08-03,GE,Trade Balance SA,08:00,Jun,--,14.4b
-2023-08-03,EC,HCOB Eurozone Services PMI,10:00,Jul F,51.1,51.1
-2023-08-03,UK,S&P Global/CIPS UK Services PMI,10:30,Jul F,51.5,51.5
-2023-08-03,EC,PPI YoY,11:00,Jun,-2.9%,-1.5%
-2023-08-03,UK,Bank of England Bank Rate,13:00,--,5.25%,5.00%
-2023-08-03,US,Challenger Job Cuts YoY,13:30,Jul,--,25.2%
-2023-08-03,UK,BOE Governor Andrew Bailey press conference,13:30,--,--,--
-2023-08-03,US,Unit Labor Costs,14:30,2Q P,2.6%,4.2%
-2023-08-03,US,Initial Jobless Claims,14:30,--,--,221k
-2023-08-03,US,S&P Global US Services PMI,15:45,Jul F,52.4,52.4
-2023-08-03,US,ISM Services Index,16:00,Jul,53.0,53.9
-2023-08-04,GE,Factory Orders MoM,08:00,Jun,-2.3%,6.4%
-2023-08-04,FR,Wages QoQ,08:45,2Q P,--,1.9%
-2023-08-04,FR,Industrial Production MoM,08:45,Jun,-0.5%,1.2%
-2023-08-04,IT,Industrial Production MoM,10:00,Jun,0.0%,1.6%
-2023-08-04,EC,Retail Sales MoM,11:00,Jun,0.2%,0.0%
-2023-08-04,US,Change in Nonfarm Payrolls,14:30,Jul,190k,209k
-2023-08-04,US,Average Hourly Earnings YoY,14:30,Jul,4.2%,4.4%
-2023-08-04,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-08-07,JN,Leading Index CI,07:00,Jun P,108.9,109.2
+2023-08-07,GE,Industrial Production SA MoM,08:00,Jun,-0.5%,-0.2%
+2023-08-07,EC,Sentix Investor Confidence,10:30,Aug,-25.0,-22.5
+2023-08-08,JN,Household Spending YoY,01:30,Jun,-3.8%,-4.0%
+2023-08-08,JN,Labor Cash Earnings YoY,01:30,Jun,3.0%,2.5%
+2023-08-08,JN,BoP Current Account Adjusted,01:50,Jun,¥2239.9b,¥1702.7b
+2023-08-08,GE,CPI EU Harmonized YoY,08:00,Jul F,6.5%,6.5%
+2023-08-08,FR,Trade Balance,08:45,Jun,--,-8418m
+2023-08-08,US,NFIB Small Business Optimism,12:00,Jul,90.5,91.0
+2023-08-08,US,Trade Balance,14:30,Jun,-$65.0b,-$69.0b
+2023-08-08,US,Wholesale Inventories MoM,16:00,Jun F,-0.3%,-0.3%
+2023-08-08,CH,Trade Balance,--,Jul,$68.00b,$70.62b
+2023-08-09,CH,CPI YoY,03:30,Jul,-0.5%,0.0%
+2023-08-09,CH,PPI YoY,03:30,Jul,-4.0%,-5.4%
+2023-08-09,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-17049k
+2023-08-09,CH,Aggregate Financing CNY,9-15,Jul,1100.0b,4220.0b
+2023-08-10,JN,PPI YoY,01:50,Jul,3.5%,4.1%
+2023-08-10,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+2023-08-10,US,Initial Jobless Claims,14:30,--,--,227k
+2023-08-10,US,CPI YoY,14:30,Jul,3.3%,3.0%
+2023-08-11,FR,ILO Unemployment Rate,07:30,2Q,--,7.1%
+2023-08-11,UK,Monthly GDP (MoM),08:00,Jun,0.2%,-0.1%
+2023-08-11,UK,Industrial Production MoM,08:00,Jun,0.2%,-0.6%
+2023-08-11,UK,Trade Balance GBP/Mn,08:00,Jun,--,-£6578m
+2023-08-11,UK,GDP QoQ,08:00,2Q P,0.0%,0.1%
+2023-08-11,FR,CPI EU Harmonized YoY,08:45,Jul F,5.0%,5.0%
+2023-08-11,US,PPI Final Demand YoY,14:30,Jul,0.7%,0.1%
+2023-08-11,US,U. of Mich. Sentiment,16:00,Aug P,71.0,71.6
+2023-08-11,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-08-15,JN,GDP SA QoQ,01:50,2Q P,0.8%,0.7%
+2023-08-15,CH,1-Yr Medium-Term Lending Facility Rate,03:20,--,2.7%,2.7%
+2023-08-15,CH,Industrial Production YoY,04:00,Jul,4.3%,4.4%
+2023-08-15,CH,Retail Sales YoY,04:00,Jul,3.6%,3.1%
+2023-08-15,CH,Surveyed Jobless Rate,04:00,Jul,--,5.2%
+2023-08-15,UK,Jobless Claims Change,08:00,Jul,--,25.7k
+2023-08-15,UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Jun,--,7.3%
+2023-08-15,GE,ZEW Survey Expectations,11:00,Aug,--,-14.7
+2023-08-15,US,Retail Sales Control Group,14:30,Jul,--,0.6%
+2023-08-15,US,Import Price Index YoY,14:30,Jul,--,-6.1%
+2023-08-15,US,Empire Manufacturing,14:30,Aug,--,1.1
+2023-08-15,US,Business Inventories,16:00,Jun,--,0.2%
+2023-08-15,US,NAHB Housing Market Index,16:00,Aug,--,56.0
+2023-08-15,US,Net Long-term TIC Flows,22:00,Jun,--,$25.8b
+2023-08-16,CH,New Home Prices MoM,03:30,Jul,--,-0.1%
+2023-08-16,UK,CPI YoY,08:00,Jul,--,7.9%
+2023-08-16,UK,PPI Output NSA YoY,08:00,Jul,--,0.1%
+2023-08-16,UK,House Price Index YoY,10:30,Jun,--,1.9%
+2023-08-16,EC,GDP SA QoQ,11:00,2Q P,--,0.3%
+2023-08-16,EC,Industrial Production SA MoM,11:00,Jun,--,0.2%
+2023-08-16,EC,Employment QoQ,11:00,2Q P,--,0.6%
+2023-08-16,US,Housing Starts MoM,14:30,Jul,--,-8.0%
+2023-08-16,US,Building Permits MoM,14:30,Jul,--,-3.7%
+2023-08-16,US,Industrial Production MoM,15:15,Jul,--,-0.5%
+2023-08-16,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+2023-08-16,US,FOMC Meeting Minutes,20:00,--,--,--
+2023-08-17,JN,Trade Balance,01:50,Jul,--,¥43.0b
+2023-08-17,JN,Core Machine Orders MoM,01:50,Jun,--,-7.6%
+2023-08-17,EC,Trade Balance SA,11:00,Jun,--,-0.9b
+2023-08-17,US,Initial Jobless Claims,14:30,--,--,--
+2023-08-17,US,Philadelphia Fed Business Outlook,14:30,Aug,--,-13.5
+2023-08-17,US,Leading Index,16:00,Jul,--,-0.7%
+2023-08-18,JN,Natl CPI YoY,01:30,Jul,--,3.3%
+2023-08-18,UK,Retail Sales Inc Auto Fuel MoM,08:00,Jul,--,0.7%
+2023-08-18,EC,CPI YoY,11:00,Jul F,--,5.5%
+2023-08-18,EC,Construction Output MoM,11:00,Jun,--,0.2%
+2023-08-18,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-08-21,EC,EU27 New Car Registrations,08:00,Jul,--,17.8%
+2023-08-22,CH,5-Year Loan Prime Rate,03:15,--,4.2%,4.2%
+2023-08-22,CH,1-Year Loan Prime Rate,03:15,--,3.6%,3.6%
+2023-08-22,GE,PPI YoY,08:00,Jul,--,0.1%
+2023-08-22,UK,PSNB ex Banking Groups,08:00,Jul,--,18.5b
+2023-08-22,EC,ECB Current Account SA,10:00,Jun,--,9.1b
+2023-08-22,US,Existing Home Sales MoM,16:00,Jul,--,-3.3%
+2023-08-22,US,Richmond Fed Manufact. Index,16:00,Aug,--,-9.0
+2023-08-23,JN,Jibun Bank Japan PMI Composite,02:30,Aug P,--,52.2
+2023-08-23,EC,HCOB Eurozone Composite PMI,10:00,Aug P,--,48.6
+2023-08-23,UK,S&P Global/CIPS UK Composite PMI,10:30,Aug P,--,50.8
+2023-08-23,US,S&P Global US Composite PMI,15:45,Aug P,--,52.0
+2023-08-23,US,New Home Sales MoM,16:00,Jul,--,-2.5%
+2023-08-23,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+2023-08-24,FR,Business Confidence,08:45,Aug,--,100.0
+2023-08-24,US,Chicago Fed Nat Activity Index,14:30,Jul,--,-0.3
+2023-08-24,US,Initial Jobless Claims,14:30,--,--,--
+2023-08-24,US,Cap Goods Orders Nondef Ex Air,14:30,Jul P,--,0.1%
+2023-08-24,US,Kansas City Fed Manf. Activity,17:00,Aug,--,-11.0
+2023-08-25,JN,Tokyo CPI YoY,01:30,Aug,--,3.2%
+2023-08-25,GE,GDP SA QoQ,08:00,2Q F,--,0.0%
+2023-08-25,GE,IFO Business Climate,10:00,Aug,--,87.3
+2023-08-25,US,U. of Mich. Sentiment,16:00,Aug F,--,--
+2023-08-25,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
