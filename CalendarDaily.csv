@@ -1,42 +1,50 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2023-09-18,US,NAHB Housing Market Index,16:00,Sep,50,50
-2023-09-18,US,Net Long-term TIC Flows,22:00,Jul,--,$195.9b
-2023-09-19,EC,ECB Current Account SA,10:00,Jul,--,35.8b
-2023-09-19,EC,CPI YoY,11:00,Aug F,5.3%,5.3%
-2023-09-19,EC,OECD Publishes Economic Outlook,11:00,--,--,--
-2023-09-19,US,Housing Starts MoM,14:30,Aug,-0.8%,3.9%
-2023-09-19,US,Building Permits MoM,14:30,Aug,0.1%,0.1%
-2023-09-20,JN,Trade Balance Adjusted,01:50,Aug,-¥441.1b,-¥557.2b
-2023-09-20,CH,5-Year Loan Prime Rate,03:15,--,4.20%,4.20%
-2023-09-20,CH,1-Year Loan Prime Rate,03:15,--,3.45%,3.45%
-2023-09-20,GE,PPI YoY,08:00,Aug,-12.8%,-6.0%
-2023-09-20,EC,EU27 New Car Registrations,08:00,Aug,--,15.2%
-2023-09-20,UK,CPI YoY,08:00,Aug,7.0%,6.8%
-2023-09-20,UK,PPI Output NSA YoY,08:00,Aug,-0.6%,-0.8%
-2023-09-20,UK,House Price Index YoY,10:30,Jul,--,1.7%
-2023-09-20,EC,Construction Output MoM,11:00,Jul,--,-1.0%
-2023-09-20,US,DOE U.S. Crude Oil Inventories,16:30,--,--,3955k
-2023-09-20,US,FOMC Rate Decision (Upper Bound),20:00,--,5.50%,5.50%
-2023-09-20,US,Press Conference Following FOMC Meeting,20:30,--,--,--
-2023-09-21,UK,PSNB ex Banking Groups,08:00,Aug,11.1b,4.3b
-2023-09-21,FR,Business Confidence,08:45,Sep,98.0,99.0
-2023-09-21,UK,Bank of England Bank Rate,13:00,--,5.50%,5.25%
-2023-09-21,US,Initial Jobless Claims,14:30,--,--,220k
-2023-09-21,US,Philadelphia Fed Business Outlook,14:30,Sep,-0.4,12.0
-2023-09-21,US,Existing Home Sales MoM,16:00,Aug,0.7%,-2.2%
-2023-09-21,US,Leading Index,16:00,Aug,-0.4%,-0.4%
-2023-09-21,EC,Consumer Confidence,16:00,Sep P,-16.5,-16.0
-2023-09-22,UK,GfK Consumer Confidence,01:01,Sep,-27.0,-25.0
-2023-09-22,JN,Natl CPI YoY,01:30,Aug,3.0%,3.3%
-2023-09-22,JN,Jibun Bank Japan PMI Composite,02:30,Sep P,--,52.6
-2023-09-22,UK,Retail Sales Inc Auto Fuel MoM,08:00,Aug,0.6%,-1.2%
-2023-09-22,FR,HCOB France Composite PMI,09:15,Sep P,46.0,46.0
-2023-09-22,GE,HCOB Germany Composite PMI,09:30,Sep P,45.0,44.6
-2023-09-22,EC,HCOB Eurozone Composite PMI,10:00,Sep P,46.7,46.7
-2023-09-22,UK,S&P Global UK Composite PMI,10:30,Sep P,48.8,48.6
-2023-09-22,UK,CBI Trends Total Orders,12:00,Sep,-18.0,-15.0
-2023-09-22,US,S&P Global US Composite PMI,15:45,Sep P,--,50.2
-2023-09-22,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2023-09-22,GE,Germany Rating to be reviewed by S&P,--,--,--,--
-2023-09-22,JN,BOJ Policy Balance Rate,--,--,--,-0.1%
-2023-09-22,JN,BOJ 10-Yr Yield Target,--,--,--,0.0%
+2023-09-25,JN,Nationwide Dept Sales YoY,07:30,Aug,--,8.6%
+2023-09-25,EC,ECB's Villeroy speaks,09:00,--,--,--
+2023-09-25,GE,IFO Business Climate,10:00,Sep,85.1,85.7
+2023-09-25,UK,CBI Total Dist. Reported Sales,12:00,Sep,--,-26.0
+2023-09-25,US,Chicago Fed Nat Activity Index,14:30,Aug,--,12.0%
+2023-09-25,US,Dallas Fed Manf. Activity,16:30,Sep,-15.7,-17.2
+2023-09-26,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jul,--,-1.2%
+2023-09-26,US,New Home Sales MoM,16:00,Aug,-2.0%,4.4%
+2023-09-26,US,Conf. Board Consumer Confidence,16:00,Sep,105.9,106.1
+2023-09-26,US,Richmond Fed Manufact. Index,16:00,Sep,--,-7.0
+2023-09-27,JN,BOJ Minutes of July Meeting,01:50,--,--,--
+2023-09-27,CH,Industrial Profits YoY,03:30,Aug,--,-6.7%
+2023-09-27,JN,Leading Index CI,07:00,Jul F,--,107.6
+2023-09-27,GE,GfK Consumer Confidence,08:00,Oct,-25.5,-25.5
+2023-09-27,FR,Consumer Confidence,08:45,Sep,85.0,85.0
+2023-09-27,EC,M3 Money Supply YoY,10:00,Aug,-1.1%,-0.4%
+2023-09-27,US,Cap Goods Orders Nondef Ex Air,14:30,Aug P,--,0.1%
+2023-09-27,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2136k
+2023-09-28,IT,Economic Sentiment,10:00,Sep,--,106.8
+2023-09-28,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+2023-09-28,EC,Economic Confidence,11:00,Sep,92.1,93.3
+2023-09-28,GE,CPI EU Harmonized YoY,14:00,Sep P,4.6%,6.4%
+2023-09-28,US,GDP Annualized QoQ,14:30,2Q T,2.3%,2.1%
+2023-09-28,US,Initial Jobless Claims,14:30,--,--,201k
+2023-09-28,US,Pending Home Sales MoM,16:00,Aug,--,0.9%
+2023-09-28,US,Kansas City Fed Manf. Activity,17:00,Sep,--,0.0%
+2023-09-29,JN,Tokyo CPI YoY,01:30,Sep,2.8%,2.9%
+2023-09-29,JN,Jobless Rate,01:30,Aug,2.6%,2.7%
+2023-09-29,JN,Retail Sales MoM,01:50,Aug,0.5%,2.1%
+2023-09-29,JN,Industrial Production MoM,01:50,Aug P,-0.8%,-1.8%
+2023-09-29,JN,Consumer Confidence Index,07:00,Sep,36.2,36.2
+2023-09-29,GE,Import Price Index YoY,08:00,Aug,-15.9%,-13.2%
+2023-09-29,GE,Retail Sales MoM,08:00,Aug,0.5%,-0.8%
+2023-09-29,UK,GDP QoQ,08:00,2Q F,0.2%,0.2%
+2023-09-29,FR,CPI EU Harmonized YoY,08:45,Sep P,6.0%,5.7%
+2023-09-29,FR,Consumer Spending MoM,08:45,Aug,-0.3%,0.3%
+2023-09-29,FR,PPI YoY,08:45,Aug,--,0.9%
+2023-09-29,GE,Unemployment Change (000's),09:55,Sep,15.0k,18.0k
+2023-09-29,UK,Mortgage Approvals,10:30,--,--,49.4k
+2023-09-29,EC,CPI Estimate YoY,11:00,Sep,4.5%,5.2%
+2023-09-29,EC,CPI Core YoY,11:00,Sep P,4.8%,5.3%
+2023-09-29,US,Advance Goods Trade Balance,14:30,Aug,-$91.2b,-$91.2b
+2023-09-29,US,Wholesale Inventories MoM,14:30,Aug P,--,-0.2%
+2023-09-29,US,Personal Spending,14:30,Aug,0.4%,0.8%
+2023-09-29,US,PCE Core Deflator YoY,14:30,Aug,3.9%,4.2%
+2023-09-29,US,MNI Chicago PMI,15:45,Sep,47.6,48.7
+2023-09-29,US,U. of Mich. Sentiment,16:00,Sep F,67.7,67.7
+2023-09-29,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-09-29,EC,ECB's Lagarde Speaks,--,--,--,--
