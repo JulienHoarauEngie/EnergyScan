@@ -1,52 +1,90 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-30 September 2023,--,--,--,--,--
-CH,Manufacturing PMI,03:30,Sep,50.1,49.7
-CH,Non-manufacturing PMI,03:30,Sep,51.6,51.0
-01 October 2023,--,--,--,--,--
-CH,Caixin China PMI Mfg,03:45,Sep,51.2,51.0
-CH,Caixin China PMI Services,03:45,Sep,52.0,51.8
-02 October 2023,--,--,--,--,--
-JN,BOJ Summary of Opinions (Sept. MPM),01:50,--,--,--
-JN,Tankan Large Mfg Index,01:50,3Q,6.0,5.0
-JN,Jibun Bank Japan PMI Mfg,02:30,Sep F,--,48.6
-UK,Nationwide House Px NSA YoY,08:00,Sep,-5.8%,-5.3%
-EC,Eurozone Manufacturing PMI,10:00,Sep F,43.4,43.4
-UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Sep F,--,44.2
-EC,Unemployment Rate,11:00,Aug,6.4%,6.4%
-US,S&P Global US Manufacturing PMI,15:45,Sep F,48.9,48.9
-US,Construction Spending MoM,16:00,Aug,0.6%,0.7%
-US,ISM Manufacturing,16:00,Sep,47.8,47.6
-US,Fed's Powel Participates in Roundtable Discussion,17:00,--,--,--
-03 October 2023,--,--,--,--,--
-US,Fed's Mester Speaks on Economic Outlook,01:30,--,--,--
-JN,Monetary Base YoY,01:50,Sep,1.6%,1.2%
-US,"Fed's Bostic Speaks on Eco Outlook, Inflation",14:00,--,--,--
-EC,ECB's Villeroy speaks in Paris,14:45,--,--,--
-US,JOLTS Job Openings,16:00,Aug,8900k,8827k
-US,Wards Total Vehicle Sales,--,Sep,15.40m,15.04m
-04 October 2023,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,02:30,Sep F,--,53.3
-EC,ECB's Lagarde Speaks,10:00,--,--,--
-EC,Eurozone Services PMI,10:00,Sep F,48.4,48.4
-UK,S&P Global/CIPS UK Services PMI,10:30,Sep F,--,47.2
-EC,Retail Sales MoM,11:00,Aug,-0.2%,-0.2%
-EC,PPI YoY,11:00,Aug,-11.7%,-7.6%
-US,ADP Employment Change,14:15,Sep,150k,177k
-US,S&P Global US Services PMI,15:45,Sep F,50.2,50.2
-US,Cap Goods Orders Nondef Ex Air,16:00,Aug F,--,0.9%
-US,ISM Services Index,16:00,Sep,53.5,54.5
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2169k
-05 October 2023,--,--,--,--,--
-GE,Trade Balance SA,08:00,Aug,13.0b,15.9b
-FR,Industrial Production MoM,08:45,Aug,-0.3%,0.8%
-US,Challenger Job Cuts YoY,13:30,Sep,--,266.9%
-US,Trade Balance,14:30,Aug,-$65.2b,-$65.0b
-US,Initial Jobless Claims,14:30,--,--,204k
-06 October 2023,--,--,--,--,--
-JN,Household Spending YoY,01:30,Aug,-3.9%,-5.0%
-JN,Leading Index CI,07:00,Aug P,109.1,108.2
-GE,Factory Orders MoM,08:00,Aug,2.3%,-11.7%
-FR,Trade Balance,08:45,Aug,--,-8089m
-US,Change in Nonfarm Payrolls,14:30,Sep,170k,187k
-US,Average Hourly Earnings YoY,14:30,Sep,4.3%,4.3%
+09 October 2023,--,--,--,--,--
+GE,Industrial Production SA MoM,08:00,Aug,0.0%,-0.8%
+EC,Sentix Investor Confidence,10:30,Oct,-23.0,-21.5
+CH,Aggregate Financing CNY,9-15,Sep,3800.0b,3120.0b
+10 October 2023,--,--,--,--,--
+IT,Industrial Production MoM,10:00,Aug,--,-0.7%
+UK,BOE releases minutes of financial policy meeting,11:30,,,
+US,NFIB Small Business Optimism,12:00,Sep,--,91.3
+US,Wholesale Inventories MoM,16:00,Aug F,--,-0.1%
+11 October 2023,--,--,--,--,--
+JN,Machine Tool Orders YoY,08:00,Sep P,--,-17.6%
+GE,CPI EU Harmonized YoY,08:00,Sep F,--,4.3%
+US,PPI Final Demand YoY,14:30,Sep,--,1.6%
+US,STEO Current Yr Crude Forecast,18:00,Oct,--,12.8
+US,FOMC Meeting Minutes,20:00,--,--,--
+12 October 2023,--,--,--,--,--
+JN,PPI YoY,01:50,Sep,2.4%,3.2%
+JN,Core Machine Orders MoM,01:50,Aug,0.6%,-1.1%
+UK,Monthly GDP (MoM),08:00,Aug,0.2%,-0.5%
+UK,Industrial Production MoM,08:00,Aug,-0.1%,-0.7%
+UK,Visible Trade Balance GBP/Mn,08:00,Aug,--,-£14064m
+EC,ECB's Villeroy Speaks at IIF Conference,10:30,--,--,--
+EC,ECB Publishes Account of September Meeting,13:30,--,--,--
+US,CPI YoY,14:30,Sep,3.6%,3.7%
+US,Initial Jobless Claims,14:30,--,--,207k
+US,DOE U.S. Crude Oil Inventories,17:00,--,--,-2224k
+13 October 2023,--,--,--,--,--
+JN,Money Stock M2 YoY,01:50,Sep,--,2.5%
+CH,CPI YoY,03:30,Sep,0.2%,0.1%
+FR,CPI EU Harmonized YoY,08:45,Sep F,--,5.6%
+EC,Industrial Production SA MoM,11:00,Aug,0.4%,-1.1%
+US,Import Price Index YoY,14:30,Sep,--,-3.0%
+US,Fed's Harker Speaks on 2023 Economic Outlook,15:00,--,--,--
+EC,ECB's Lagarde at IMF Panel ,15:00,--,--,--
+US,U. of Mich. Sentiment,16:00,Oct P,67.5,68.1
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+CH,Trade Balance,--,Sep,$73.70b,$68.36b
+16 October 2023,--,--,--,--,--
+CH,1-Yr Medium-Term Lending Facility Rate,03:20,--,2.5%,2.5%
+EC,ECB's Villeroy speaks in Paris,09:00,--,--,--
+EC,Trade Balance SA,11:00,Aug,--,2.9b
+US,Empire Manufacturing,14:30,Oct,--,1.9
+US,Fed's Harker Speaks on the Economic Outlook,16:30,--,--,--
+17 October 2023,--,--,--,--,--
+UK,Jobless Claims Change,08:00,Sep,--,0.9k
+GE,ZEW Survey Expectations,11:00,Oct,--,-11.4
+US,Retail Sales Control Group,14:30,Sep,--,0.1%
+US,Industrial Production MoM,15:15,Sep,--,0.4%
+US,Business Inventories,16:00,Aug,--,0.0%
+US,NAHB Housing Market Index,16:00,Oct,--,45.0
+US,Net Long-term TIC Flows,22:00,Aug,--,$8.8b
+18 October 2023,--,--,--,--,--
+CH,GDP YoY,04:00,3Q,4.5%,6.3%
+CH,Industrial Production YoY,04:00,Sep,4.2%,4.5%
+CH,Retail Sales YoY,04:00,Sep,4.7%,4.6%
+UK,CPI YoY,08:00,Sep,--,6.7%
+UK,PPI Output NSA YoY,08:00,Sep,--,-0.4%
+UK,House Price Index YoY,10:30,Aug,--,0.6%
+EC,CPI YoY,11:00,Sep F,--,4.3%
+EC,Construction Output MoM,11:00,Aug,--,0.8%
+US,Building Permits MoM,14:30,Sep,--,6.9%
+US,Housing Starts MoM,14:30,Sep,--,-11.3%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+US,Federal Reserve Releases Beige Book,20:00,--,--,--
+19 October 2023,--,--,--,--,--
+JN,Trade Balance,01:50,Sep,--,-¥930.5b
+CH,New Home Prices MoM,03:30,Sep,--,-0.3%
+FR,Business Confidence,08:45,Oct,--,100.0
+EC,ECB Current Account SA,10:00,Aug,--,20.9b
+US,Initial Jobless Claims,14:30,--,--,--
+US,Philadelphia Fed Business Outlook,14:30,Oct,--,-13.5
+US,Existing Home Sales MoM,16:00,Sep,-4.0%,-0.7%
+US,Leading Index,16:00,Sep,--,-0.4%
+20 October 2023,--,--,--,--,--
+UK,GfK Consumer Confidence,01:01,Oct,--,-21.0
+JN,Natl CPI Ex Fresh Food YoY,01:30,Sep,--,3.1%
+CH,5-Year Loan Prime Rate,03:15,--,4.20%,4.20%
+CH,1-Year Loan Prime Rate,03:15,--,3.45%,3.45%
+GE,PPI YoY,08:00,Sep,--,-12.6%
+UK,Retail Sales Inc Auto Fuel MoM,08:00,Sep,--,0.4%
+UK,PSNB ex Banking Groups,08:00,Sep,--,11.6b
+EC,EU27 New Car Registrations,08:00,Sep,--,21.0%
+US,Fed's Harker Speaks on Economic Outlook,15:00,--,--,--
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+FR,Retail Sales SA YoY,--,Sep,--,-4.0%
+UK,United Kingdom Sovereign Rating to be reviewed by Moody's,--,--,--,--
+IT,Italy Sovereign Rating to be reviewed by S&P,--,--,--,--
+UK,United Kingdom Sovereign Rating to be reviewed by S&P,--,--,--,--
+FR,France Sovereign Rating to be reviewed by Moody's,--,--,--,--
