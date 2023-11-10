@@ -1,36 +1,46 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2023-11-06,JN,BOJ Minutes of Sept. Meeting,00:50,--,--,--
-2023-11-06,JN,Jibun Bank Japan PMI Services,01:30,Oct F,--,51.1
-2023-11-06,JN,BOJ Governor Ueda Press Conference,05:10,--,--,--
-2023-11-06,GE,Factory Orders MoM,08:00,Sep,-2.0%,3.9%
-2023-11-06,EC,HCOB Eurozone Services PMI,10:00,Oct F,47.8,47.8
-2023-11-06,EC,Sentix Investor Confidence,10:30,Nov,-21.7,-21.9
-2023-11-07,JN,Household Spending YoY,00:30,Sep,-2.7%,-2.5%
-2023-11-07,GE,Industrial Production SA MoM,08:00,Sep,-0.5%,-0.2%
-2023-11-07,EC,PPI YoY,11:00,Sep,-12.9%,-11.5%
-2023-11-07,US,Trade Balance,14:30,Sep,-$60.5b,-$58.3b
-2023-11-07,US,STEO Current Yr Crude Forecast,18:00,Nov,--,12.9
-2023-11-07,CH,Trade Balance,--,Oct,$84.20b,$77.71b
-2023-11-08,JN,Leading Index CI,06:00,Sep P,108.7,109.2
-2023-11-08,GE,CPI EU Harmonized YoY,08:00,Oct F,--,3.0%
-2023-11-08,FR,Trade Balance,08:45,Sep,--,-8202m
-2023-11-08,UK,BOE Governor Bailey speaks,10:30,--,--,--
-2023-11-08,EC,Retail Sales MoM,11:00,Sep,0.1%,-1.2%
-2023-11-09,JN,Trade Balance BoP Basis,00:50,Sep,¥231.6b,-¥749.5b
-2023-11-09,UK,RICS House Price Balance,01:01,Oct,-0.6,-0.7
-2023-11-09,CH,CPI YoY,02:30,Oct,-0.2%,0.0%
-2023-11-09,CH,PPI YoY,02:30,Oct,-2.8%,-2.5%
-2023-11-09,FR,Wages QoQ,08:45,3Q P,--,1.0%
-2023-11-09,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-2023-11-09,US,Initial Jobless Claims,14:30,--,--,217k
-2023-11-09,EC,ECB's Lagarde Speaks,18:30,--,--,--
-2023-11-09,US,Fed's Powell Speaks at IMF Conference,20:00,--,--,--
-2023-11-09,CH,Aggregate Financing CNY,9-15,Oct,1916.5b,4120.0b
-2023-11-10,JN,Money Stock M2 YoY,00:50,Oct,--,2.4%
-2023-11-10,UK,Monthly GDP (MoM),08:00,Sep,0.0%,0.2%
-2023-11-10,UK,Industrial Production MoM,08:00,Sep,-0.1%,-0.7%
-2023-11-10,UK,Trade Balance GBP/Mn,08:00,Sep,--,-£3415m
-2023-11-10,UK,GDP QoQ,08:00,3Q P,-0.1%,0.2%
-2023-11-10,IT,Industrial Production MoM,10:00,Sep,-0.2%,0.2%
-2023-11-10,US,U. of Mich. Sentiment,16:00,Nov P,63.5,63.8
-2023-11-10,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-11-13,CH,Aggregate Financing CNY,10-15,Oct,1950.0b,4120.0b
+2023-11-13,JN,PPI YoY,00:50,Oct,0.9%,2.0%
+2023-11-13,JN,Machine Tool Orders YoY,07:00,Oct P,--,-11.2%
+2023-11-14,UK,Jobless Claims Change,08:00,Oct,--,20.4k
+2023-11-14,UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Sep,7.7%,7.8%
+2023-11-14,GE,ZEW Survey Expectations,11:00,Nov,4.0,-1.1
+2023-11-14,EC,GDP SA QoQ,11:00,3Q P,-0.1%,-0.1%
+2023-11-14,EC,Employment QoQ,11:00,3Q P,--,0.2%
+2023-11-14,US,NFIB Small Business Optimism,12:00,Oct,--,90.8
+2023-11-14,US,CPI YoY,14:30,Oct,3.3%,3.7%
+2023-11-15,JN,GDP SA QoQ,00:50,3Q P,-0.1%,1.2%
+2023-11-15,CH,Industrial Production YoY,03:00,Oct,4.5%,4.5%
+2023-11-15,CH,Retail Sales YoY,03:00,Oct,7.0%,5.5%
+2023-11-15,CH,Surveyed Jobless Rate,03:00,Oct,5.0%,5.0%
+2023-11-15,FR,ILO Unemployment Rate,07:30,3Q,--,7.2%
+2023-11-15,UK,CPI YoY,08:00,Oct,4.8%,6.7%
+2023-11-15,UK,PPI Output NSA YoY,08:00,Oct,--,-0.1%
+2023-11-15,FR,CPI EU Harmonized YoY,08:45,Oct F,--,4.5%
+2023-11-15,EC,Industrial Production SA MoM,11:00,Sep,-0.9%,0.6%
+2023-11-15,EC,Trade Balance SA,11:00,Sep,--,11.9b
+2023-11-15,EC,EU Commission Economic Forecasts,11:00,--,--,--
+2023-11-15,US,Retail Sales Control Group,14:30,Oct,0.2%,0.6%
+2023-11-15,US,PPI Final Demand YoY,14:30,Oct,--,2.2%
+2023-11-15,US,Empire Manufacturing,14:30,Nov,-2.1,-4.6
+2023-11-15,US,Business Inventories,16:00,Sep,0.4%,0.4%
+2023-11-15,US,DOE U.S. Crude Oil Inventories,16:30,--,--,773k
+2023-11-16,JN,Trade Balance Adjusted,00:50,Oct,-¥712.1b,-¥434.1b
+2023-11-16,JN,Core Machine Orders MoM,00:50,Sep,0.9%,-0.5%
+2023-11-16,CH,New Home Prices MoM,02:30,Oct,--,-0.3%
+2023-11-16,EC,ECB's Lagarde Speaks,12:30,--,--,--
+2023-11-16,US,Import Price Index YoY,14:30,Oct,--,-1.7%
+2023-11-16,US,Initial Jobless Claims,14:30,--,--,217k
+2023-11-16,US,Philadelphia Fed Business Outlook,14:30,Nov,-11.0,-9.0
+2023-11-16,US,Industrial Production MoM,15:15,Oct,-0.4%,0.3%
+2023-11-16,US,NAHB Housing Market Index,16:00,Nov,40.0,40.0
+2023-11-16,US,Kansas City Fed Manf. Activity,17:00,Nov,--,-8.0
+2023-11-16,US,Net Long-term TIC Flows,22:00,Sep,--,$63.5b
+2023-11-17,UK,Retail Sales Inc Auto Fuel MoM,08:00,Oct,0.3%,-0.9%
+2023-11-17,EC,ECB's Lagarde Speaks in Frankfurt,09:00,--,--,--
+2023-11-17,EC,ECB Current Account SA,10:00,Sep,--,27.7b
+2023-11-17,EC,CPI YoY,11:00,Oct F,2.9%,4.3%
+2023-11-17,US,Building Permits MoM,14:30,Oct,-1.4%,-4.4%
+2023-11-17,US,Housing Starts MoM,14:30,Oct,-0.6%,7.0%
+2023-11-17,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2023-11-17,IT,Italy Sovereign Rating to Be Reviewed by Moody's,--,--,--,--
