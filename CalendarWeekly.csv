@@ -1,51 +1,96 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-13 November 2023,--,--,--,--,--
-CH,Aggregate Financing CNY,10-15,Oct,1950.0b,4120.0b
-JN,PPI YoY,00:50,Oct,0.9%,2.0%
-JN,Machine Tool Orders YoY,07:00,Oct P,--,-11.2%
-14 November 2023,--,--,--,--,--
-UK,Jobless Claims Change,08:00,Oct,--,20.4k
-UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Sep,7.7%,7.8%
-GE,ZEW Survey Expectations,11:00,Nov,4.0,-1.1
-EC,GDP SA QoQ,11:00,3Q P,-0.1%,-0.1%
-EC,Employment QoQ,11:00,3Q P,--,0.2%
-US,NFIB Small Business Optimism,12:00,Oct,--,90.8
-US,CPI YoY,14:30,Oct,3.3%,3.7%
-15 November 2023,--,--,--,--,--
-JN,GDP SA QoQ,00:50,3Q P,-0.1%,1.2%
-CH,Industrial Production YoY,03:00,Oct,4.5%,4.5%
-CH,Retail Sales YoY,03:00,Oct,7.0%,5.5%
-CH,Surveyed Jobless Rate,03:00,Oct,5.0%,5.0%
-FR,ILO Unemployment Rate,07:30,3Q,--,7.2%
-UK,CPI YoY,08:00,Oct,4.8%,6.7%
-UK,PPI Output NSA YoY,08:00,Oct,--,-0.1%
-FR,CPI EU Harmonized YoY,08:45,Oct F,--,4.5%
-EC,Industrial Production SA MoM,11:00,Sep,-0.9%,0.6%
-EC,Trade Balance SA,11:00,Sep,--,11.9b
-EC,EU Commission Economic Forecasts,11:00,--,--,--
-US,Retail Sales Control Group,14:30,Oct,0.2%,0.6%
-US,PPI Final Demand YoY,14:30,Oct,--,2.2%
-US,Empire Manufacturing,14:30,Nov,-2.1,-4.6
-US,Business Inventories,16:00,Sep,0.4%,0.4%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,773k
-16 November 2023,--,--,--,--,--
-JN,Trade Balance Adjusted,00:50,Oct,-¥712.1b,-¥434.1b
-JN,Core Machine Orders MoM,00:50,Sep,0.9%,-0.5%
-CH,New Home Prices MoM,02:30,Oct,--,-0.3%
-EC,ECB's Lagarde Speaks,12:30,--,--,--
-US,Import Price Index YoY,14:30,Oct,--,-1.7%
-US,Initial Jobless Claims,14:30,--,--,217k
-US,Philadelphia Fed Business Outlook,14:30,Nov,-11.0,-9.0
-US,Industrial Production MoM,15:15,Oct,-0.4%,0.3%
-US,NAHB Housing Market Index,16:00,Nov,40.0,40.0
-US,Kansas City Fed Manf. Activity,17:00,Nov,--,-8.0
-US,Net Long-term TIC Flows,22:00,Sep,--,$63.5b
-17 November 2023,--,--,--,--,--
-UK,Retail Sales Inc Auto Fuel MoM,08:00,Oct,0.3%,-0.9%
-EC,ECB's Lagarde Speaks in Frankfurt,09:00,--,--,--
-EC,ECB Current Account SA,10:00,Sep,--,27.7b
-EC,CPI YoY,11:00,Oct F,2.9%,4.3%
-US,Building Permits MoM,14:30,Oct,-1.4%,-4.4%
-US,Housing Starts MoM,14:30,Oct,-0.6%,7.0%
+20 November 2023,--,--,--,--,--
+CH,5-Year Loan Prime Rate,02:15,--,4.20%,4.20%
+CH,1-Year Loan Prime Rate,02:15,--,3.45%,3.45%
+GE,PPI YoY,08:00,Oct,-11.0%,-14.7%
+EC,Construction Output MoM,11:00,Sep,--,-1.1%
+US,Leading Index,16:00,Oct,-0.6%,-0.7%
+21 November 2023,--,--,--,--,--
+UK,PSNB ex Banking Groups,08:00,Oct,--,14.3b
+EC,EU27 New Car Registrations,08:00,Oct,--,9.2%
+UK,Bank of England Governor testifies to UK Parliament,11:15,--,--,--
+US,Chicago Fed Nat Activity Index,14:30,Oct,--,0.02
+US,Existing Home Sales MoM,16:00,Oct,-1.5%,-2.0%
+EC,"ECB's Lagarde, Germany's Lindner Speaks in Berlin",17:00,--,--,--
+US,FOMC Meeting Minutes,20:00,--,--,--
+FR,Retail Sales SA YoY,--,Oct,--,-4.3%
+22 November 2023,--,--,--,--,--
+UK,CBI Trends Total Orders,12:00,Nov,--,-26.0
+US,Initial Jobless Claims,14:30,--,--,231k
+US,Cap Goods Orders Nondef Ex Air,14:30,Oct P,0.2%,0.5%
+US,U. of Mich. Sentiment,16:00,Nov F,60.5,60.4
+EC,Consumer Confidence,16:00,Nov P,-17.6,-17.9
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,3592k
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-IT,Italy Sovereign Rating to Be Reviewed by Moody's,--,--,--,--
+23 November 2023,--,--,--,--,--
+FR,Business Confidence,08:45,Nov,98.0,98.0
+EC,HCOB Eurozone Composite PMI,10:00,Nov P,47.0,46.5
+UK,S&P Global/CIPS UK Composite PMI,10:30,Nov P,--,48.7
+EC,ECB Publishes Account of October Policy Meeting,13:30,--,--,--
+24 November 2023,--,--,--,--,--
+JN,Natl CPI YoY,00:30,Oct,3.4%,3.0%
+UK,GfK Consumer Confidence,01:01,Nov,-31.0,-30.0
+JN,Jibun Bank Japan PMI Composite,01:30,Nov P,--,50.5
+JN,Leading Index CI,06:00,Sep F,--,108.7
+JN,Nationwide Dept Sales YoY,06:30,Oct,--,9.2%
+GE,GDP SA QoQ,08:00,3Q F,-0.1%,-0.1%
+GE,IFO Business Climate,10:00,Nov,87.4,86.9
+EC,ECB's Lagarde Speaks,11:00,--,--,--
+US,S&P Global US Composite PMI,15:45,Nov P,--,50.7
+27 November 2023,--,--,--,--,--
+CH,Industrial Profits YoY,02:30,Oct,--,11.9%
+UK,CBI Total Dist. Reported Sales,12:00,Nov,--,-21.0
+US,New Home Sales MoM,16:00,Oct,--,12.3%
+US,Dallas Fed Manf. Activity,16:30,Nov,--,-19.2
+GE,Import Price Index YoY,27-30,Oct,--,-14.3%
+GE,Retail Sales MoM,27-02,Oct,--,-0.8%
+28 November 2023,--,--,--,--,--
+GE,GfK Consumer Confidence,08:00,Dec,--,-28.1
+FR,Consumer Confidence,08:45,Nov,--,84.0
+EC,M3 Money Supply YoY,10:00,Oct,--,-1.2%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Sep,--,2.2%
+US,Fed's Waller Speaks on the Economic Outlook,16:00,--,--,--
+US,Conf. Board Consumer Confidence,16:00,Nov,--,102.6
+US,Richmond Fed Manufact. Index,16:00,Nov,--,3.0
+29 November 2023,--,--,--,--,--
+FR,Total Payrolls,07:30,3Q,--,0.1%
+IT,Economic Sentiment,10:00,Nov,--,103.9
+UK,Mortgage Approvals,10:30,Oct,--,43.3k
+EC,OECD Publishes Economic Outlook,11:00,--,--,--
+EC,Economic Confidence,11:00,Nov,--,93.3
+GE,CPI EU Harmonized YoY,14:00,Nov P,--,3.0%
+US,Wholesale Inventories MoM,14:30,Oct P,--,0.2%
+US,Advance Goods Trade Balance,14:30,Oct,--,-$85.8b
+US,GDP Annualized QoQ,14:30,3Q S,--,4.9%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+US,Federal Reserve Releases Beige Book,20:00,--,--,--
+30 November 2023,--,--,--,--,--
+JN,Retail Sales MoM,00:50,Oct,--,-0.1%
+JN,Industrial Production MoM,00:50,Oct P,--,0.5%
+CH,Composite PMI,02:30,Nov,--,50.7
+JN,Housing Starts YoY,06:00,Oct,--,-6.8%
+JN,Consumer Confidence Index,06:00,Nov,--,35.7
+FR,CPI EU Harmonized YoY,08:45,Nov P,--,4.5%
+FR,Consumer Spending MoM,08:45,Oct,--,0.2%
+FR,PPI YoY,08:45,Oct,--,-1.7%
+FR,GDP QoQ,08:45,3Q F,--,0.1%
+GE,Unemployment Change (000's),09:55,Nov,--,30.0k
+EC,CPI Estimate YoY,11:00,Nov,--,2.9%
+EC,Unemployment Rate,11:00,Oct,--,6.5%
+US,Personal Spending,14:30,Oct,--,0.7%
+US,Initial Jobless Claims,14:30,--,--,--
+US,PCE Core Deflator YoY,14:30,Oct,--,3.7%
+US,Pending Home Sales MoM,16:00,Oct,--,1.1%
+01 December 2023,--,--,--,--,--
+JN,Jobless Rate,00:30,Oct,--,2.6%
+JN,Jibun Bank Japan PMI Mfg,01:30,Nov F,--,--
+CH,Caixin China PMI Mfg,02:45,Nov,--,49.5
+IT,GDP WDA QoQ,10:00,3Q F,--,0.0%
+EC,HCOB Eurozone Manufacturing PMI,10:00,Nov F,--,--
+UK,S&P Global/CIPS UK Manufacturing PMI,10:30,Nov F,--,--
+US,S&P Global US Manufacturing PMI,15:45,Nov F,--,--
+US,Construction Spending MoM,16:00,Oct,--,0.4%
+US,ISM Manufacturing,16:00,Nov,--,46.7
+US,Wards Total Vehicle Sales,--,Nov,--,15.50m
+UK,United Kingdom Sovereign Rating to be reviewed by Fitch,--,--,--,--
+FR,France Sovereign Rating to be reviewed by S&P,--,--,--,--
