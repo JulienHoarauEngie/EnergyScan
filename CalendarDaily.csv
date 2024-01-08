@@ -1,55 +1,40 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2023-12-25,JN,Nationwide Dept Sales YoY,06:30,Nov,--,6.1%
-2023-12-26,JN,Jobless Rate,00:30,Nov,2.6%,2.5%
-2023-12-26,US,Chicago Fed Nat Activity Index,14:30,Nov,--,-0.5
-2023-12-26,US,FHFA House Price Index MoM,15:00,Oct,--,0.6%
-2023-12-26,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Oct,--,3.9%
-2023-12-26,US,Dallas Fed Manf. Activity,16:30,Dec,--,-19.9
-2023-12-27,CH,Industrial Profits YoY,02:30,Nov,--,2.7%
-2023-12-27,JN,Housing Starts YoY,06:00,Nov,-3.9%,-6.3%
-2023-12-27,US,Richmond Fed Manufact. Index,16:00,Dec,--,-5.0
-2023-12-27,GE,Retail Sales MoM,27-2,Nov,-0.5%,1.1%
-2023-12-28,JN,Retail Sales MoM,00:50,Nov,0.5%,-1.6%
-2023-12-28,JN,Industrial Production MoM,00:50,Nov P,-1.4%,1.3%
-2023-12-28,US,Advance Goods Trade Balance,14:30,Nov,-$89.5b,-$89.8b
-2023-12-28,US,Wholesale Inventories MoM,14:30,Nov P,-0.1%,-0.4%
-2023-12-28,US,Initial Jobless Claims,14:30,--,--,205k
-2023-12-28,US,Pending Home Sales MoM,16:00,Nov,1.0%,-1.5%
-2023-12-28,US,DOE U.S. Crude Oil Inventories,17:00,--,--,2909k
-2023-12-29,UK,Nationwide House Px NSA YoY,08:00,Dec,--,-2.0%
-2023-12-29,US,MNI Chicago PMI,15:45,Dec,50.0,55.8
-2023-12-29,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2023-12-31,CH,Manufacturing PMI,02:30,Dec,50.0,49.4
-2023-12-31,CH,Non-manufacturing PMI,02:30,Dec,50.5,50.2
-2024-01-02,CH,Caixin China PMI Mfg,02:45,Dec,--,50.7
-2024-01-02,EC,M3 Money Supply YoY,10:00,Nov,-0.20%,-1.00%
-2024-01-02,EC,HCOB Eurozone Manufacturing PMI,10:00,Dec F,44.2,44.2
-2024-01-02,UK,S&P Global UK Manufacturing PMI,10:30,Dec F,46.4,46.4
-2024-01-02,US,S&P Global US Manufacturing PMI,15:45,Dec F,--,48.2
-2024-01-02,US,Construction Spending MoM,16:00,Nov,0.0,0.6%
-2024-01-03,GE,Unemployment Change (000's),09:55,Dec,20.0k,22.0k
-2024-01-03,US,Fed's Barkin Speaks About Economic Outlook,14:30,--,--,--
-2024-01-03,US,ISM Manufacturing,16:00,Dec,47.4,46.7
-2024-01-03,US,JOLTS Job Openings,16:00,Nov,8750k,8733k
-2024-01-03,US,FOMC Meeting Minutes,20:00,--,--,--
-2024-01-03,US,Wards Total Vehicle Sales,--,Dec,15.50m,15.32m
-2024-01-04,JN,Jibun Bank Japan PMI Mfg,01:30,Dec F,--,47.7
-2024-01-04,CH,Caixin China PMI Services,02:45,Dec,--,51.5
-2024-01-04,FR,CPI EU Harmonized YoY,08:45,Dec P,4.2%,3.9%
-2024-01-04,EC,HCOB Eurozone Services PMI,10:00,Dec F,48.1,48.1
-2024-01-04,UK,Mortgage Approvals,10:30,Nov,--,47.4k
-2024-01-04,UK,S&P Global UK Services PM,10:30,Dec F,52.7,52.7
-2024-01-04,US,Challenger Job Cuts YoY,13:30,Dec,--,-0.4
-2024-01-04,GE,CPI EU Harmonized YoY,14:00,Dec P,3.9%,2.3%
-2024-01-04,US,ADP Employment Change,14:15,Dec,110k,103k
-2024-01-04,US,Initial Jobless Claims,14:30,--,--,--
-2024-01-04,US,S&P Global US Services PMI,15:45,Dec F,--,51.3
-2024-01-04,US,DOE U.S. Crude Oil Inventories,17:00,--,--,--
-2024-01-05,JN,Monetary Base YoY,00:50,Dec,--,8.9%
-2024-01-05,JN,Jibun Bank Japan PMI Services,01:30,Dec F,--,52.0
-2024-01-05,JN,Consumer Confidence Index,06:00,Dec,--,36.1
-2024-01-05,EC,CPI Estimate YoY,11:00,Dec,2.9%,2.4%
-2024-01-05,US,Change in Nonfarm Payrolls,14:30,Dec,158k,199k
-2024-01-05,US,Average Hourly Earnings YoY,14:30,Dec,--,4.0%
-2024-01-05,US,ISM Services Index,16:00,Dec,52.6,52.7
-2024-01-05,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2024-01-08,GE,Factory Orders MoM,08:00,Nov,1.1%,-3.7%
+2024-01-08,GE,Trade Balance SA,08:00,Nov,18.0b,17.8b
+2024-01-08,EC,Sentix Investor Confidence,10:30,Jan,-15.8,-16.8
+2024-01-08,EC,Retail Sales MoM,11:00,Nov,-0.3%,0.1%
+2024-01-08,EC,Economic Confidence,11:00,Dec,94.2,93.8
+2024-01-08,US,Fed's Bostic Speaks on the Economic Outlook,18:30,--,--,--
+2024-01-08,US,Consumer Credit,21:00,Nov,$9.000b,$5.134b
+2024-01-09,CH,Aggregate Financing CNY,9-15,Dec,2150.0b,2450.0b
+2024-01-09,JN,Tokyo CPI YoY,00:30,Dec,2.5%,2.6%
+2024-01-09,JN,Household Spending YoY,00:30,Nov,-2.3%,-2.5%
+2024-01-09,GE,Industrial Production SA MoM,08:00,Nov,0.3%,-0.4%
+2024-01-09,FR,Trade Balance,08:45,Nov,--,-8597m
+2024-01-09,EC,Unemployment Rate,11:00,Nov,6.5%,6.5%
+2024-01-09,US,NFIB Small Business Optimism,12:00,Dec,91.0,90.6
+2024-01-09,US,Trade Balance,14:30,Nov,-$65.0b,-$64.3b
+2024-01-09,US,STEO Current Yr Crude Forecast,18:00,Jan,--,12.9
+2024-01-09,EC,ECB's Villeroy speaks,18:30,--,--,--
+2024-01-10,FR,Industrial Production MoM,08:45,Nov,0.0%,-0.3%
+2024-01-10,EC,ECB's Schnabel Speaks,15:00,--,--,--
+2024-01-10,UK,BOE Governor Bailey testifies to Parliament,15:15,--,--,--
+2024-01-10,US,Wholesale Inventories MoM,16:00,Nov F,-0.2%,-0.2%
+2024-01-10,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-5503k
+2024-01-10,US,Fed's Williams Gives Speech on 2024 Economic Outlook,21:15,--,--,--
+2024-01-11,JN,Leading Index CI,06:00,Nov P,107.9,108.9
+2024-01-11,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+2024-01-11,IT,Industrial Production MoM,10:00,Nov,-0.2%,-0.2%
+2024-01-11,US,CPI YoY,14:30,Dec,3.2%,3.1%
+2024-01-11,US,Initial Jobless Claims,14:30,--,210k,202k
+2024-01-11,GE,Current Account Balance,--,Nov,--,21.4b
+2024-01-12,CH,CPI YoY,02:30,Dec,-0.4%,-0.5%
+2024-01-12,CH,PPI YoY,02:30,Dec,-2.6%,-3.0%
+2024-01-12,UK,Monthly GDP (MoM),08:00,Nov,0.2%,-0.3%
+2024-01-12,UK,Industrial Production MoM,08:00,Nov,0.3%,-0.8%
+2024-01-12,UK,Trade Balance GBP/Mn,08:00,Nov,-£2900m,-£4480m
+2024-01-12,FR,Consumer Spending MoM,08:45,Nov,-0.2%,-0.9%
+2024-01-12,FR,CPI EU Harmonized YoY,08:45,Dec F,4.1%,4.1%
+2024-01-12,US,PPI Final Demand YoY,14:30,Dec,1.3%,0.9%
+2024-01-12,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,501.0
+2024-01-12,CH,Trade Balance,--,Dec,$76.00b,$68.39b
