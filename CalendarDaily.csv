@@ -1,34 +1,40 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2024-02-05,JN,Jibun Bank Japan PMI Services,01:30,Jan F,--,52.7
-2024-02-05,CH,Caixin China PMI Services,02:45,Jan,53.0,52.9
-2024-02-05,GE,Trade Balance SA,08:00,Dec,--,20.4b
-2024-02-05,EC,Eurozone Services PMI,10:00,Jan F,48.4,48.4
-2024-02-05,EC,Sentix Investor Confidence,10:30,Feb,-15.0,-15.8
-2024-02-05,UK,S&P Global UK Services PMI,10:30,Jan F,53.8,53.8
-2024-02-05,EC,PPI YoY,11:00,Dec,--,-8.8%
-2024-02-05,EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
-2024-02-05,US,S&P Global US Services PMI,15:45,Jan F,--,52.9
-2024-02-05,US,ISM Services Index,16:00,Jan,52.1,50.6
-2024-02-05,US,Senior Loan Officer Opinion Survey ,20:00,--,--,--
-2024-02-06,JN,Household Spending YoY,00:30,Dec,-2.0%,-2.9%
-2024-02-06,GE,Factory Orders MoM,08:00,Dec,0.5%,0.3%
-2024-02-06,IT,Economic Sentiment,10:00,Jan,--,107.2
-2024-02-06,EC,Retail Sales MoM,11:00,Dec,-1.4%,-0.3%
-2024-02-06,US,STEO Current Yr Crude Forecast,18:00,Feb,--,13.2
-2024-02-06,US,Fed's Mester Speaks on Economic Outlook,18:00,--,--,--
-2024-02-07,JN,Leading Index CI,06:00,Dec P,109.4,107.6
-2024-02-07,GE,Industrial Production SA MoM,08:00,Dec,-0.2%,-0.7%
-2024-02-07,FR,Private Sector Payrolls QoQ,08:45,4Q P,--,0.1%
-2024-02-07,FR,Trade Balance,08:45,Dec,--,-5943m
-2024-02-07,US,Trade Balance,14:30,Dec,-$62.3b,-$63.2b
-2024-02-07,US,DOE U.S. Crude Oil Inventories,16:30,--,--,1234k
-2024-02-07,US,Consumer Credit,21:00,Dec,$16.500b,$23.751b
-2024-02-08,CH,CPI YoY,02:30,Jan,-0.5%,-0.3%
-2024-02-08,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-2024-02-08,US,Initial Jobless Claims,14:30,--,--,224k
-2024-02-08,US,Nevada GOP Caucus,--,--,--,--
-2024-02-09,JN,Money Stock M2 YoY,00:50,Jan,--,2.3%
-2024-02-09,GE,CPI EU Harmonized YoY,08:00,Jan F,3.1%,3.1%
-2024-02-09,FR,Wages QoQ,08:45,4Q P,--,0.0
-2024-02-09,IT,Industrial Production MoM,10:00,Dec,--,-1.5%
-2024-02-09,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2024-02-12,US,NY Fed 1-Yr Inflation Expectations,17:00,Jan,--,3.0%
+2024-02-12,UK,BOE Governor Andrew Bailey speaks,19:00,--,--,--
+2024-02-13,JN,PPI YoY,00:50,Jan,0.1%,0.0%
+2024-02-13,JN,Machine Tool Orders YoY,07:00,Jan P,--,-9.6%
+2024-02-13,FR,ILO Unemployment Rate,07:30,4Q,7.4%,7.4%
+2024-02-13,UK,Payrolled Employees Monthly Change,08:00,Jan,-20k,-24k
+2024-02-13,UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Dec,6.0%,6.6%
+2024-02-13,GE,ZEW Survey Expectations,11:00,Feb,17.3,15.2
+2024-02-13,US,NFIB Small Business Optimism,12:00,Jan,--,91.9
+2024-02-13,US,CPI YoY,14:30,Jan,2.9%,3.4%
+2024-02-14,UK,CPI YoY,08:00,Jan,4.2%,4.0%
+2024-02-14,UK,PPI Output NSA YoY,08:00,Jan,-0.4%,0.1%
+2024-02-14,UK,House Price Index YoY,10:30,Dec,--,-2.1%
+2024-02-14,EC,GDP SA QoQ,11:00,4Q P,0.0%,0.0%
+2024-02-14,EC,Employment QoQ,11:00,4Q P,--,0.2%
+2024-02-14,EC,Industrial Production SA MoM,11:00,Dec,-0.2%,-0.3%
+2024-02-14,US,DOE U.S. Crude Oil Inventories,16:30,--,--,5520k
+2024-02-15,JN,GDP SA QoQ,00:50,4Q P,0.3%,-0.7%
+2024-02-15,UK,Monthly GDP (MoM),08:00,Dec,-0.2%,0.3%
+2024-02-15,UK,Industrial Production MoM,08:00,Dec,-0.1%,0.3%
+2024-02-15,UK,Trade Balance GBP/Mn,08:00,Dec,-£1700m,-£1408m
+2024-02-15,UK,GDP QoQ,08:00,4Q P,0.0%,-0.1%
+2024-02-15,EC,ECB's Lagarde Speaks,09:00,--,--,--
+2024-02-15,US,Empire Manufacturing,14:30,Feb,-10.0,-43.7
+2024-02-15,US,Retail Sales Advance MoM,14:30,Jan,-0.2%,0.6%
+2024-02-15,US,Philadelphia Fed Business Outlook,14:30,Feb,-9.0,-10.6
+2024-02-15,US,Import Price Index YoY,14:30,Jan,--,-1.6%
+2024-02-15,US,Initial Jobless Claims,14:30,--,--,218k
+2024-02-15,US,Industrial Production MoM,15:15,Jan,0.4%,0.1%
+2024-02-15,US,Business Inventories,16:00,Dec,0.4%,-0.1%
+2024-02-15,US,NAHB Housing Market Index,16:00,Feb,--,44.0
+2024-02-15,US,Net Long-term TIC Flows,22:00,Dec,--,$126.1b
+2024-02-16,UK,Retail Sales Inc Auto Fuel YoY,08:00,Jan,-1.4%,-2.4%
+2024-02-16,FR,CPI EU Harmonized YoY,08:45,Jan F,3.4%,3.4%
+2024-02-16,US,Housing Starts MoM,14:30,Jan,0.0%,-4.3%
+2024-02-16,US,Building Permits MoM,14:30,Jan,1.5%,1.9%
+2024-02-16,US,PPI Final Demand YoY,14:30,Jan,--,1.0%
+2024-02-16,US,U. of Mich. Sentiment,16:00,Feb P,79.0,79.0
+2024-02-16,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
