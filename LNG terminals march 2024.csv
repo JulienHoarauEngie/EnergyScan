@@ -1,0 +1,44 @@
+name,type,longitude,latitude,capacity(GWh/d),storage(*1000m3 LNG)
+Zeebrugge,onshore,3.226454,51.352607,541,566
+Krk Island,FSRU,14.511021,45.401756,85.5,140
+Dunkerque LNG,onshore,2.201389,51.038233,520,600
+Fos Cavaou,onshore,4.900077,43.42558,300,330
+Fos Tonkin,onshore,4.848312908,43.45611816,95.9,80
+Montoir de Bretagne,onshore,-2.137337,47.303507,337,360
+Revithoussa,onshore,23.403324,37.96,269.9,225
+OLT Offshore Toscana,FSRU,10.304468,43.545909,166.5,138
+Panigaglia,onshore,9.831326,44.074267,119.5,75
+Piombino, FSRU, 10.527, 42.923, 145, 0
+Rovigo,offshore,11.875,45.071,270,250
+Porto Levante,onshore,12.246093,45.058992,274.3,250
+Independence,FSRU,21.137307,55.664622,122.4,170
+Delimara,FSRU,14.554347,35.826672,22,125
+Gate terminal,onshore,4.072038,51.974241,461,540
+Swinoujscie,onshore,14.295513,53.906852,220,320
+Sines,onshore,-8.858809,37.936488,200,390
+Kaliningrad,FSRU,20.362926,54.983699,111.5,1
+Barcelona,onshore,2.151423,41.33112,542.9,760
+Bilbao,onshore,-3.096284,43.364823,222.7,450
+Cartagena,onshore,-0.9595,37.57457,375.8,587
+Gijon (Musel),onshore,-5.6934,43.5696,211,300
+Huelva,onshore,-6.911,37.17355,375.8,620
+Mugardos,onshore,-8.2370391,43.46150191,114.9,300
+Sagunto,onshore,-0.218055,39.637265,278.3,600
+Aliaga Etki,FSRU,27.129,38.422,220,167
+Aliaga Izmir,onshore,26.920509,38.819926,415.9,280
+Dortyol,FSRU,36.144668,36.875224,292.3,170
+Gulf of Saros FSRU, FSRU, 26.455998176, 40.5499978,232,170
+Marmara Ereglisi,onshore,27.955278,40.969722,385.7,255
+Isle of Grain,onshore,0.680907,51.44726,645,1000
+Milford Haven Dragon LNG,onshore,-4.98787083,51.71248393,229,320
+Milford Haven South Hook LNG,onshore,-5.036532,51.859262,632.9,775
+Eemshaven FSRU,FSRU,6.825330032,53.442331564,300,180
+Wilhelmshaven FSRU, FSRU, 8.11253, 53.52998,152,270
+Brunsbüttel FSRU, FSRU, 9.10484, 53.89504, 61.6, 330
+Ostsee FSRU, FSRU,  13.589, 54.482, 155.8, 170
+Le Havre FSRU, FSRU, 13.733, 54.117, 150, 0
+Inkloo FSRU, FSRU, 23.978, 60.019, 140, 151
+
+
+
+
