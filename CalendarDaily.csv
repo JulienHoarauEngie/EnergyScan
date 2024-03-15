@@ -1,75 +1,51 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2024-03-04,EC,Sentix Investor Confidence,10:30,Mar,-11.0,-12.9
-2024-03-04,US,North Dakota GOP Caucus,--,--,--,--
-2024-03-05,JN,Tokyo CPI YoY,00:30,Feb,2.5%,1.6%
-2024-03-05,JN,Jibun Bank Japan PMI Services,01:30,Feb F,--,52.5
-2024-03-05,CH,Caixin China PMI Services,02:45,Feb,52.9,52.7
-2024-03-05,FR,Industrial Production MoM,08:45,Jan,-0.4%,1.1%
-2024-03-05,EC,Eurozone Services PMI,10:00,Feb F,50.0,50.0
-2024-03-05,IT,GDP WDA QoQ,10:00,4Q F,0.2%,0.2%
-2024-03-05,UK,S&P Global UK Services PMI,10:30,Feb F,54.3,54.3
-2024-03-05,EC,PPI YoY,11:00,Jan,-8.1%,-10.6%
-2024-03-05,US,S&P Global US Services PMI,15:45,Feb F,51.4,51.3
-2024-03-05,US,ISM Services Index,16:00,Feb,52.9,53.4
-2024-03-05,US,Super Tuesday (Primaries and caucus) ,--,--,--,--
-2024-03-05,CH,China's National People's Congress Begins,--,--,--,--
-2024-03-06,GE,Trade Balance SA,08:00,Jan,21.0b,22.2b
-2024-03-06,EC,Retail Sales MoM,11:00,Jan,0.0%,-1.1%
-2024-03-06,US,ADP Employment Change,14:15,Feb,150k,107k
-2024-03-06,CA,Bank of Canada Rate Decision,15:45,--,5.0%,5.0%
-2024-03-06,US,Fed Chair Powell Testifies Before Congress,16:00,--,--,--
-2024-03-06,US,JOLTS Job Openings,16:00,Jan,--,9026k
-2024-03-06,US,DOE U.S. Crude Oil Inventories,16:30,--,--,4199k
-2024-03-06,US,Federal Reserve Releases Beige Book,20:00,--,--,--
-2024-03-07,JN,Real Cash Earnings YoY,00:30,Jan,-1.4%,-1.9%
-2024-03-07,GE,Factory Orders MoM,08:00,Jan,-6.0%,8.9%
-2024-03-07,US,Challenger Job Cuts YoY,13:30,Feb,--,-20.0%
-2024-03-07,EC,ECB Deposit Facility Rate,14:15,--,4.0%,4.0%
-2024-03-07,US,Trade Balance,14:30,Jan,-$62.5b,-$62.2b
-2024-03-07,US,Unit Labor Costs,14:30,4Q F,0.7%,0.5%
-2024-03-07,US,Initial Jobless Claims,14:30,--,--,215k
-2024-03-07,EC,ECB President Holds Press Conference,14:45,--,--,--
-2024-03-07,US,Household Change in Net Worth,18:00,4Q,--,-$1312b
-2024-03-07,CH,Trade Balance YTD,--,Feb,$110.30b,--
-2024-03-08,JN,Household Spending YoY,00:30,Jan,-4.1%,-2.5%
-2024-03-08,JN,BoP Current Account Adjusted,00:50,Jan,¥2074.4b,¥1810.0b
-2024-03-08,JN,Leading Index CI,06:00,Jan P,109.7,110.2
-2024-03-08,GE,Industrial Production SA MoM,08:00,Jan,0.7%,-1.6%
-2024-03-08,GE,PPI YoY,08:00,Jan,-6.6%,-8.6%
-2024-03-08,FR,Trade Balance,08:45,Jan,--,-6829m
-2024-03-08,EC,GDP SA QoQ,11:00,4Q F,0.0%,0.0%
-2024-03-08,US,Change in Nonfarm Payrolls,14:30,Feb,190k,353k
-2024-03-08,US,Average Hourly Earnings YoY,14:30,Feb,--,4.5%
-2024-03-08,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2024-03-09,CH,PPI YoY,02:30,Feb,-2.6%,-2.5%
-2024-03-09,CH,CPI YoY,02:30,Feb,0.2%,-0.8%
-2024-03-09,CH,Aggregate Financing CNY,9-15,Feb,2093.5b,6500.0b
-2024-03-10,PO,Portugal Holds General Election,--,--,--,--
-2024-03-11,JN,Money Stock M2 YoY,00:50,Feb,--,2.4%
-2024-03-11,JN,GDP Annualized SA QoQ,00:50,4Q F,--,-0.4%
-2024-03-11,JN,Machine Tool Orders YoY,07:00,Feb P,--,-14.0%
-2024-03-11,EC,Eurogroup in Brussels,,,,
-2024-03-12,GE,CPI EU Harmonized YoY,08:00,Feb F,--,2.7%
-2024-03-12,UK,Jobless Claims Change,08:00,Feb,--,14.1k
-2024-03-12,UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Jan,--,6.2%
-2024-03-12,US,NFIB Small Business Optimism,11:00,Feb,--,89.9
-2024-03-12,US,CPI YoY,13:30,Feb,--,3.1%
-2024-03-12,US,STEO Current Yr Crude Forecast,17:00,Mar,--,13.1
-2024-03-13,UK,Industrial Production MoM,08:00,Jan,--,0.6%
-2024-03-13,UK,Trade Balance GBP/Mn,08:00,Jan,--,-£2603m
-2024-03-13,UK,Monthly GDP (MoM),08:00,Jan,--,-0.1%
-2024-03-13,EC,Industrial Production SA MoM,11:00,Jan,--,2.6%
-2024-03-13,US,DOE U.S. Crude Oil Inventories,15:30,--,--,--
-2024-03-14,UK,RICS House Price Balance,01:01,Feb,--,-18.0%
-2024-03-14,US,Retail Sales Advance MoM,13:30,Feb,--,-0.8%
-2024-03-14,US,PPI Final Demand YoY,13:30,Feb,--,0.9%
-2024-03-14,US,Initial Jobless Claims,13:30,--,--,--
-2024-03-14,US,Business Inventories,15:00,Jan,0.3%,0.4%
-2024-03-15,CH,1-Yr Medium-Term Lending Facility Rate,02:20,--,--,2.5%
-2024-03-15,CH,New Home Prices MoM,02:30,Feb,--,-0.4%
-2024-03-15,FR,CPI EU Harmonized YoY,08:45,Feb F,--,3.1%
-2024-03-15,US,Empire Manufacturing,13:30,Mar,--,-2.4
-2024-03-15,US,Import Price Index YoY,13:30,Feb,--,-1.3%
-2024-03-15,US,Industrial Production MoM,14:15,Feb,0.0%,-0.1%
-2024-03-15,US,U. of Mich. Sentiment,15:00,Mar P,--,--
-2024-03-15,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+2024-03-18,JN,Core Machine Orders MoM,00:50,Jan,-0.8%,2.7%
+2024-03-18,CH,Retail Sales YTD YoY,03:00,Feb,5.6%,--
+2024-03-18,CH,Surveyed Jobless Rate,03:00,Feb,5.1%,--
+2024-03-18,CH,Industrial Production YTD YoY,03:00,Feb,5.3%,--
+2024-03-18,EC,CPI YoY,11:00,Feb F,2.6%,2.6%
+2024-03-18,EC,Trade Balance SA,11:00,Jan,--,13.0b
+2024-03-18,US,NAHB Housing Market Index,15:00,Mar,48.0,48.0
+2024-03-19,GE,ZEW Survey Expectations,11:00,Mar,20.8,19.9
+2024-03-19,US,Building Permits MoM,13:30,Feb,2.0%,-1.5%
+2024-03-19,US,Housing Starts MoM,13:30,Feb,7.4%,-14.8%
+2024-03-19,US,Net Long-term TIC Flows,21:00,Jan,--,$160.2b
+2024-03-19,JN,BOJ Policy Balance Rate,--,--,-0.1%,-0.1%
+2024-03-20,CH,5-Year Loan Prime Rate,02:15,--,3.95%,3.95%
+2024-03-20,UK,PPI Output NSA YoY,08:00,Feb,-0.2%,-0.6%
+2024-03-20,GE,PPI YoY,08:00,Feb,--,-4.4%
+2024-03-20,UK,CPI YoY,08:00,Feb,3.5%,4.0%
+2024-03-20,EC,ECB's Lagarde Speaks in Frankfurt,09:45,--,--,--
+2024-03-20,IT,Industrial Production MoM,10:00,Jan,--,1.1%
+2024-03-20,UK,House Price Index YoY,10:30,Jan,--,-1.4%
+2024-03-20,EC,Construction Output MoM,11:00,Jan,--,0.8%
+2024-03-20,EC,ECB's Schnabel Speaks in Frankfurt,14:45,--,--,--
+2024-03-20,US,DOE U.S. Crude Oil Inventories,15:30,--,--,-1536k
+2024-03-20,EC,Consumer Confidence,16:00,Mar P,-15.0,-15.5
+2024-03-20,US,FOMC Rate Decision (Upper Bound),19:00,--,5.50%,5.50%
+2024-03-20,US,Fed Chair Powell Holds Press Conference,19:30,--,--,--
+2024-03-21,JN,Trade Balance Adjusted,00:50,Feb,-¥850.3b,¥235.3b
+2024-03-21,JN,Jibun Bank Japan PMI Composite,01:30,Mar P,--,50.6
+2024-03-21,UK,PSNB ex Banking Groups,08:00,Feb,5.9b,-16.7b
+2024-03-21,EC,EU27 New Car Registrations,08:00,Feb,--,12.1%
+2024-03-21,FR,Business Confidence,08:45,Mar,--,98.0
+2024-03-21,FR,HCOB France Composite PMI,09:15,Mar P,--,48.1
+2024-03-21,GE,HCOB Germany Composite PMI,09:30,Mar P,47.2,46.3
+2024-03-21,EC,HCOB Eurozone Composite PMI,10:00,Mar P,49.8,49.2
+2024-03-21,EC,ECB Current Account SA,10:00,Jan,--,31.9b
+2024-03-21,EC,ECB Publishes Economic Bulletin,10:00,--,--,--
+2024-03-21,UK,S&P Global UK Composite PMI,10:30,Mar P,--,53.0
+2024-03-21,UK,Bank of England Bank Rate,13:00,--,5.25%,5.25%
+2024-03-21,US,Current Account Balance,13:30,4Q,-$209.5b,-$200.3b
+2024-03-21,US,Philadelphia Fed Business Outlook,13:30,Mar,-4.0,5.2
+2024-03-21,US,Initial Jobless Claims,13:30,--,--,209k
+2024-03-21,US,S&P Global US Composite PMI,14:45,Mar P,--,52.5
+2024-03-21,US,Leading Index,15:00,Feb,-0.2%,-0.4%
+2024-03-21,US,Existing Home Sales MoM,15:00,Feb,-2.0%,3.1%
+2024-03-22,JN,Natl CPI Ex Fresh Food YoY,00:30,Feb,2.8%,2.0%
+2024-03-22,UK,GfK Consumer Confidence,01:01,Mar,-20.0,-21.0
+2024-03-22,GE,Import Price Index YoY,08:00,Jan,-7.3%,-8.5%
+2024-03-22,UK,Retail Sales Inc Auto Fuel MoM,08:00,Feb,-0.3%,3.4%
+2024-03-22,GE,IFO Business Climate,10:00,Mar,86.0,85.5
+2024-03-22,UK,CBI Trends Total Orders,12:00,Mar,--,-20.0
+2024-03-22,US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
