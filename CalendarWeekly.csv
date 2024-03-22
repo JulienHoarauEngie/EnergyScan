@@ -1,56 +1,87 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-18 March 2024,--,--,--,--,--
-JN,Core Machine Orders MoM,00:50,Jan,-0.8%,2.7%
-CH,Retail Sales YTD YoY,03:00,Feb,5.6%,--
-CH,Surveyed Jobless Rate,03:00,Feb,5.1%,--
-CH,Industrial Production YTD YoY,03:00,Feb,5.3%,--
-EC,CPI YoY,11:00,Feb F,2.6%,2.6%
-EC,Trade Balance SA,11:00,Jan,--,13.0b
-US,NAHB Housing Market Index,15:00,Mar,48.0,48.0
-19 March 2024,--,--,--,--,--
-GE,ZEW Survey Expectations,11:00,Mar,20.8,19.9
-US,Building Permits MoM,13:30,Feb,2.0%,-1.5%
-US,Housing Starts MoM,13:30,Feb,7.4%,-14.8%
-US,Net Long-term TIC Flows,21:00,Jan,--,$160.2b
-JN,BOJ Policy Balance Rate,--,--,-0.1%,-0.1%
-20 March 2024,--,--,--,--,--
-CH,5-Year Loan Prime Rate,02:15,--,3.95%,3.95%
-UK,PPI Output NSA YoY,08:00,Feb,-0.2%,-0.6%
-GE,PPI YoY,08:00,Feb,--,-4.4%
-UK,CPI YoY,08:00,Feb,3.5%,4.0%
-EC,ECB's Lagarde Speaks in Frankfurt,09:45,--,--,--
-IT,Industrial Production MoM,10:00,Jan,--,1.1%
-UK,House Price Index YoY,10:30,Jan,--,-1.4%
-EC,Construction Output MoM,11:00,Jan,--,0.8%
-EC,ECB's Schnabel Speaks in Frankfurt,14:45,--,--,--
-US,DOE U.S. Crude Oil Inventories,15:30,--,--,-1536k
-EC,Consumer Confidence,16:00,Mar P,-15.0,-15.5
-US,FOMC Rate Decision (Upper Bound),19:00,--,5.50%,5.50%
-US,Fed Chair Powell Holds Press Conference,19:30,--,--,--
-21 March 2024,--,--,--,--,--
-JN,Trade Balance Adjusted,00:50,Feb,-¥850.3b,¥235.3b
-JN,Jibun Bank Japan PMI Composite,01:30,Mar P,--,50.6
-UK,PSNB ex Banking Groups,08:00,Feb,5.9b,-16.7b
-EC,EU27 New Car Registrations,08:00,Feb,--,12.1%
-FR,Business Confidence,08:45,Mar,--,98.0
-FR,HCOB France Composite PMI,09:15,Mar P,--,48.1
-GE,HCOB Germany Composite PMI,09:30,Mar P,47.2,46.3
-EC,HCOB Eurozone Composite PMI,10:00,Mar P,49.8,49.2
-EC,ECB Current Account SA,10:00,Jan,--,31.9b
-EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-UK,S&P Global UK Composite PMI,10:30,Mar P,--,53.0
-UK,Bank of England Bank Rate,13:00,--,5.25%,5.25%
-US,Current Account Balance,13:30,4Q,-$209.5b,-$200.3b
-US,Philadelphia Fed Business Outlook,13:30,Mar,-4.0,5.2
-US,Initial Jobless Claims,13:30,--,--,209k
-US,S&P Global US Composite PMI,14:45,Mar P,--,52.5
-US,Leading Index,15:00,Feb,-0.2%,-0.4%
-US,Existing Home Sales MoM,15:00,Feb,-2.0%,3.1%
-22 March 2024,--,--,--,--,--
-JN,Natl CPI Ex Fresh Food YoY,00:30,Feb,2.8%,2.0%
-UK,GfK Consumer Confidence,01:01,Mar,-20.0,-21.0
-GE,Import Price Index YoY,08:00,Jan,-7.3%,-8.5%
-UK,Retail Sales Inc Auto Fuel MoM,08:00,Feb,-0.3%,3.4%
-GE,IFO Business Climate,10:00,Mar,86.0,85.5
-UK,CBI Trends Total Orders,12:00,Mar,--,-20.0
+25 March 2024,--,--,--,--,--
+JN,Nationwide Dept Sales YoY,06:30,Feb,--,7.1%
+UK,CBI Total Dist. Reported Sales,12:00,Mar,--,5.0
+US,Chicago Fed Nat Activity Index,13:30,Feb,-0.3,-0.3
+US,New Home Sales MoM,15:00,Feb,2.1%,1.5%
+US,Dallas Fed Manf. Activity,15:30,Mar,-13.0,-11.3
+26 March 2024,--,--,--,--,--
+GE,GfK Consumer Confidence,08:00,Apr,-27.3,-29.0
+US,Cap Goods Orders Nondef Ex Air,13:30,Feb P,0.1%,0.0%
+US,S&P CoreLogic CS US HPI YoY NSA,14:00,Jan,--,5.5%
+US,Conf. Board Consumer Confidence,15:00,Mar,107.0,106.7
+US,Richmond Fed Manufact. Index,15:00,Mar,--,-5.0
+27 March 2024,--,--,--,--,--
+CH,Industrial Profits YoY,02:30,Feb,--,16.8%
+FR,Consumer Confidence,08:45,Mar,--,89.0
+EC,Economic Confidence,11:00,Mar,96.0,95.4
+US,DOE U.S. Crude Oil Inventories,15:30,--,--,-1952k
+GE,Retail Sales MoM,27-02,Feb,0.5%,-0.4%
+28 March 2024,--,--,--,--,--
+UK,GDP QoQ,08:00,4Q F,-0.3%,-0.3%
+GE,Unemployment Change (000's),09:55,Mar,10.0k,11.0k
+IT,Economic Sentiment,10:00,Mar,--,95.8
+EC,M3 Money Supply YoY,10:00,Feb,0.3%,0.1%
+US,GDP Annualized QoQ,13:30,4Q T,3.2%,3.2%
+US,Initial Jobless Claims,13:30,--,--,210k
+US,MNI Chicago PMI,14:45,Mar,46.0,44.0
+US,Pending Home Sales MoM,15:00,Feb,--,-4.9%
+US,U. of Mich. Sentiment,15:00,Mar F,76.6,76.5
+US,Kansas City Fed Manf. Activity,16:00,Mar,--,-4.0
 US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+29 March 2024,--,--,--,--,--
+JN,Tokyo CPI YoY,00:30,Mar,2.5%,2.6%
+JN,Jobless Rate,00:30,Feb,2.4%,2.4%
+JN,Retail Sales MoM,00:50,Feb,0.6%,0.8%
+JN,Industrial Production MoM,00:50,Feb P,1.3%,-6.7%
+JN,Housing Starts YoY,06:00,Feb,-5.5%,-7.5%
+FR,CPI EU Harmonized YoY,08:45,Mar P,--,3.2%
+FR,PPI YoY,08:45,Feb,--,-5.1%
+FR,Consumer Spending MoM,08:45,Feb,--,-0.3%
+IT,CPI EU Harmonized YoY,11:00,Mar P,1.40%,0.80%
+US,Personal Spending,13:30,Feb,0.5%,0.2%
+US,PCE Core Deflator YoY,13:30,Feb,2.8%,2.8%
+US,Advance Goods Trade Balance,13:30,Feb,-$89.7b,-$90.2b
+US,Retail Inventories MoM,13:30,Feb,--,0.5%
+US,Fed's Powell Speaks in Moderated Discussion,16:30,--,--,--
+31 March 2024,--,--,--,--,--
+CH,Manufacturing PMI,03:30,Mar,50.2,49.1
+CH,Non-manufacturing PMI,03:30,Mar,--,51.4
+01 April 2024,--,--,--,--,--
+JN,Tankan Large Mfg Index,01:50,1Q,10.0,12.0
+JN,Jibun Bank Japan PMI Mfg,02:30,Mar F,--,48.2
+CH,Caixin China PMI Mfg,03:45,Mar,--,50.9
+US,Construction Spending MoM,16:00,Feb,--,-0.2%
+US,ISM Manufacturing,16:00,Mar,48.0,47.8
+02 April 2024,--,--,--,--,--
+JN,Monetary Base YoY,01:50,Mar,--,2.4%
+EC,HCOB Eurozone Manufacturing PMI,10:00,Mar F,--,45.7
+UK,M4 Money Supply YoY,10:30,Feb,--,-2.2%
+UK,S&P Global UK Manufacturing PMI,10:30,Mar F,--,49.9
+GE,CPI EU Harmonized YoY,14:00,Mar P,--,2.7%
+US,JOLTS Job Openings,16:00,Feb,--,8863k
+US,Fed's Mester on Economic Outlook,18:05,--,--,--
+US,Wards Total Vehicle Sales,--,Mar,15.90m,15.81m
+03 April 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,02:30,Mar F,--,54.9
+CH,Caixin China PMI Services,03:45,Mar,--,52.5
+EC,CPI Estimate YoY,11:00,Mar,--,2.6%
+US,ADP Employment Change,14:15,Mar,--,140k
+US,ISM Services Index,16:00,Mar,52.8,52.6
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+04 April 2024,--,--,--,--,--
+EC,HCOB Eurozone Services PMI,10:00,Mar F,--,51.1
+UK,S&P Global UK Services PMI,10:30,Mar F,--,53.4
+EC,PPI YoY,11:00,Feb,--,-8.6%
+US,Challenger Job Cuts YoY,13:30,Mar,--,8.8%
+EC,ECB Publishes Account of March Rate Decision,13:30,--,--,--
+US,Trade Balance,14:30,Feb,-$66.2b,-$67.4b
+US,Initial Jobless Claims,14:30,--,--,--
+05 April 2024,--,--,--,--,--
+JN,Leading Index CI,07:00,Feb P,--,109.9
+GE,Factory Orders MoM,08:00,Feb,--,-11.3%
+FR,Industrial Production MoM,08:45,Feb,--,-1.1%
+EC,Retail Sales MoM,11:00,Feb,--,0.1%
+US,Change in Nonfarm Payrolls,14:30,Mar,200k,275k
+US,Average Hourly Earnings YoY,14:30,Mar,--,4.3%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
