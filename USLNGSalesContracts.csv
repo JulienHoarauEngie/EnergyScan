@@ -1,42 +1,42 @@
 ﻿Export country,Loading point,Seller,Buyer,Buyer Country,ACQ (MTPA),Delivery Format,Year start,Year end,Duration (years),Train
-United States,Cameron,Cameron LNG,Mitsubishi,Japan,4,Tolling,2019,2039,20,1-3,
-United States,Cameron,Cameron LNG,Mitsui,Japan,4,Tolling,2019,2039,20,1-3,
-United States,Cameron,Cameron LNG,Total,France,4,Tolling,2019,2039,20,1-3,
-United States,Cameron,Mitsui,Toho Gas,Japan,0.3,DES,2019,2039,20,1-3,
-United States,Cameron,Mitsui,Total,France,0.5,FOB,2019,2029,10,1-3,
-United States,Cameron,Total ,CPC,Taiwan,0.8,DES,2019,2039,20,1-3,
-United States,Cameron,Total ,Marubeni,Japan,0.5,FOB,2019,2039,20,1-3,
-United States,Cameron,Total ,Tohoku Electric,Japan,0.27,DES,2019,2039,20,1-3,
-United States,Corpus Christi,Cheniere,Endesa,Italy,2.25,FOB,2019,2039,20,1,
-United States,Corpus Christi,Cheniere,Pavilion Energy,Singapore,0.8,FOB,2019,2040,21,1-2,
-United States,Corpus Christi,Cheniere,Pertamina,Indonesia,0.76,FOB,2019,2039,20,1,
-United States,Corpus Christi,Cheniere,EDF,France,0.77,FOB,2020,2040,20,2,
-United States,Corpus Christi,Cheniere,Naturgy Energy Group,Spain,1.5,FOB,2020,2040,20,2,
-United States,Corpus Christi,Cheniere,Pertamina,Indonesia,0.76,FOB,2020,2040,20,2,
-United States,Corpus Christi,Cheniere,Woodside,Australia,0.85,FOB,2020,2040,20,2,
-United States,Corpus Christi,Cheniere,CNPC,China,0.9,FOB,2023,2043,20,3,
-United States,Corpus Christi,Cheniere,EDP,Portugal,0.77,FOB,2021,2041,20,3,
-United States,Corpus Christi,Cheniere,Trafigura,Multiple,1,FOB,2021,2041,20,3,
-United States,Cove Point,GAIL GLOBAL (USA) LNG,GAIL,India,2.3,FOB,2018,2038,20,1,
-United States,Cove Point,Pacific Summit Energy,Kansai Electric Group,Japan,0.8,FOB,2018,2037,19,1,
-United States,Cove Point,ST Cove Point,Tokyo Gas Group,Japan,1.4,FOB,2018,2037,19,1,
-United States,Cove Point,ST Cove Point,Pacific Summit Energy,Japan,0.9,FOB,2018,2037,19,1,
-United States,Freeport,Freeport LNG,Osaka Gas,Japan,2.3,Tolling,2019,2039,20,1,
-United States,Freeport,Freeport LNG,JERA,Japan,2.3,Tolling,2019,2039,20,1,
-United States,Freeport,Osaka Gas,Uniper,Germany,1.0,FOB,2019,2039,20,1,
-United States,Freeport,BP,BP,Multiple,4.4,FOB,2020,2040,20,2,
-United States,Freeport,Freeport LNG,Trafigura,Multiple,0.5,FOB,2020,2023,3,1-3,
-United States,Freeport,SK Group,SK Group,South Korea,2.2,FOB,2020,2040,20,3,
-United States,Freeport,Total ,Total,Multiple,2.2,FOB,2020,2040,20,3,
-United States,Sabine Pass,Cheniere,Centrica,United Kingdom,1.75,FOB,2019,2039,20,5,
-United States,Sabine Pass,Cheniere,GAIL,India,3.5,FOB,2018,2038,20,4,
-United States,Sabine Pass,Cheniere,KOGAS,South Korea,3.5,FOB,2017,2037,20,3,
-United States,Sabine Pass,Cheniere,Naturgy Energy Group,Multiple,3.5,FOB,2017,2037,20,2,
-United States,Sabine Pass,Cheniere,Shell,Multiple,5.5,FOB,2016,2036,20,1-4,
-United States,Sabine Pass,Cheniere,Petronas,Multiple,1.1,FOB,2024,2044,20,6,
-United States,Sabine Pass,Cheniere,Total,France,2.0,FOB,2019,2039,20,5,
-United States,Plaquemines LNG,Venture Global,PGNiG,Poland,1.5,FOB,2023,2043,20,,
-United States,Rio Grande,NextDecade,Shell,Multiple,2.0,FOB,2024,2044,20,1,
-United States,Driftwood,Driftwood LNG,Total,Multiple,1,FOB,2025,2055,30,1,
-United States,Plaquemines LNG,Plaquemines LNG,EDF,France,1,FOB,2023,2043,20,1,
-United States,Plaquemines LNG,Plaquemines LNG,ENN,China,1,FOB,2023,2043,20,1,
+United States,Cameron,Cameron LNG,Mitsubishi,Japan,4,Tolling,2019,2039,20,1-3
+United States,Cameron,Cameron LNG,Mitsui,Japan,4,Tolling,2019,2039,20,1-3
+United States,Cameron,Cameron LNG,Total,France,4,Tolling,2019,2039,20,1-3
+United States,Cameron,Mitsui,Toho Gas,Japan,0.3,DES,2019,2039,20,1-3
+United States,Cameron,Mitsui,Total,France,0.5,FOB,2019,2029,10,1-3
+United States,Cameron,Total ,CPC,Taiwan,0.8,DES,2019,2039,20,1-3
+United States,Cameron,Total ,Marubeni,Japan,0.5,FOB,2019,2039,20,1-3
+United States,Cameron,Total ,Tohoku Electric,Japan,0.27,DES,2019,2039,20,1-3
+United States,Corpus Christi,Cheniere,Endesa,Italy,2.25,FOB,2019,2039,20,1
+United States,Corpus Christi,Cheniere,Pavilion Energy,Singapore,0.8,FOB,2019,2040,21,1-2
+United States,Corpus Christi,Cheniere,Pertamina,Indonesia,0.76,FOB,2019,2039,20,1
+United States,Corpus Christi,Cheniere,EDF,France,0.77,FOB,2020,2040,20,2
+United States,Corpus Christi,Cheniere,Naturgy Energy Group,Spain,1.5,FOB,2020,2040,20,2
+United States,Corpus Christi,Cheniere,Pertamina,Indonesia,0.76,FOB,2020,2040,20,2
+United States,Corpus Christi,Cheniere,Woodside,Australia,0.85,FOB,2020,2040,20,2
+United States,Corpus Christi,Cheniere,CNPC,China,0.9,FOB,2023,2043,20,3
+United States,Corpus Christi,Cheniere,EDP,Portugal,0.77,FOB,2021,2041,20,3
+United States,Corpus Christi,Cheniere,Trafigura,Multiple,1,FOB,2021,2041,20,3
+United States,Cove Point,GAIL GLOBAL (USA) LNG,GAIL,India,2.3,FOB,2018,2038,20,1
+United States,Cove Point,Pacific Summit Energy,Kansai Electric Group,Japan,0.8,FOB,2018,2037,19,1
+United States,Cove Point,ST Cove Point,Tokyo Gas Group,Japan,1.4,FOB,2018,2037,19,1
+United States,Cove Point,ST Cove Point,Pacific Summit Energy,Japan,0.9,FOB,2018,2037,19,1
+United States,Freeport,Freeport LNG,Osaka Gas,Japan,2.3,Tolling,2019,2039,20,1
+United States,Freeport,Freeport LNG,JERA,Japan,2.3,Tolling,2019,2039,20,1
+United States,Freeport,Osaka Gas,Uniper,Germany,1.0,FOB,2019,2039,20,1
+United States,Freeport,BP,BP,Multiple,4.4,FOB,2020,2040,20,2
+United States,Freeport,Freeport LNG,Trafigura,Multiple,0.5,FOB,2020,2023,3,1-3
+United States,Freeport,SK Group,SK Group,South Korea,2.2,FOB,2020,2040,20,3
+United States,Freeport,Total ,Total,Multiple,2.2,FOB,2020,2040,20,3
+United States,Sabine Pass,Cheniere,Centrica,United Kingdom,1.75,FOB,2019,2039,20,5
+United States,Sabine Pass,Cheniere,GAIL,India,3.5,FOB,2018,2038,20,4
+United States,Sabine Pass,Cheniere,KOGAS,South Korea,3.5,FOB,2017,2037,20,3
+United States,Sabine Pass,Cheniere,Naturgy Energy Group,Multiple,3.5,FOB,2017,2037,20,2
+United States,Sabine Pass,Cheniere,Shell,Multiple,5.5,FOB,2016,2036,20,1-4
+United States,Sabine Pass,Cheniere,Petronas,Multiple,1.1,FOB,2024,2044,20,6
+United States,Sabine Pass,Cheniere,Total,France,2.0,FOB,2019,2039,20,5
+United States,Plaquemines LNG,Venture Global,PGNiG,Poland,1.5,FOB,2023,2043,20,
+United States,Rio Grande,NextDecade,Shell,Multiple,2.0,FOB,2024,2044,20,1
+United States,Driftwood,Driftwood LNG,Total,Multiple,1,FOB,2025,2055,30,1
+United States,Plaquemines LNG,Plaquemines LNG,EDF,France,1,FOB,2023,2043,20,1
+United States,Plaquemines LNG,Plaquemines LNG,ENN,China,1,FOB,2023,2043,20,1
