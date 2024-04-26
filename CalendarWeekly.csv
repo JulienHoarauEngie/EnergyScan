@@ -1,45 +1,58 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-22 April 2024,--,--,--,--,--
-CH,1-Year Loan Prime Rate,03:15,--,3.5%,3.5%
-EC,Govt Debt/GDP Ratio,11:00,2023 P,--,91.0%
-UK,CBI Business Optimism,12:00,Apr,--,-3.0
-US,Chicago Fed Nat Activity Index,14:30,Mar,--,0.05
-EC,Consumer Confidence,16:00,Apr P,-14.3,-14.9
-EC,ECB's Villeroy speaks in Paris,17:30,--,--,--
-23 April 2024,--,--,--,--,--
-JN,Jibun Bank Japan PMI Composite,02:30,Apr P,--,51.7
-UK,PSNB ex Banking Groups,08:00,Mar,11.9b,8.4b
-FR,France Composite PMI,09:15,Apr P,--,48.3
-GE,HCOB Germany Composite PMI,09:30,Apr P,48.6,47.7
-EC,Eurozone Composite PMI,10:00,Apr P,50.8,50.3
-UK,S&P Global UK Composite PMI,10:30,Apr P,52.5,52.8
-US,US Composite PMI,15:45,Apr P,--,52.1
-US,New Home Sales MoM,16:00,Mar,1.2%,-0.3%
-US,Richmond Fed Manufact. Index,16:00,Apr,--,-11.0
-24 April 2024,--,--,--,--,--
-GE,IFO Business Climate,10:00,Apr,88.9,87.8
-IT,Economic Sentiment,10:00,Apr,--,97.0
-US,Cap Goods Orders Nondef Ex Air,14:30,Mar P,0.2%,0.7%
-EC,ECB's Schnabel Speaks in Frankfurt,16:00,--,--,--
-US,DOE U.S. Crude Oil Inventories,16:30,--,1650k,2735k
-25 April 2024,--,--,--,--,--
-JN,Nationwide Dept Sales YoY,07:30,Mar,--,14.0%
-GE,GfK Consumer Confidence,08:00,May,-26.0,-27.4
-FR,Business Confidence,08:45,Apr,--,100.0
-EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-UK,CBI Total Dist. Reported Sales,12:00,Apr,--,8.0
-US,GDP Annualized QoQ,14:30,1Q A,2.3%,3.4%
-US,Advance Goods Trade Balance,14:30,Mar,-$90.4b,-$91.8b
-US,Wholesale Inventories MoM,14:30,Mar P,0.2%,0.5%
-US,Initial Jobless Claims,14:30,--,--,212k
-US,Pending Home Sales MoM,16:00,Mar,1.0%,1.6%
-US,Kansas City Fed Manf. Activity,17:00,Apr,--,-7.0
-26 April 2024,--,--,--,--,--
-UK,GfK Consumer Confidence,01:01,Apr,-20.0,-21.0
-JN,Tokyo CPI YoY,01:30,Apr,2.5%,2.6%
-FR,Consumer Confidence,08:45,Apr,92.0,91.0
-EC,M3 Money Supply YoY,10:00,Mar,0.6%,0.4%
-US,Personal Spending,14:30,Mar,0.6%,0.8%
-US,PCE Core Deflator YoY,14:30,Mar,2.7%,2.8%
+29 April 2024,--,--,--,--,--
+EC,Economic Confidence,11:00,Apr,97.0,96.3
+GE,CPI EU Harmonized YoY,14:00,Apr P,2.4%,2.3%
+US,Dallas Fed Manf. Activity,16:30,Apr,-11.3,-14.4
+GE,Import Price Index YoY,29-30,Mar,-3.8%,-4.9%
+GE,Retail Sales MoM,29-02,Mar,1.5%,-1.9%
+30 April 2024,--,--,--,--,--
+JN,Jobless Rate,01:30,Mar,2.5%,2.6%
+JN,Retail Sales MoM,01:50,Mar,-0.2%,1.5%
+JN,Industrial Production MoM,01:50,Mar P,3.5%,-0.6%
+CH,Manufacturing PMI,03:30,Apr,50.3,50.8
+CH,Non-manufacturing PMI,03:30,Apr,52.2,53.0
+CH,Caixin China PMI Mfg,03:45,Apr,51.0,51.1
+JN,Housing Starts YoY,07:00,Mar,-7.5%,-8.2%
+FR,Consumer Spending MoM,07:30,Mar,--,0.0%
+FR,GDP QoQ,07:30,1Q P,0.2%,0.1%
+FR,CPI EU Harmonized YoY,08:45,Apr P,2.2%,2.4%
+FR,PPI YoY,08:45,Mar,--,-5.5%
+GE,Unemployment Change (000's),09:55,Apr,10.0k,4.0k
+IT,GDP WDA QoQ,10:00,1Q P,0.3%,0.2%
+GE,GDP SA QoQ,10:00,1Q P,0.1%,-0.3%
+UK,Money Supply M4 MoM,10:30,Mar,--,0.5%
+EC,CPI Estimate YoY,11:00,Apr,2.4%,2.4%
+EC,GDP SA QoQ,11:00,1Q A,0.2%,0.0%
+US,Employment Cost Index,14:30,1Q,1.0%,0.9%
+US,S&P CoreLogic CS 20-City YoY NSA,15:00,Feb,--,6.6%
+US,MNI Chicago PMI,15:45,Apr,45.0,41.4
+US,Conf. Board Consumer Confidence,16:00,Apr,104.1,104.7
+01 May 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,02:30,Apr F,--,49.9
+UK,S&P Global UK Manufacturing PMI,10:30,Apr F,48.7,48.7
+US,ADP Employment Change,14:15,Apr,185k,184k
+US,S&P Global US Manufacturing PMI,15:45,Apr F,49.9,49.9
+US,Construction Spending MoM,16:00,Mar,0.3%,-0.3%
+US,JOLTS Job Openings,16:00,Mar,8725k,8756k
+US,ISM Manufacturing,16:00,Apr,50.1,50.3
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-6368k
+US,FOMC Rate Decision (Upper Bound),20:00,--,5.50%,5.50%
+US,Fed Chair Powell Holds Press Conference,20:30,--,--,--
+US,Wards Total Vehicle Sales,,Apr,15.70m,15.49m
+02 May 2024,--,--,--,--,--
+JN,Consumer Confidence Index,07:00,Apr,39.7,39.5
+EC,HCOB Eurozone Manufacturing PMI,10:00,Apr F,45.6,45.6
+EC,OECD Publishes Economic Outlook,11:00,--,--,--
+US,Challenger Job Cuts YoY,13:30,Apr,--,0.7%
+US,Trade Balance,14:30,Mar,-$69.0b,-$68.9b
+US,Unit Labor Costs,14:30,1Q P,2.0%,0.4%
+US,Initial Jobless Claims,14:30,--,--,207k
+03 May 2024,--,--,--,--,--
+FR,Industrial Production MoM,08:45,Mar,0.3%,0.2%
+UK,S&P Global UK Services PMI,10:30,Apr F,54.9,54.9
+EC,Unemployment Rate,11:00,Mar,6.5%,6.5%
+US,Change in Nonfarm Payrolls,14:30,Apr,250k,303k
+US,Average Hourly Earnings YoY,14:30,Apr,4.0%,4.1%
+US,S&P Global US Services PMI,15:45,Apr F,50.9,50.9
+US,ISM Services Index,16:00,Apr,52.0,51.4
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-JN,BOJ Target Rate (Upper Bound),--,--,0.1%,0.1%
