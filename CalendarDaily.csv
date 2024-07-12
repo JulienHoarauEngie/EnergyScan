@@ -1,78 +1,45 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2024-06-30,CH,Manufacturing PMI,03:30,Jun,49.5,49.5
-2024-06-30,CH,Non-manufacturing PMI,03:30,Jun,51.0,51.1
-2024-06-30,FR,French Parliamentary Elections First Round,--,--,--,--
-2024-07-01,JN,Tankan Large Mfg Index,01:50,2Q,11.0,11.0
-2024-07-01,JN,Jibun Bank Japan PMI Mfg,02:30,Jun F,--,50.1
-2024-07-01,CH,Caixin China PMI Mfg,03:45,Jun,51.5,51.7
-2024-07-01,JN,Consumer Confidence Index,07:00,Jun,36.4,36.2
-2024-07-01,UK,Nationwide House Px NSA YoY,08:00,Jun,1.2%,1.3%
-2024-07-01,EC,Eurozone Manuf. PMI,10:00,Jun F,45.6,45.6
-2024-07-01,UK,Mortgage Approvals,10:30,May,60.5k,61.1k
-2024-07-01,UK,S&P Global UK Manufacturing PMI,10:30,Jun F,51.4,51.4
-2024-07-01,GE,CPI EU Harmonized YoY,14:00,Jun P,2.6%,2.8%
-2024-07-01,US,S&P Global US Manufacturing PMI,15:45,Jun F,51.7,51.7
-2024-07-01,US,Construction Spending MoM,16:00,May,0.3%,-0.1%
-2024-07-01,US,ISM Manufacturing,16:00,Jun,49.2,48.7
-2024-07-01,EC,ECB's Lagarde Speaks in Sintra,21:00,--,--,--
-2024-07-02,EC,CPI Estimate YoY,11:00,Jun,2.5%,2.6%
-2024-07-02,EC,Unemployment Rate,11:00,May,6.4%,6.4%
-2024-07-02,EC,"Powell, Lagarde, Campos Neto Speak in Sintra",15:30,--,--,--
-2024-07-02,US,JOLTS Job Openings,16:00,May,--,8059k
-2024-07-02,US,Wards Total Vehicle Sales,--,Jun,15.90m,15.90m
-2024-07-03,JN,Jibun Bank Japan PMI Services,02:30,Jun F,--,49.8
-2024-07-03,CH,Caixin China PMI Services,03:45,Jun,53.4,54.0
-2024-07-03,EC,Eurozone Services PMI,10:00,Jun F,52.6,52.6
-2024-07-03,UK,S&P Global UK Services PMI,10:30,--,--,--
-2024-07-03,EC,PPI YoY,11:00,May,-4.2%,-5.7%
-2024-07-03,US,Fed's Williams Speaks on Panel at ECB Forum,13:00,--,--,--
-2024-07-03,US,Challenger Job Cuts YoY,13:30,Jun,--,-20.3%
-2024-07-03,US,ADP Employment Change,14:15,Jun,163k,152k
-2024-07-03,US,Trade Balance,14:30,May,-$72.2b,-$74.6b
-2024-07-03,US,Initial Jobless Claims,14:30,--,--,233k
-2024-07-03,US,S&P Global US Services PMI,15:45,Jun F,--,55.1
-2024-07-03,US,ISM Services Index,16:00,Jun,52.5,53.8
-2024-07-03,EC,ECB'S Lagarde Speaks,16:15,--,--,--
-2024-07-03,US,DOE U.S. Crude Oil Inventories,16:30,--,--,3591k
-2024-07-03,US,FOMC Meeting Minutes,20:00,--,--,--
-2024-07-04,GE,Factory Orders MoM,08:00,May,0.8%,-0.2%
-2024-07-04,UK,BoE Bank Liabilites/Credit Conditions Surveys,10:30,--,--,--
-2024-07-04,EC,ECB Publishes Account of June Policy Meeting,13:30,--,--,--
-2024-07-04,UK,UK Holds General Election,--,--,--,--
-2024-07-05,JN,Household Spending YoY,01:30,May,0.2%,0.5%
-2024-07-05,JN,Leading Index CI,07:00,May P,--,110.9
-2024-07-05,GE,Industrial Production SA MoM,08:00,May,0.2%,-0.1%
-2024-07-05,FR,Industrial Production MoM,08:45,May,-1.2%,0.5%
-2024-07-05,FR,Trade Balance,08:45,May,--,-7579m
-2024-07-05,EC,Retail Sales MoM,11:00,May,0.2%,-0.5%
-2024-07-05,US,Change in Nonfarm Payrolls,14:30,Jun,188k,272k
-2024-07-05,US,Average Hourly Earnings YoY,14:30,Jun,3.9%,4.1%
-2024-07-05,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2024-07-07,FR,French Parliamentary Elections Second Round,--,--,--,--
-2024-07-07,CH,Foreign Reserves,--,Jun,--,$3232.04b
-2024-07-08,JN,Labor Cash Earnings YoY,01:30,May,2.1%,2.1%
-2024-07-08,JN,Trade Balance BoP Basis,01:50,May,-¥1056.0b,-¥661.5b
-2024-07-08,GE,Trade Balance SA,08:00,May,--,22.1b
-2024-07-08,EC,Sentix Investor Confidence,10:30,Jul,--,0.3
-2024-07-08,US,NY Fed 1-Yr Inflation Expectations,17:00,Jun,--,3.2%
-2024-07-09,JN,Money Stock M2 YoY,01:50,Jun,--,1.9%
-2024-07-09,JN,Machine Tool Orders YoY,08:00,Jun P,--,4.2%
-2024-07-09,US,NFIB Small Business Optimism,12:00,Jun,--,90.5
-2024-07-09,US,Fed's Powell Testifies to Senate Banking,16:00,--,--,--
-2024-07-09,US,STEO Current Yr Crude Forecast,18:00,Jul,--,13.2
-2024-07-09,CH,Aggregate Financing CNY YTD,9-15,Jun,--,14800.0b
-2024-07-10,CH,PPI YoY,03:30,Jun,--,-1.4%
-2024-07-10,CH,CPI YoY,03:30,Jun,--,0.3%
-2024-07-10,US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
-2024-07-11,JN,Core Machine Orders MoM,01:50,May,--,-2.9%
-2024-07-11,GE,CPI EU Harmonized YoY,08:00,--,--,--
-2024-07-11,UK,Monthly GDP (MoM),08:00,May,--,0.0%
-2024-07-11,UK,Industrial Production MoM,08:00,May,--,-0.9%
-2024-07-11,UK,Trade Balance GBP/Mn,08:00,May,--,-£6750m
-2024-07-11,US,CPI YoY,14:30,Jun,--,3.3%
-2024-07-11,US,Initial Jobless Claims,14:30,--,--,--
-2024-07-12,FR,CPI EU Harmonized YoY,08:45,Jun F,--,2.5%
-2024-07-12,US,PPI Final Demand YoY,14:30,Jun,--,2.2%
-2024-07-12,US,U. of Mich. Sentiment,16:00,Jul P,--,--
-2024-07-12,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-2024-07-12,CH,Trade Balance,--,Jun,--,$82.62b
+2024-07-15,UK,Rightmove House Prices YoY,01:01,Jul,--,0.6%
+2024-07-15,CH,New Home Prices MoM,03:30,Jun,--,-0.7%
+2024-07-15,CH,GDP YoY,04:00,2Q,5.1%,5.3%
+2024-07-15,CH,Industrial Production YoY,04:00,Jun,5.0%,5.6%
+2024-07-15,CH,Retail Sales YoY,04:00,Jun,3.4%,3.7%
+2024-07-15,CH,Surveyed Jobless Rate,04:00,Jun,5.0%,5.0%
+2024-07-15,EC,Industrial Production SA MoM,11:00,May,-0.8%,-0.1%
+2024-07-15,US,Empire Manufacturing,14:30,Jul,-8.0,-6.0
+2024-07-15,US,Fed's Powell Interviewed by David Rubenstein,18:30,--,--,--
+2024-07-16,FR,Current Account Balance,08:45,May,--,-1.8b
+2024-07-16,EC,ECB Bank Lending Survey,10:00,--,--,--
+2024-07-16,GE,ZEW Survey Expectations,11:00,Jul,41.0,47.5
+2024-07-16,EC,Trade Balance SA,11:00,May,17.0b,19.4b
+2024-07-16,US,Retail Sales Control Group,14:30,Jun,0.2%,0.4%
+2024-07-16,US,Import Price Index YoY,14:30,Jun,--,1.1%
+2024-07-16,US,Business Inventories,16:00,May,0.3%,0.3%
+2024-07-16,US,NAHB Housing Market Index,16:00,Jul,43.0,43.0
+2024-07-17,UK,CPI YoY,08:00,Jun,2.0%,2.0%
+2024-07-17,UK,House Price Index YoY,10:30,May,--,1.1%
+2024-07-17,EC,CPI YoY,11:00,Jun F,2.5%,2.5%
+2024-07-17,US,Housing Starts MoM,14:30,Jun,1.8%,-5.5%
+2024-07-17,US,Building Permits MoM,14:30,Jun,-0.3%,-3.8%
+2024-07-17,US,"Fed's Barkin Speaks on Economy, Q&A",15:00,--,--,--
+2024-07-17,US,Industrial Production MoM,15:15,Jun,0.3%,0.9%
+2024-07-17,US,Fed's Waller Speaks on Economic Outlook,15:35,--,--,--
+2024-07-17,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3443k
+2024-07-17,US,Federal Reserve Releases Beige Book,20:00,--,--,--
+2024-07-18,JN,Trade Balance Adjusted,01:50,Jun,-¥887.2b,-¥618.2b
+2024-07-18,EC,EU27 New Car Registrations,08:00,Jun,--,-3.0%
+2024-07-18,UK,Weekly Earnings ex Bonus 3M/YoY,08:00,May,5.7%,6.0%
+2024-07-18,UK,Jobless Claims Change,08:00,Jun,--,50.4k
+2024-07-18,EC,Construction Output MoM,11:00,May,--,-0.2%
+2024-07-18,EC,ECB Deposit Facility Rate,14:15,--,3.75%,3.75%
+2024-07-18,US,Initial Jobless Claims,14:30,--,--,222k
+2024-07-18,US,Leading Index,16:00,Jun,-0.3%,-0.5%
+2024-07-18,US,Net Long-term TIC Flows,22:00,May,--,$123.1b
+2024-07-19,UK,GfK Consumer Confidence,01:01,Jul,-13.0,-14.0
+2024-07-19,JN,Natl CPI YoY,01:30,Jun,2.9%,2.8%
+2024-07-19,UK,Retail Sales Inc Auto Fuel MoM,08:00,Jun,-0.5%,2.9%
+2024-07-19,UK,PSNB ex Banking Groups,08:00,Jun,11.2b,15.0b
+2024-07-19,GE,PPI YoY,08:00,Jun,-1.6%,-2.2%
+2024-07-19,EC,ECB Current Account SA,10:00,May,--,38.6b
+2024-07-19,US,Fed's Williams Speakson Monetary Policy,16:40,--,0.0%,0.0%
+2024-07-19,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
