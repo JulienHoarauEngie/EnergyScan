@@ -1,40 +1,54 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2024-07-22,CH,5-Year Loan Prime Rate,03:15,--,3.95%,3.95%
-2024-07-22,CH,1-Year Loan Prime Rate,03:15,--,3.45%,3.45%
-2024-07-22,US,Chicago Fed Nat Activity Index,14:30,Jun,-6.0%,18.0%
-2024-07-22,FR,Retail Sales SA YoY,--,Jun,--,-1.4%
-2024-07-23,EC,Consumer Confidence,16:00,Jul P,-13.5,-14.0
-2024-07-23,US,Richmond Fed Manufact. Index,16:00,Jul,-7.0,-10.0
-2024-07-23,US,Existing Home Sales MoM,16:00,Jun,-2.7%,-0.7%
-2024-07-24,JN,Jibun Bank Japan PMI Composite,02:30,Jul P,--,49.7
-2024-07-24,GE,GfK Consumer Confidence,08:00,Aug,-21.0,-21.8
-2024-07-24,FR,HCOB France Composite PMI,09:15,Jul P,49.0,48.8
-2024-07-24,GE,Germany Composite PMI,09:30,Jul P,50.8,50.4
-2024-07-24,EC,Eurozone Composite PMI,10:00,Jul P,50.7,50.9
-2024-07-24,UK,UK Composite PMI,10:30,Jul P,52.6,52.3
-2024-07-24,US,Wholesale Inventories MoM,14:30,Jun P,--,0.6%
-2024-07-24,US,Advance Goods Trade Balance,14:30,Jun,-$98.0b,-$100.6b
-2024-07-24,CA,Bank of Canada Rate Decision,15:45,--,4.75%,4.75%
-2024-07-24,US,US Composite PMI,15:45,Jul P,--,54.8
-2024-07-24,US,New Home Sales MoM,16:00,Jun,3.4%,-11.3%
-2024-07-24,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4870k
-2024-07-25,JN,Nationwide Dept Sales YoY,07:30,Jun,--,14.4%
-2024-07-25,FR,Business Confidence,08:45,Jul,99.0,99.0
-2024-07-25,GE,IFO Business Climate,10:00,Jul,89.0,88.6
-2024-07-25,EC,M3 Money Supply YoY,10:00,Jun,1.8%,1.6%
-2024-07-25,UK,CBI Business Optimism,12:00,Jul,--,9.0
-2024-07-25,FR,Total Jobseekers,12:00,2Q,--,2819.8k
-2024-07-25,US,GDP Annualized QoQ,14:30,2Q A,1.8%,1.4%
-2024-07-25,US,Core PCE Price Index QoQ,14:30,2Q A,--,3.7%
-2024-07-25,US,Initial Jobless Claims,14:30,--,--,243k
-2024-07-25,US,Cap Goods Orders Nondef Ex Air,14:30,Jun P,0.1%,-0.6%
-2024-07-25,US,Kansas City Fed Manf. Activity,17:00,Jul,-6.0,-8.0
-2024-07-26,JN,Tokyo CPI YoY,01:30,Jul,2.3%,2.3%
-2024-07-26,FR,Consumer Confidence,08:45,Jul,90.0,89.0
-2024-07-26,EC,ECB 1 Year CPI Expectations,10:00,Jun,--,2.8%
-2024-07-26,EC,ECB 3 Year CPI Expectations,10:00,Jun,--,2.3%
-2024-07-26,IT,Economic Sentiment,10:00,Jul,--,94.5
-2024-07-26,US,Personal Spending,14:30,Jun,0.2%,0.2%
-2024-07-26,US,Core PCE Price Index YoY,14:30,Jun,2.6%,2.6%
-2024-07-26,US,U. of Mich. Sentiment,16:00,Jul F,--,66.0
-2024-07-26,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
+2024-07-27,CH,Industrial Profits YoY,03:30,Jun,--,0.7%
+2024-07-29,UK,Mortgage Approvals,10:30,Jun,--,60.0k
+2024-07-29,UK,CBI Total Dist. Reported Sales,12:00,Jul,--,-9.0
+2024-07-29,US,Dallas Fed Manf. Activity,16:30,Jul,-14.2,-15.1
+2024-07-29,GE,Import Price Index YoY,29-30,Jun,--,-0.4%
+2024-07-29,GE,Retail Sales MoM,29-31,May,--,-1.2%
+2024-07-30,JN,Jobless Rate,01:30,Jun,2.6%,2.6%
+2024-07-30,FR,Consumer Spending MoM,07:30,Jun,--,1.5%
+2024-07-30,FR,GDP QoQ,07:30,2Q P,--,0.2%
+2024-07-30,GE,GDP SA QoQ,10:00,2Q P,0.1%,0.2%
+2024-07-30,IT,GDP WDA QoQ,10:00,2Q P,--,0.3%
+2024-07-30,EC,Economic Confidence,11:00,Jul,--,95.9
+2024-07-30,EC,GDP SA QoQ,11:00,2Q A,0.2%,0.3%
+2024-07-30,GE,CPI EU Harmonized YoY,14:00,Jul P,2.6%,2.5%
+2024-07-30,US,S&P CoreLogic CS 20-City YoY NSA,15:00,May,--,7.2%
+2024-07-30,US,JOLTS Job Openings,16:00,Jun,--,8140k
+2024-07-30,US,Conf. Board Cons. Conf.,16:00,Jul,99.7,100.4
+2024-07-31,JN,Retail Sales MoM,01:50,Jun,0.0%,1.7%
+2024-07-31,JN,Industrial Production MoM,01:50,Jun P,-4.6%,3.6%
+2024-07-31,CH,Manufacturing PMI,03:30,Jul,49.3,49.5
+2024-07-31,CH,Non-manufacturing PMI,03:30,Jul,50.2,50.5
+2024-07-31,JN,Housing Starts YoY,07:00,Jun,-2.4%,-5.3%
+2024-07-31,JN,Consumer Confidence Index,07:00,Jul,36.5,36.4
+2024-07-31,FR,CPI EU Harmonized YoY,08:45,Jul P,--,2.5%
+2024-07-31,FR,PPI YoY,08:45,Jun,--,-6.7%
+2024-07-31,GE,Unemployment Change (000's),09:55,Jul,15.0k,19.0k
+2024-07-31,EC,CPI Estimate YoY,11:00,Jul,2.4%,2.5%
+2024-07-31,US,ADP Employment Change,14:15,Jul,168k,150k
+2024-07-31,US,Employment Cost Index,14:30,2Q,1.0%,1.2%
+2024-07-31,US,MNI Chicago PMI,15:45,Jul,44.0,47.4
+2024-07-31,US,Pending Home Sales MoM,16:00,Jun,1.5%,-2.1%
+2024-07-31,US,DOE U.S. Crude Oil Inventories,16:30,--,--,-3741k
+2024-07-31,US,FOMC Rate Decision (Upper Bound),20:00,--,5.50%,5.50%
+2024-07-31,JN,BOJ Target Rate (Upper Bound),--,--,0.1%,0.1%
+2024-08-01,JN,Jibun Bank Japan PMI Mfg,02:30,Jul F,--,49.2
+2024-08-01,CH,Caixin China PMI Mfg,03:45,Jul,51.5,51.8
+2024-08-01,EC,HCOB Eurozone Manufacturing PMI,10:00,Jul F,--,45.6
+2024-08-01,UK,S&P Global UK Manufacturing PMI,10:30,Jul F,--,51.8
+2024-08-01,UK,Bank of England Rate,13:00,--,5.00%,5.25%
+2024-08-01,US,Challenger Job Cuts YoY,13:30,Jul,--,19.8%
+2024-08-01,UK,BOE Governor Andrew Bailey press conference,13:30,--,--,--
+2024-08-01,US,Unit Labor Costs,14:30,2Q P,--,4.0%
+2024-08-01,US,Initial Jobless Claims,14:30,--,--,235k
+2024-08-01,US,S&P Global US Manufacturing PMI,15:45,Jul F,--,49.5
+2024-08-01,US,Construction Spending MoM,16:00,Jun,0.2%,-0.1%
+2024-08-01,US,ISM Manufacturing,16:00,Jul,49.0,48.5
+2024-08-01,US,Wards Total Vehicle Sales,--,Jul,16.20m,15.29m
+2024-08-02,FR,Industrial Production MoM,08:45,Jun,--,-2.1%
+2024-08-02,IT,Industrial Production MoM,10:00,Jun,--,0.5%
+2024-08-02,US,Change in Nonfarm Payrolls,14:30,Jul,175k,206k
+2024-08-02,US,Average Hourly Earnings YoY,14:30,Jul,3.7%,3.9%
+2024-08-02,US,Cap Goods Orders Nondef Ex Air,16:00,Jun F,--,1.0%
+2024-08-02,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
