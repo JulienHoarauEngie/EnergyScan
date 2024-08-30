@@ -1,48 +1,48 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-26 August 2024,--,--,--,--,--
-GE,IFO Business Climate,10:00,Aug,86.0,87.0
-US,Cap Goods Orders Nondef Ex Air,14:30,Jul P,0.1%,0.9%
-US,Dallas Fed Manf. Activity,16:30,Aug,-16.0,-17.5
-27 August 2024,--,--,--,--,--
-CH,Industrial Profits YoY,03:30,Jul,--,3.6%
-GE,GfK Consumer Confidence,08:00,Sep,-18.2,-18.4
-UK,CBI Retailing Reported Sales,12:00,Aug,-10.0,-43.0
-US,FHFA House Price Index MoM,15:00,Jun,0.1%,0.0%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jun,6.1%,6.8%
-US,Conf. Board Consumer Confidence,16:00,Aug,101.0,100.3
-US,Richmond Fed Manufact. Index,16:00,Aug,--,-17.0
-28 August 2024,--,--,--,--,--
-FR,Consumer Confidence,08:45,Aug,92.0,91.0
-EC,M3 Money Supply YoY,10:00,Jul,2.7%,2.2%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4649k
-29 August 2024,--,--,--,--,--
-US,Fed's Bostic Speaks on Economic Outlook,00:00,--,--,--
-EC,EU27 New Car Registrations,06:00,Jul,--,4.3%
-JN,Consumer Confidence Index,07:00,Aug,37.0,36.7
-EC,Economic Confidence,11:00,Aug,96.0,95.8
-GE,CPI EU Harmonized YoY,14:00,Aug P,2.3%,2.6%
-US,GDP Annualized QoQ,14:30,2Q S,2.8%,2.8%
-US,Advance Goods Trade Balance,14:30,Jul,-$97.9b,-$96.8b
-US,Retail Inventories MoM,14:30,Jul,0.6%,0.7%
-US,Initial Jobless Claims,14:30,--,232k,232k
-US,Pending Home Sales MoM,16:00,Jul,0.4%,4.8%
-30 August 2024,--,--,--,--,--
-JN,Jobless Rate,01:30,Jul,2.5%,2.5%
-JN,Tokyo CPI YoY,01:30,Aug,2.3%,2.2%
-JN,Industrial Production MoM,01:50,Jul P,3.6%,-4.2%
-JN,Retail Sales MoM,01:50,Jul,0.4%,0.6%
-JN,Housing Starts YoY,07:00,Jul,-1.0%,-6.7%
-GE,Import Price Index YoY,08:00,Jul,1.5%,0.7%
-GE,Retail Sales MoM,08:00,May,0.1%,-1.2%
-UK,Nationwide House Px NSA YoY,08:00,Aug,2.9%,2.1%
-FR,Consumer Spending MoM,08:45,Jul,0.4%,-0.5%
-FR,CPI EU Harmonized YoY,08:45,Aug P,2.1%,2.7%
-GE,Unemployment Change (000's),09:55,Aug,16.0k,18.0k
-UK,Mortgage Approvals,10:30,Jul,60.5k,60.0k
-EC,CPI Estimate YoY,11:00,Aug,2.2%,2.6%
-EC,Unemployment Rate,11:00,Jul,6.5%,6.5%
-US,Personal Spending,14:30,Jul,0.5%,0.3%
-US,PCE Price Index YoY,14:30,Jul,2.6%,2.5%
-US,MNI Chicago PMI,15:45,Aug,44.5,45.3
-US,U. of Mich. Sentiment,16:00,Aug F,68.0,67.8
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,483.0
+31 August 2024,--,--,--,--,--
+CH,Manufacturing PMI,03:30,Aug,49.5,49.4
+CH,Non-manufacturing PMI,03:30,Aug,50.1,50.2
+02 September 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,02:30,Aug F,--,49.5
+CH,Caixin China PMI Mfg,03:45,Aug,50.0,49.8
+EC,HCOB Eurozone Manufacturing PMI,10:00,Aug F,45.6,45.6
+IT,GDP WDA QoQ,10:00,2Q F,0.2%,0.2%
+UK,S&P Global UK Manufacturing PMI,10:30,Aug F,52.5,52.5
+03 September 2024,--,--,--,--,--
+US,S&P Global US Manufacturing PMI,15:45,Aug F,48.1,48.0
+US,Construction Spending MoM,16:00,Jul,0.1%,-0.3%
+US,ISM Manufacturing,16:00,Aug,47.5,46.8
+04 September 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,02:30,Aug F,--,54.0
+CH,Caixin China PMI Services,03:45,Aug,52.1,52.1
+EC,HCOB Eurozone Services PMI,10:00,Aug F,53.3,53.3
+UK,S&P Global UK Services PMI,10:30,Aug F,53.3,53.3
+EC,PPI YoY,11:00,Jul,-2.5%,-3.2%
+EC,ECB's Villeroy Speaks,13:00,--,--,--
+US,Trade Balance,14:30,Jul,-$78.5b,-$73.1b
+CA,Bank of Canada Rate Decision,15:45,--,4.25%,4.50%
+US,JOLTS Job Openings,16:00,Jul,7900k,8184k
+US,Cap Goods Orders Nondef Ex Air,16:00,Jul F,--,-0.1%
+US,Federal Reserve Releases Beige Book,20:00,--,--,--
+US,Wards Total Vehicle Sales,--,Aug,15.35m,15.82m
+05 September 2024,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Jul,-1.9%,3.9%
+UK,New Car Registrations YoY,10:00,Aug,--,2.5%
+EC,Retail Sales MoM,11:00,Jul,0.1%,-0.3%
+US,Challenger Job Cuts YoY,13:30,Aug,--,9.2%
+US,ADP Employment Change,14:15,Aug,145k,122k
+US,Unit Labor Costs,14:30,2Q F,0.9%,0.9%
+US,Initial Jobless Claims,14:30,,--,231k
+US,S&P Global US Services PMI,15:45,Aug F,--,55.2
+US,ISM Services Index,16:00,Aug,50.9,51.4
+US,DOE U.S. Crude Oil Inventories,17:00,--,--,-846k
+06 September 2024,--,--,--,--,--
+JN,Household Spending YoY,01:30,Jul,1.2%,-1.4%
+JN,Leading Index CI,07:00,Jul P,109.4,109.0
+GE,Industrial Production SA MoM,08:00,Jul,-0.4%,1.4%
+GE,Trade Balance SA,08:00,Jul,21.3b,20.4b
+FR,Trade Balance,08:45,Jul,--,-6088m
+EC,GDP SA QoQ,11:00,2Q F,0.3%,0.3%
+US,Change in Nonfarm Payrolls,14:30,Aug,160k,114k
+US,Average Hourly Earnings YoY,14:30,Aug,3.7%,3.6%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
