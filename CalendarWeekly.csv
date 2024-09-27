@@ -1,49 +1,53 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-23 September 2024,--,--,--,--,--
-FR,HCOB France Composite PMI,09:15,Sep P,--,53.1
-GE,HCOB Germany Composite PMI,09:30,Sep P,48.5,48.4
-EC,Eurozone Composite PMI,10:00,Sep P,50.9,51.0
-IT,Istat Revised GDP Annual Series 1995-2023,10:00,--,--,--
-UK,S&P Global UK Composite PMI,10:30,Sep P,54.0,53.8
-UK,CBI Trends Total Orders,12:00,Sep,--,-22.0
-US,Fed's Bostic Gives Speech on Economic Outlook,14:00,--,--,--
-US,Chicago Fed Nat Activity Index,14:30,Aug,-0.2,-0.3
-US,US Composite PMI,15:45,Sep P,--,54.6
-24 September 2024,--,--,--,--,--
-JN,Jibun Bank Japan PMI Composite,02:30,Sep P,--,52.9
-GE,IFO Business Climate,10:00,Sep,86.2,86.6
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jul,5.9%,6.5%
-US,Conf. Board Cons. Conf.,16:00,Sep,102.8,103.3
-US,Richmond Fed Manufact. Index,16:00,Sep,--,-19.0
-25 September 2024,--,--,--,--,--
-JN,Nationwide Dept Sales YoY,07:30,Aug,--,5.5%
-FR,Consumer Confidence,08:45,Sep,92.0,92.0
-EC,OECD Publishes Interim Economic Outlook,11:00,--,--,--
-US,New Home Sales MoM,16:00,Aug,-6.6%,10.6%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-1630k
-26 September 2024,--,--,--,--,--
-JN,BOJ Minutes of July Meeting,01:50,--,--,--
-GE,GfK Consumer Confidence,08:00,Oct,-22.0,-22.0
-IT,Economic Sentiment,10:00,Sep,--,94.7
-EC,M3 Money Supply YoY,10:00,Aug,2.5%,2.3%
-EC,ECB Publishes Economic Bulletin,10:00,--,--,--
-US,GDP Annualized QoQ,14:30,2Q T,2.9%,3.0%
-US,Durable Goods Orders,14:30,Aug P,-2.8%,9.8%
-US,Initial Jobless Claims,14:30,--,--,219k
-US,Fed's Powell Gives Opening Remarks,15:20,--,--,--
-EC,ESRB's Lagarde Gives Welcome Address,15:30,--,--,--
-US,Pending Home Sales MoM,16:00,Aug,--,-5.5%
-US,Kansas City Fed Manf. Activity,17:00,Sep,--,-3.0
-27 September 2024,--,--,--,--,--
-JN,Tokyo CPI YoY,01:30,Sep,2.2%,2.6%
-CH,Industrial Profits YoY,03:30,Aug,--,4.1%
-FR,Consumer Spending MoM,08:45,Aug,--,0.3%
-FR,CPI EU Harmonized YoY,08:45,Sep P,2.0%,2.2%
-GE,Unemployment Change (000's),09:55,Sep,15.0k,2.0k
-EC,Economic Confidence,11:00,Sep,96.5,96.6
-UK,CBI Total Dist. Reported Sales,12:00,Sep,--,-20.0
-US,Personal Spending,14:30,Aug,0.3%,0.5%
-US,Advance Goods Trade Balance,14:30,Aug,-$98.5b,-$102.7b
-US,Core PCE Price Index YoY,14:30,Aug,2.7%,2.6%
-US,U. of Mich. Sentiment,16:00,Sep F,--,69.0
+30 September 2024,--,--,--,--,--
+JN,Industrial Production MoM,01:50,Aug P,-0.5%,3.1%
+JN,Retail Sales MoM,01:50,Aug,0.5%,0.2%
+CH,Manufacturing PMI,03:30,Sep,49.5,49.1
+CH,Non-manufacturing PMI,03:30,Sep,50.5,50.3
+CH,Caixin China PMI Mfg,03:45,Sep,50.5,50.4
+CH,Caixin China PMI Services,03:45,Sep,51.6,51.6
+JN,Housing Starts YoY,07:00,Aug,-3.5%,-0.2%
+GE,Import Price Index YoY,08:00,Aug,0.0%,0.9%
+UK,Nationwide House Px NSA YoY,08:00,Sep,2.5%,2.4%
+UK,GDP QoQ,08:00,2Q F,0.6%,0.6%
+UK,Mortgage Approvals,10:30,Aug,64.5k,62.0k
+IT,CPI NIC incl. tobacco YoY,11:00,Sep P,0.8%,1.1%
+GE,CPI EU Harmonized YoY,14:00,Sep P,1.9%,2.0%
+EC,ECB's Lagarde Speaks in EU Parliament,15:00,--,--,--
+US,MNI Chicago PMI,15:45,Sep,46.8,46.1
+US,Dallas Fed Manf. Activity,16:30,Sep,-10.6,-9.7
+US,Fed's Powell Speaks at NABE,19:00,--,--,--
+01 October 2024,--,--,--,--,--
+JN,Jobless Rate,01:30,Aug,2.6%,2.7%
+JN,BOJ Summary of Opinions (Sept. MPM),01:50,--,--,--
+JN,Tankan Large Mfg Index,01:50,3Q,12.0,13.0
+JN,Jibun Bank Japan PMI Mfg,02:30,Sep F,--,49.6
+EC,Eurozone Manufacturing PMI,10:00,Sep F,44.8,44.8
+UK,S&P Global UK Manufacturing PMI,10:30,Sep F,51.5,51.5
+EC,CPI Estimate YoY,11:00,Sep,2.0%,2.2%
+US,S&P Global US Manufacturing PMI,15:45,Sep F,47.0,47.0
+US,Construction Spending MoM,16:00,Aug,0.1%,-0.3%
+US,JOLTS Job Openings,16:00,Aug,--,7673k
+US,ISM Manufacturing,16:00,Sep,47.6,47.2
+US,Wards Total Vehicle Sales,--,Sep,15.67m,15.13m
+02 October 2024,--,--,--,--,--
+JN,Consumer Confidence Index,07:00,Sep,37.0,36.7
+FR,Budget Balance YTD,08:45,Aug,--,-156.9b
+EC,Unemployment Rate,11:00,Aug,6.4%,6.4%
+US,ADP Employment Change,14:15,Sep,123k,99k
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4471k
+03 October 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,02:30,Sep F,--,53.9
+EC,Eurozone Services PMI,10:00,Sep F,50.5,50.5
+UK,S&P Global UK Services PMI,10:30,Sep F,52.8,52.8
+EC,PPI YoY,11:00,Aug,-2.4%,-2.1%
+US,Challenger Job Cuts YoY,13:30,Sep,--,1.0%
+US,Initial Jobless Claims,14:30,--,--,218k
+US,S&P Global US Services PMI,15:45,Sep F,--,55.4
+US,Cap Goods Orders Nondef Ex Air,16:00,Aug F,--,0.2%
+US,ISM Services Index,16:00,Sep,51.5,51.5
+04 October 2024,--,--,--,--,--
+FR,Industrial Production MoM,08:45,Aug,0.5%,-0.5%
+US,Var. in Nonfarm Payrolls,14:30,Sep,140k,142k
+US,Average Hourly Earnings YoY,14:30,Sep,3.7%,3.8%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
