@@ -1,53 +1,38 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-30 September 2024,--,--,--,--,--
-JN,Industrial Production MoM,01:50,Aug P,-0.5%,3.1%
-JN,Retail Sales MoM,01:50,Aug,0.5%,0.2%
-CH,Manufacturing PMI,03:30,Sep,49.5,49.1
-CH,Non-manufacturing PMI,03:30,Sep,50.5,50.3
-CH,Caixin China PMI Mfg,03:45,Sep,50.5,50.4
-CH,Caixin China PMI Services,03:45,Sep,51.6,51.6
-JN,Housing Starts YoY,07:00,Aug,-3.5%,-0.2%
-GE,Import Price Index YoY,08:00,Aug,0.0%,0.9%
-UK,Nationwide House Px NSA YoY,08:00,Sep,2.5%,2.4%
-UK,GDP QoQ,08:00,2Q F,0.6%,0.6%
-UK,Mortgage Approvals,10:30,Aug,64.5k,62.0k
-IT,CPI NIC incl. tobacco YoY,11:00,Sep P,0.8%,1.1%
-GE,CPI EU Harmonized YoY,14:00,Sep P,1.9%,2.0%
-EC,ECB's Lagarde Speaks in EU Parliament,15:00,--,--,--
-US,MNI Chicago PMI,15:45,Sep,46.8,46.1
-US,Dallas Fed Manf. Activity,16:30,Sep,-10.6,-9.7
-US,Fed's Powell Speaks at NABE,19:00,--,--,--
-01 October 2024,--,--,--,--,--
-JN,Jobless Rate,01:30,Aug,2.6%,2.7%
-JN,BOJ Summary of Opinions (Sept. MPM),01:50,--,--,--
-JN,Tankan Large Mfg Index,01:50,3Q,12.0,13.0
-JN,Jibun Bank Japan PMI Mfg,02:30,Sep F,--,49.6
-EC,Eurozone Manufacturing PMI,10:00,Sep F,44.8,44.8
-UK,S&P Global UK Manufacturing PMI,10:30,Sep F,51.5,51.5
-EC,CPI Estimate YoY,11:00,Sep,2.0%,2.2%
-US,S&P Global US Manufacturing PMI,15:45,Sep F,47.0,47.0
-US,Construction Spending MoM,16:00,Aug,0.1%,-0.3%
-US,JOLTS Job Openings,16:00,Aug,--,7673k
-US,ISM Manufacturing,16:00,Sep,47.6,47.2
-US,Wards Total Vehicle Sales,--,Sep,15.67m,15.13m
-02 October 2024,--,--,--,--,--
-JN,Consumer Confidence Index,07:00,Sep,37.0,36.7
-FR,Budget Balance YTD,08:45,Aug,--,-156.9b
-EC,Unemployment Rate,11:00,Aug,6.4%,6.4%
-US,ADP Employment Change,14:15,Sep,123k,99k
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-4471k
-03 October 2024,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,02:30,Sep F,--,53.9
-EC,Eurozone Services PMI,10:00,Sep F,50.5,50.5
-UK,S&P Global UK Services PMI,10:30,Sep F,52.8,52.8
-EC,PPI YoY,11:00,Aug,-2.4%,-2.1%
-US,Challenger Job Cuts YoY,13:30,Sep,--,1.0%
-US,Initial Jobless Claims,14:30,--,--,218k
-US,S&P Global US Services PMI,15:45,Sep F,--,55.4
-US,Cap Goods Orders Nondef Ex Air,16:00,Aug F,--,0.2%
-US,ISM Services Index,16:00,Sep,51.5,51.5
-04 October 2024,--,--,--,--,--
-FR,Industrial Production MoM,08:45,Aug,0.5%,-0.5%
-US,Var. in Nonfarm Payrolls,14:30,Sep,140k,142k
-US,Average Hourly Earnings YoY,14:30,Sep,3.7%,3.8%
+07 October 2024,--,--,--,--,--
+JN,Leading Index CI,07:00,Aug P,106.9,109.3
+GE,Factory Orders MoM,08:00,Aug,-2.0%,2.9%
+EC,Sentix Investor Confidence,10:30,Oct,-14.7,-15.4
+EC,Retail Sales MoM,11:00,Aug,0.3%,0.1%
+US,Consumer Credit,21:00,Aug,$13.400b,$25.452b
+08 October 2024,--,--,--,--,--
+JN,Labor Cash Earnings YoY,01:30,Aug,3.0%,3.6%
+JN,Household Spending YoY,01:30,Aug,-2.7%,0.1%
+JN,BoP Current Account Adjusted,01:50,Aug,¥2419.0b,¥2802.9b
+GE,Industrial Production SA MoM,08:00,Aug,0.8%,-2.4%
+FR,Trade Balance,08:45,Aug,--,-5884m
+US,NFIB Small Business Optimism,12:00,Sep,91.7,91.2
+US,Trade Balance,14:30,Aug,-$71.3b,-$78.8b
+US,STEO Current Yr Crude Forecast,18:00,Oct,--,13.3
+09 October 2024,--,--,--,--,--
+GE,Trade Balance SA,08:00,Aug,18.5b,16.8b
+JN,Machine Tool Orders YoY,08:00,Sep P,--,-3.5%
+US,Wholesale Inventories MoM,16:00,Aug F,0.2%,0.2%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,3889k
+US,FOMC Meeting Minutes,20:00,--,--,--
+CH,Aggregate Financing CNY YTD,09-15,Sep,--,21900.0b
+10 October 2024,--,--,--,--,--
+UK,RICS House Price Balance,01:01,Sep,10.0%,1.0%
+JN,PPI YoY,01:50,Sep,2.3%,2.5%
+GE,Retail Sales MoM,08:00,Aug,--,--
+IT,Industrial Production MoM,10:00,Aug,0.0%,-0.9%
+US,CPI YoY,14:30,Sep,2.3%,2.5%
+US,Initial Jobless Claims,14:30,--,--,225k
+11 October 2024,--,--,--,--,--
+GE,CPI EU Harmonized YoY,08:00,Sep F,1.8%,1.8%
+UK,Monthly GDP (MoM),08:00,Aug,0.2%,0.0%
+UK,Industrial Production MoM,08:00,Aug,0.2%,-0.8%
+UK,Visible Trade Balance GBP/Mn,08:00,Aug,-£19300m,-£20003m
+US,PPI Final Demand YoY,14:30,Sep,1.7%,1.7%
+US,U. of Mich. Sentiment,16:00,Oct P,70.0,70.1
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
