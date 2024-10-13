@@ -1,38 +1,84 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-07 October 2024,--,--,--,--,--
-JN,Leading Index CI,07:00,Aug P,106.9,109.3
-GE,Factory Orders MoM,08:00,Aug,-2.0%,2.9%
-EC,Sentix Investor Confidence,10:30,Oct,-14.7,-15.4
-EC,Retail Sales MoM,11:00,Aug,0.3%,0.1%
-US,Consumer Credit,21:00,Aug,$13.400b,$25.452b
-08 October 2024,--,--,--,--,--
-JN,Labor Cash Earnings YoY,01:30,Aug,3.0%,3.6%
-JN,Household Spending YoY,01:30,Aug,-2.7%,0.1%
-JN,BoP Current Account Adjusted,01:50,Aug,¥2419.0b,¥2802.9b
-GE,Industrial Production SA MoM,08:00,Aug,0.8%,-2.4%
-FR,Trade Balance,08:45,Aug,--,-5884m
-US,NFIB Small Business Optimism,12:00,Sep,91.7,91.2
-US,Trade Balance,14:30,Aug,-$71.3b,-$78.8b
-US,STEO Current Yr Crude Forecast,18:00,Oct,--,13.3
-09 October 2024,--,--,--,--,--
-GE,Trade Balance SA,08:00,Aug,18.5b,16.8b
-JN,Machine Tool Orders YoY,08:00,Sep P,--,-3.5%
-US,Wholesale Inventories MoM,16:00,Aug F,0.2%,0.2%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,3889k
-US,FOMC Meeting Minutes,20:00,--,--,--
-CH,Aggregate Financing CNY YTD,09-15,Sep,--,21900.0b
-10 October 2024,--,--,--,--,--
-UK,RICS House Price Balance,01:01,Sep,10.0%,1.0%
-JN,PPI YoY,01:50,Sep,2.3%,2.5%
-GE,Retail Sales MoM,08:00,Aug,--,--
-IT,Industrial Production MoM,10:00,Aug,0.0%,-0.9%
-US,CPI YoY,14:30,Sep,2.3%,2.5%
-US,Initial Jobless Claims,14:30,--,--,225k
-11 October 2024,--,--,--,--,--
-GE,CPI EU Harmonized YoY,08:00,Sep F,1.8%,1.8%
-UK,Monthly GDP (MoM),08:00,Aug,0.2%,0.0%
-UK,Industrial Production MoM,08:00,Aug,0.2%,-0.8%
-UK,Visible Trade Balance GBP/Mn,08:00,Aug,-£19300m,-£20003m
-US,PPI Final Demand YoY,14:30,Sep,1.7%,1.7%
-US,U. of Mich. Sentiment,16:00,Oct P,70.0,70.1
+14 October 2024,--,--,--,--,--
+CH,Aggregate Financing CNY YTD,14-15,Sep,25475.2b,21900.0b
+CH,Trade Balance,09:00,Sep,$91.00b,$91.02b
+US,Fed's Waller Speaks on the Economic Outlook,21:00,--,--,--
+15 October 2024,--,--,--,--,--
+UK,Weekly Earnings ex Bonus 3M/YoY,08:00,Aug,4.9%,5.1%
+UK,Jobless Claims Change,08:00,Sep,--,23.7k
+FR,CPI EU Harmonized YoY,08:45,Sep F,1.5%,1.5%
+EC,ECB Bank Lending Survey,10:00,--,--,--
+GE,ZEW Survey Expectations,11:00,Oct,10.0,3.6
+EC,Industrial Production SA MoM,11:00,Aug,1.8%,-0.3%
+US,Empire Manufacturing,14:30,Oct,3.6,11.5
+16 October 2024,--,--,--,--,--
+JN,Core Machine Orders MoM,01:50,Aug,-0.1%,-0.1%
+UK,CPI YoY,08:00,Sep,1.9%,2.2%
+UK,PPI Output NSA YoY,08:00,Sep,-0.6%,0.2%
+UK,House Price Index YoY,10:30,Aug,--,2.2%
+US,Import Price Index YoY,14:30,Sep,0.0%,0.8%
+EC,ECB's Lagarde Speaks,20:40,--,--,--
+17 October 2024,--,--,--,--,--
+JN,Trade Balance Adjusted,01:50,Sep,-¥496.6b,-¥595.9b
+EC,CPI YoY,11:00,Sep F,1.8%,1.8%
+EC,Trade Balance SA,11:00,Aug,17.7b,15.5b
+EC,ECB Deposit Facility Rate,14:15,--,3.25%,3.50%
+US,Retail Sales Advance MoM,14:30,Sep,0.3%,0.1%
+US,Initial Jobless Claims,14:30,--,253k,258k
+EC,ECB President Holds Press Conference,14:45,--,--,--
+US,Industrial Production MoM,15:15,Sep,-0.1%,0.8%
+US,Business Inventories,16:00,Aug,0.3%,0.4%
+US,NAHB Housing Market Index,16:00,Oct,42.0,41.0
+US,DOE U.S. Crude Oil Inventories,17:00,--,--,5810k
+US,Net Long-term TIC Flows,22:00,Aug,--,$135.4b
+18 October 2024,--,--,--,--,--
+JN,Natl CPI YoY,01:30,Sep,2.5%,3.0%
+CH,New Home Prices MoM,03:30,Sep,--,-0.7%
+CH,GDP YoY,04:00,3Q,4.5%,4.7%
+CH,Industrial Production YoY,04:00,Sep,4.6%,4.5%
+CH,Retail Sales YoY,04:00,Sep,2.5%,2.1%
+CH,Surveyed Jobless Rate,04:00,Sep,5.3%,5.3%
+UK,Retail Sales Inc Auto Fuel MoM,08:00,Sep,-0.5%,1.0%
+EC,ECB Current Account SA,10:00,Aug,--,39.6b
+EC,Construction Output MoM,11:00,Aug,--,0.0%
+US,Housing Starts MoM,14:30,Sep,-0.4%,9.6%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,481.0
+21 October 2024,--,--,--,--,--
+CH,5-Year Loan Prime Rate,03:00,--,3.65%,3.85%
+CH,1-Year Loan Prime Rate,03:00,--,3.15%,3.35%
+GE,PPI YoY,08:00,Sep,--,-0.8%
+US,Leading Index,16:00,Sep,-0.3%,-0.2%
+22 October 2024,--,--,--,--,--
+EC,EU27 New Car Registrations,06:00,Sep,--,-18.3%
+UK,PSNB ex Banking Groups,08:00,Sep,--,13.7b
+EC,Govt Debt/GDP Ratio,11:00,2023 F,--,88.6%
+UK,BOE's Bailey Speaks,15:25,--,--,--
+US,Richmond Fed Manufact. Index,16:00,Oct,--,-21.0
+23 October 2024,--,--,--,--,--
+CA,Bank of Canada Rate Decision,15:45,--,4.00%,4.25%
+EC,Consumer Confidence,16:00,Oct P,--,-12.9
+US,Existing Home Sales MoM,16:00,Sep,0.4%,-2.5%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,--
+US,Federal Reserve Releases Beige Book,20:00,--,--,--
+24 October 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Composite,02:30,Oct P,--,52.0
+FR,Business Confidence,08:45,Oct,--,98.0
+FR,HCOB France Composite PMI,09:15,Oct P,--,48.6
+GE,HCOB Germany Composite PMI,09:30,Oct P,--,47.5
+EC,HCOB Eurozone Composite PMI,10:00,Oct P,--,49.6
+UK,S&P Global UK Composite PMI,10:30,Oct P,--,52.6
+UK,CBI Business Optimism,12:00,Oct,--,-9.0
+US,Chicago Fed Nat Activity Index,14:30,Sep,--,0.12
+US,Initial Jobless Claims,14:30,--,--,--
+US,S&P Global US Composite PMI,15:45,Oct P,--,54.0
+US,New Home Sales MoM,16:00,Sep,-0.4%,-4.7%
+25 October 2024,--,--,--,--,--
+JN,Tokyo CPI YoY,01:30,Oct,--,2.20%
+FR,Consumer Confidence,08:45,Oct,--,95.0
+GE,IFO Business Climate,10:00,Oct,--,85.4
+IT,Economic Sentiment,10:00,Oct,--,95.7
+EC,M3 Money Supply YoY,10:00,Sep,--,2.9%
+FR,Total Jobseekers,12:00,3Q,--,2808.7k
+US,Durable Goods Orders,14:30,Sep P,-1.0%,0.0%
+US,U. of Mich. Sentiment,16:00,Oct F,--,68.9
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
