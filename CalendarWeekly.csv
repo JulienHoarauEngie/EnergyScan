@@ -1,48 +1,51 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-25 November 2024,--,--,--,--,--
-JN,Nationwide Dept Sales YoY,06:30,Oct,--,2.3%
-GE,IFO Business Climate,10:00,Nov,86.7,86.5
-US,Chicago Fed Nat Activity Index,14:30,Oct,--,-0.28
-US,Dallas Fed Manf. Activity,16:30,Nov,-1.8,-3.0
-26 November 2024,--,--,--,--,--
-UK,CBI Total Dist. Reported Sales,12:00,Nov,--,-12.0
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Sep,--,5.2%
-US,New Home Sales MoM,16:00,Oct,-2.2%,4.1%
-US,Conf. Board Consumer Confidence,16:00,Nov,112.5,108.7
-US,Richmond Fed Manufact. Index,16:00,Nov,--,-14.0
-US,FOMC Meeting Minutes,20:00,--,--,--
-27 November 2024,--,--,--,--,--
-CH,Industrial Profits YoY,02:30,Oct,--,-27.1%
-FR,Consumer Confidence,08:45,Nov,94.0,94.0
-GE,GfK Consumer Confidence,10:30,Dec,-18.4,-18.3
-US,GDP Annualized QoQ,14:30,3Q S,2.8%,2.8%
-US,Advance Goods Trade Balance,14:30,Oct,-$99.3b,-$108.2b
-US,Cap Goods Orders Nondef Ex Air,14:30,Oct P,0.2%,0.7%
+30 November 2024,--,--,--,--,--
+CH,Manufacturing PMI,02:30,Nov,50.2,50.1
+CH,Non-manufacturing PMI,02:30,Nov,50.3,50.2
+02 December 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,01:30,Nov F,--,49.0
+CH,Caixin China PMI Mfg,02:45,Nov,50.6,50.3
+UK,Nationwide House Px NSA YoY,08:00,Nov,2.4%,2.4%
+EC,Eurozone Manuf. PMI,10:00,Nov F,45.2,45.2
+IT,GDP WDA QoQ,10:00,3Q F,--,0.0%
+UK,S&P Global UK Manufacturing PMI,10:30,Nov F,48.6,48.6
+EC,Unemployment Rate,11:00,Oct,6.3%,6.3%
+US,S&P Global US Manufacturing PMI,15:45,Nov F,48.8,48.8
+US,Construction Spending MoM,16:00,Oct,0.2%,0.1%
+US,ISM Manufacturing,16:00,Nov,47.6,46.5
+03 December 2024,--,--,--,--,--
+FR,Budget Balance YTD,08:45,Oct,--,-173.8b
+US,JOLTS Job Openings,16:00,Oct,7510k,7443k
+US,Wards Total Vehicle Sales,--,Nov,16.00m,16.04m
+04 December 2024,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,01:30,Nov F,--,50.2
+CH,Caixin China PMI Services,02:45,Nov,52.4,52.0
+EC,Eurozone Services PMI,10:00,Nov F,49.2,49.2
+UK,S&P Global UK Services PMI,10:30,Nov F,50.0,50.0
+EC,PPI YoY,11:00,Oct,-3.4%,-3.4%
+EC,OECD Publishes Economic Outlook,12:00,--,--,--
+US,ADP Employment Change,14:15,Nov,165k,233k
+US,S&P Global US Services PMI,15:45,Nov F,--,57.0
+US,ISM Services Index,16:00,Nov,55.5,56.0
+US,Cap Goods Orders Nondef Ex Air,16:00,Oct F,--,-0.2%
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,-1844k
+US,Fed's Powell Speaks in Moderated Talk,19:45,--,--,--
+US,Federal Reserve Releases Beige Book,20:00,--,--,--
+05 December 2024,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Oct,-2.1%,4.2%
+FR,Industrial Production MoM,08:45,Oct,--,-0.9%
+EC,Retail Sales MoM,11:00,Oct,--,0.5%
+US,Challenger Job Cuts YoY,13:30,Nov,--,50.9%
 US,Initial Jobless Claims,14:30,--,--,213k
-US,MNI Chicago PMI,15:45,Nov,--,41.6
-US,Personal Spending,16:00,Oct,0.4%,0.5%
-US,Core PCE Price Index YoY,16:00,Oct,2.8%,2.7%
-US,Pending Home Sales MoM,16:00,Oct,-2.1%,7.4%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,545k
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-28 November 2024,--,--,--,--,--
-IT,Economic Sentiment,10:00,Nov,--,93.4
-EC,M3 Money Supply YoY,10:00,Oct,3.4%,3.2%
-EC,Economic Confidence,11:00,Nov,95.7,95.6
-GE,CPI EU Harmonized YoY,14:00,Nov P,2.6%,2.4%
-29 November 2024,--,--,--,--,--
-JN,Jobless Rate,00:30,Oct,2.5%,2.4%
-JN,Tokyo CPI YoY,00:30,Nov,2.2%,1.8%
-JN,Retail Sales MoM,00:50,Oct,0.5%,-2.3%
-JN,Industrial Production MoM,00:50,Oct P,4.0%,1.6%
-JN,Housing Starts YoY,06:00,Oct,-2.0%,-0.6%
-JN,Consumer Confidence Index,06:00,Nov,36.5,36.2
-GE,Retail Sales MoM,08:00,Oct,-0.5%,1.2%
-FR,Consumer Spending MoM,08:45,Oct,0.0%,0.1%
-FR,CPI EU Harmonized YoY,08:45,Nov P,1.8%,1.6%
-FR,GDP QoQ,08:45,3Q F,0.4%,0.4%
-FR,Total Payrolls,08:45,3Q,--,0.0%
-FR,PPI YoY,08:45,Oct,--,-7.0%
-GE,Unemployment Change (000's),09:55,Nov,17.5k,27.0k
-UK,Mortgage Approvals,10:30,--,--,65.6k
-EC,CPI Estimate YoY,11:00,--,2.3%,2.0%
+06 December 2024,--,--,--,--,--
+JN,Labor Cash Earnings YoY,00:30,Oct,2.6%,2.8%
+JN,Household Spending YoY,00:30,Oct,-2.5%,-1.1%
+JN,Leading Index CI,06:00,Oct P,108.8,109.1
+GE,Industrial Production SA MoM,08:00,Oct,1.5%,-2.5%
+GE,Trade Balance SA,08:00,Oct,--,17.0b
+FR,Trade Balance,08:45,Oct,--,-8266m
+EC,GDP SA QoQ,11:00,3Q F,0.4%,0.4%
+US,Change in Nonfarm Payrolls,14:30,Nov,200k,12k
+US,Average Hourly Earnings YoY,14:30,Nov,3.9%,4.0%
+US,U. of Mich. Sentiment,16:00,Dec P,73.0,71.8
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,477.0
