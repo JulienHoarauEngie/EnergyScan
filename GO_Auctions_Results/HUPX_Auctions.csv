@@ -1,4 +1,4 @@
-Auction date,Production month,Technology,Country,Sell side offered quantity (MWh),Buy side demand quantity (MWh),Traded quantity (MWh),Volume weighted average price (EUR/GO),Lowest buy side bid (EUR/MWh),Highest buy side bid (EUR/MWh),Lowest sell side bid (EUR/MWh),Highest sell side bid (EUR/MWh),Number of auction participants,Number of auction participants with winning bids
+Auction_Date,Production month,Technology,Country,Sell side offered quantity (MWh),Buy side demand quantity (MWh),Traded quantity (MWh),Volume weighted average price (EUR/GO),Lowest buy side bid (EUR/MWh),Highest buy side bid (EUR/MWh),Lowest sell side bid (EUR/MWh),Highest sell side bid (EUR/MWh),Number of auction participants,Number of auction participants with winning bids
 2022.09.20.,Oct-21,Biogas,HU,"16,034","10,000",-,-,-,-,0.23,0.40,2,0
 2022.09.20.,Nov-21,Biogas,HU,"7,047","48,800","7,045",0.31,0.31,0.31,0.25,0.40,3,2
 2022.09.20.,Dec-21,Biogas,HU,"22,025","56,077","2,952",0.31,0.31,0.31,0.28,0.40,3,2
