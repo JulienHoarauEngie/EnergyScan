@@ -2359,3 +2359,47 @@ Auction_Date,Price,Volume_Assigned,Volume_Offered,Product,Exchange,Technology,Pa
 2024-09-20,0.292,1321.0,1321.0,2023-11-01,gse,Solar,
 2024-09-20,0.209,1629.0,1629.0,2023-10-01,gse,Solar,
 2024-09-20,0.167,1400.0,1860.0,2023-09-01,gse,Solar,
+2024-10-16,0.37,782626.0,782626.0,"GR_Interconnected System_
+Jan-24 - Mar-24",dapeep,Solar,
+2024-10-16,0.41,257021.0,257021.0,"GR_Interconnected System_
+Jan-24 - Mar-24",dapeep,Wind,
+2024-10-16,0.37,9683.0,9683.0,"GR_Non-Interconnected Islands_
+Jan-24 - Mar-24",dapeep,Wind,
+2024-06-26,0.37,648411.0,648411.0,"GR_Interconnected System_
+Oct-23 - Dec-23",dapeep,Solar,
+2024-06-26,0.41,229888.0,229888.0,"GR_Interconnected System_
+Oct-23 - Dec-23",dapeep,Wind,
+2024-06-26,0.38,11730.0,11730.0,"GR_Non-Interconnected Islands_
+Oct-23 - Dec-23",dapeep,Wind,
+2024-10-23,0.11,1.0,0.0,"Czech Republic_2024
+Subsidy:No",epex,Nuclear,
+2024-10-23,0.42,1020610.0,0.0,"Europe_2024
+Subsidy:All",epex,All,
+2024-10-23,0.42,555433.0,0.0,"Europe_2024
+Subsidy:All",epex,Hydro,
+2024-10-23,0.08,4.0,0.0,"Europe_2024
+Subsidy:All",epex,Nuclear,
+2024-10-23,0.42,178.0,0.0,"Europe_2024
+Subsidy:All",epex,Solar,
+2024-10-23,0.42,21195.0,0.0,"Europe_2024
+Subsidy:All",epex,Wind,
+2024-10-23,0.05,1.0,0.0,"Finland_2024
+Subsidy:No",epex,Nuclear,
+2024-10-23,0.42,186986.0,0.0,"France_2024
+Subsidy:No",epex,Hydro,
+2024-10-23,0.42,178.0,0.0,"France_2024
+Subsidy:No",epex,Solar,
+2024-10-23,0.42,21195.0,0.0,"France_2024
+Subsidy:No",epex,Wind,
+2024-10-23,0.42,301947.0,0.0,"Nordic_2024
+Subsidy:All",epex,Hydro,
+2024-10-23,0.42,301945.0,0.0,"Norway_2024
+Subsidy:Yes",epex,Hydro,
+2024-10-23,0.5,1.0,0.0,"Sweden_2024
+Subsidy:No",epex,Hydro,
+2024-11-27,0.39,75000.0,0.0,"France_2024
+Subsidy:No",epex,Hydro,
+2024-11-27,0.5,3616.0,0.0,"Germany_2024
+Subsidy:No",epex,Solar,
+2024-11-27,0.53,70127.0,0.0,"Germany_2024
+Subsidy:No",epex,Wind,
