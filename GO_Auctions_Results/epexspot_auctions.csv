@@ -1,0 +1,17 @@
+Production Year,Country,Technology,Subsidy scheme,Price(€/MWh),Volume(MWh),Trading Date
+2024,Czech Republic,Nuclear,No,0.11,1.0,2024-10-23
+2024,Europe,All,All,0.42,"1,020,610.0",2024-10-23
+2024,Europe,Hydro,All,0.42,"555,433.0",2024-10-23
+2024,Europe,Nuclear,All,0.08,4.0,2024-10-23
+2024,Europe,Solar,All,0.42,178.0,2024-10-23
+2024,Europe,Wind,All,0.42,"21,195.0",2024-10-23
+2024,Finland,Nuclear,No,0.05,1.0,2024-10-23
+2024,France,Hydro,No,0.42,"186,986.0",2024-10-23
+2024,France,Solar,No,0.42,178.0,2024-10-23
+2024,France,Wind,No,0.42,"21,195.0",2024-10-23
+2024,Nordic,Hydro,All,0.42,"301,947.0",2024-10-23
+2024,Norway,Hydro,Yes,0.42,"301,945.0",2024-10-23
+2024,Sweden,Hydro,No,0.50,1.0,2024-10-23
+2024,France,Hydro,No,0.39,"75,000.0",2024-11-27
+2024,Germany,Solar,No,0.50,"3,616.0",2024-11-27
+2024,Germany,Wind,No,0.53,"70,127.0",2024-11-27
