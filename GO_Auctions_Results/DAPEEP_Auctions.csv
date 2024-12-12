@@ -1,0 +1,7 @@
+,Auction_Date,Production Month,Technology,Location,Country,Commissioning After,Volume_Offered,Volume_Assigned,Price,Lowest Bid (EUR/MWh),Highest Bid (EUR/MWh),Number of Auction Participants,Number of Auction Participants with Winning Bids
+0,2024-10-16,Jan-24 - Mar-24,Solar,Interconnected System,GR,2021-01-01,782626,782626,0.37,0.36,0.4,12,11
+1,2024-10-16,Jan-24 - Mar-24,Wind,Interconnected System,GR,2021-01-01,257021,257021,0.41,0.4,0.41,12,8
+2,2024-10-16,Jan-24 - Mar-24,Wind,Non-Interconnected Islands,GR,2021-01-01,9683,9683,0.37,0.36,0.37,6,5
+3,2024-06-26,Oct-23 - Dec-23,Solar,Interconnected System,GR,2021-01-01,648411,648411,0.37,0.36,0.7,14,12
+4,2024-06-26,Oct-23 - Dec-23,Wind,Interconnected System,GR,2021-01-01,229888,229888,0.41,0.41,0.42,13,7
+5,2024-06-26,Oct-23 - Dec-23,Wind,Non-Interconnected Islands,GR,2021-01-01,11730,11730,0.38,0.37,0.38,6,4
