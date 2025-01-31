@@ -1,54 +1,47 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-27 January 2025,--,--,--,--,--
-CH,Industrial Profits YoY,02:30,Dec,--,-7.3%
-CH,Manufacturing PMI,02:30,Jan,50.1,50.1
-CH,Non-manufacturing PMI,02:30,Jan,52.2,52.2
-GE,IFO Business Climate,10:00,Jan,84.7,84.7
-US,Chicago Fed Nat Activity Index,14:30,Dec,--,-12.0%
-US,New Home Sales MoM,16:00,Dec,6.6%,5.9%
-US,Dallas Fed Manf. Activity,16:30,Jan,--,3.4
-28 January 2025,--,--,--,--,--
-FR,Consumer Confidence,08:45,Jan,90.0,89.0
-EC,ECB Bank Lending Survey,10:00,--,--,--
-EC,ECB's Villeroy speaks in Paris,10:30,--,--,--
-US,Cap Goods Orders Nondef Ex Air,14:30,Dec P,--,0.4%
-US,FHFA House Price Index MoM,15:00,Nov,--,0.4%
-US,S&P CoreLogic CS 20-City YoY NSA,15:00,Nov,--,4.2%
-US,Conf. Board Cons. Conf.,16:00,Jan,105.6,104.7
-US,Richmond Fed Manufact. Index,16:00,Jan,--,-10.0
-29 January 2025,--,--,--,--,--
-JN,BOJ Minutes of Dec. Meeting,00:50,--,--,--
-JN,Consumer Confidence Index,06:00,Jan,36.5,36.2
-EC,M3 Money Supply YoY,10:00,Dec,4.0%,3.8%
-US,Advance Goods Trade Balance,14:30,Dec,-$105.5b,-$102.9b
-US,Wholesale Inventories MoM,14:30,Dec P,--,-0.2%
-CA,Bank of Canada Rate Decision,15:45,--,3.00%,3.25%
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-1017k
-US,FOMC Rate Decision (Upper Bound),20:00,--,4.50%,4.50%
-30 January 2025,--,--,--,--,--
-FR,Consumer Spending MoM,07:30,Dec,0.0%,0.3%
-FR,GDP QoQ,07:30,4Q P,0.0%,0.4%
-GE,Import Price Index YoY,08:00,Dec,1.9%,0.6%
-GE,GDP SA QoQ,10:00,4Q P,-0.1%,0.1%
-IT,GDP WDA QoQ,10:00,4Q P,0.2%,0.0%
-UK,Mortgage Approvals,10:30,Dec,--,65.7k
-EC,GDP SA QoQ,11:00,4Q A,0.1%,0.4%
-EC,Economic Confidence,11:00,Jan,93.6,93.7
-EC,ECB Deposit Facility Rate,14:15,--,2.75%,3.00%
-US,GDP Annualized QoQ,14:30,4Q A,2.6%,3.1%
-US,Initial Jobless Claims,14:30,--,--,223k
-US,Pending Home Sales MoM,16:00,Dec,-1.0%,2.2%
-31 January 2025,--,--,--,--,--
-JN,Tokyo CPI YoY,00:30,Jan,3.0%,3.0%
-JN,Jobless Rate,00:30,Dec,2.5%,2.5%
-JN,Retail Sales MoM,00:50,Dec,-0.1%,1.8%
-JN,Industrial Production MoM,00:50,Dec P,-0.1%,-2.2%
-JN,Housing Starts YoY,06:00,Dec,-3.9%,-1.8%
-GE,Retail Sales MoM,08:00,Dec,-0.2%,-0.6%
-FR,CPI EU Harmonized YoY,08:45,Jan P,1.9%,1.8%
-GE,Unemployment Change (000's),09:55,Jan,15.0k,10.0k
-GE,CPI EU Harmonized YoY,14:00,Jan P,2.7%,2.8%
-US,Personal Spending,14:30,Dec,0.5%,0.4%
-US,Core PCE Price Index YoY,14:30,Dec,2.8%,2.8%
-US,MNI Chicago PMI,15:45,Jan,39.7,36.9
+03 February 2025,--,--,--,--,--
+JN,Jibun Bank Japan PMI Mfg,01:30,Jan F,--,48.8
+CH,Caixin China PMI Mfg,02:45,Jan,50.6,50.5
+EC,Eurozone Manuf. PMI,10:00,Jan F,46.1,46.1
+UK,S&P Global UK Manufacturing PMI,10:30,Jan F,48.2,48.2
+EC,CPI Estimate YoY,11:00,Jan P,2.4%,2.4%
+US,S&P Global US Manufacturing PMI,15:45,Jan F,50.1,50.1
+US,Construction Spending MoM,16:00,Dec,0.2%,0.0%
+US,ISM Manufacturing,16:00,Jan,49.3,49.3
+US,Fed's Bostic Speaks on Economic Outlook,18:30,--,--,--
+US,Wards Total Vehicle Sales,--,Jan,16.20m,16.80m
+04 February 2025,--,--,--,--,--
+FR,Budget Balance YTD,08:45,Dec,--,-172.5b
+EC,ECB's Villeroy speaks in Paris,14:30,--,--,--
+US,JOLTS Job Openings,16:00,Dec,--,8098k
+US,Cap Goods Orders Nondef Ex Air,16:00,Dec F,--,0.5%
+05 February 2025,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,01:30,Jan F,--,52.7
+CH,Caixin China PMI Services,02:45,Jan,52.4,52.2
+FR,Industrial Production MoM,08:45,Dec,0.1%,0.2%
+EC,Eurozone Services PMI,10:00,Jan F,51.4,51.4
+EC,ECB to Publish Wage Tracker Indicators,10:00,--,--,--
+UK,S&P Global UK Services PMI,10:30,Jan F,51.2,51.2
+EC,PPI YoY,11:00,Dec,-0.2%,-1.2%
+US,ADP Employment Change,14:15,Jan,153k,122k
+US,Trade Balance,14:30,Dec,-$80.4b,-$78.2b
+US,S&P Global US Services PMI,15:45,Jan F,--,52.8
+US,ISM Services Index,16:00,Jan,54.5,54.1
+US,DOE U.S. Crude Oil Inventories,16:30,--,--,3463k
+06 February 2025,--,--,--,--,--
+GE,Factory Orders MoM,08:00,Dec,2.0%,-5.4%
+EC,Retail Sales MoM,11:00,Dec,0.0%,0.1%
+UK,BoE Bank Rate,13:00,--,4.50%,4.75%
+US,Challenger Job Cuts YoY,13:30,Jan,--,11.4%
+US,Unit Labor Costs,14:30,4Q P,3.4%,0.8%
+US,Initial Jobless Claims,14:30,--,--,207k
+07 February 2025,--,--,--,--,--
+JN,Household Spending YoY,00:30,Dec,0.3%,-0.4%
+JN,Leading Index CI,06:00,Dec P,108.2,107.5
+GE,Industrial Production SA MoM,08:00,Dec,-0.6%,1.5%
+FR,Trade Balance,08:45,Dec,--,-7085m
+FR,Private Sector Payrolls QoQ,08:45,4Q P,--,0.1%
+US,Change in Nonfarm Payrolls,14:30,Jan,150k,256k
+US,Average Hourly Earnings YoY,14:30,Jan,3.8%,3.9%
+US,U. of Mich. Sentiment,16:00,Feb P,--,71.1
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
