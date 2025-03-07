@@ -1,52 +1,39 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-01 March 2025,--,--,--,--,--
-CH,Manufacturing PMI,02:30,Feb,49.9,49.1
-CH,Non-manufacturing PMI,02:30,Feb,50.4,50.2
-03 March 2025,--,--,--,--,--
-JN,Jibun Bank Japan PMI Mfg,01:30,Feb F,--,48.9
-CH,Caixin China PMI Mfg,02:45,Feb,50.4,50.1
-IT,Deficit to GDP,10:00,--,--,7.2%
-IT,GDP Annual YoY,10:00,--,--,0.9%
-EC,Eurozone Manuf. PMI,10:00,Feb F,47.3,47.3
-UK,Mortgage Approvals,10:30,Jan,65.5k,66.5k
-UK,S&P Global UK Manufacturing PMI,10:30,Feb F,46.4,46.4
-EC,CPI Estimate YoY,11:00,Feb P,2.3%,--
-US,US Manufacturing PMI,15:45,Feb F,--,51.6
-US,Construction Spending MoM,16:00,Jan,-0.1%,0.5%
-US,ISM Manufacturing,16:00,Feb,50.5,50.9
-US,Wards Total Vehicle Sales,--,Feb,15.90m,15.60m
-04 March 2025,--,--,--,--,--
-JN,Jobless Rate,00:30,Jan,2.4%,2.4%
-JN,Consumer Confidence Index,06:00,Feb,35.3,35.2
-EC,Unemployment Rate,11:00,Jan,6.3%,6.3%
-05 March 2025,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,01:30,Feb F,--,53.1
-CH,Caixin China PMI Services,02:45,Feb,50.8,51.0
-FR,Industrial Production MoM,08:45,Jan,0.8%,-0.4%
-IT,GDP WDA QoQ,10:00,4Q F,0.0%,0.0%
-EC,Eurozone Services PMI,10:00,Feb F,50.7,50.7
-UK,S&P Global UK Services PMI,10:30,Feb F,51.1,51.1
-EC,PPI YoY,11:00,Jan,--,0.0%
-US,ADP Employment Change,14:15,Feb,148k,183k
-US,US Services PMI,15:45,Feb F,--,49.7
-US,ISM Services Index,16:00,Feb,53.0,52.8
-US,DOE U.S. Crude Oil Inventories,16:30,--,--,-2332k
-US,Federal Reserve Releases Beige Book,20:00,--,--,--
-06 March 2025,--,--,--,--,--
-EC,Retail Sales MoM,11:00,Jan,0.2%,-0.2%
-US,Challenger Job Cuts YoY,13:30,Feb,--,-39.5%
-EC,ECB Deposit Facility Rate,14:15,--,2.50%,2.75%
-US,Trade Balance,14:30,Jan,-$91.3b,-$98.4b
-US,Unit Labor Costs,14:30,4Q F,3.0%,3.0%
-US,Initial Jobless Claims,14:30,--,--,242k
-EC,ECB President Lagarde Holds Press Conference,14:45,--,--,--
-US,Fed's Waller Speaks on the Economic Outlook,21:30,--,--,--
-07 March 2025,--,--,--,--,--
-GE,Factory Orders MoM,08:00,Jan,-2.8%,6.9%
-FR,Trade Balance,08:45,Jan,--,-3905m
-EC,GDP SA QoQ,11:00,4Q F,0.1%,0.1%
-US,Change in Nonfarm Payrolls,14:30,Feb,158k,143k
-US,Average Hourly Earnings YoY,14:30,Feb,4.2%,4.1%
-US,Fed's Powell Speaks on the Economic Outlook,18:30,--,--,--
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,--,--
-CH,Trade Balance YTD,--,Feb,$140.20b,--
+09 March 2025,--,--,--,--,--
+CH,PPI YoY,02:30,Feb,-2.1%,-2.3%
+CH,CPI YoY,02:30,Feb,-0.4%,0.5%
+10 March 2025,--,--,--,--,--
+CH,Aggregate Financing CNY YTD,09-15,Feb,9678.4b,7060.0b
+JN,Labor Cash Earnings YoY,00:30,Jan,3.1%,4.8%
+JN,Trade Balance BoP Basis,00:50,Jan,-¥2496.1b,¥62.3b
+JN,Leading Index CI,06:00,Jan P,108.2,108.3
+GE,Industrial Production SA MoM,08:00,Jan,2.0%,-2.4%
+GE,Trade Balance SA,08:00,Jan,20.8b,20.7b
+EC,Sentix Investor Confidence,10:30,Mar,-10.0,-12.7
+US,NY Fed 1-Yr Inflation Expectations,16:00,Feb,--,3.0%
+11 March 2025,--,--,--,--,--
+JN,Household Spending YoY,00:30,Jan,3.6%,2.7%
+JN,GDP SA QoQ,00:50,4Q F,0.7%,0.7%
+JN,Machine Tool Orders YoY,07:00,Feb P,--,4.7%
+US,NFIB Small Business Optimism,11:00,Feb,100.9,102.8
+US,JOLTS Job Openings,15:00,Jan,--,7600k
+US,STEO Current Yr Crude Forecast,17:00,Mar,--,13.59
+12 March 2025,--,--,--,--,--
+JN,PPI YoY,00:50,Feb,4.0%,4.2%
+EC,ECB's Lagarde Speaks at Frankfurt Conference,09:45,--,--,--
+US,CPI YoY,13:30,Feb,2.9%,3.0%
+CA,Bank of Canada Rate Decision,14:45,--,2.75%,3.00%
+US,DOE U.S. Crude Oil Inventories,15:30,--,--,3614k
+13 March 2025,--,--,--,--,--
+EC,Industrial Production SA MoM,11:00,Jan,0.7%,-1.1%
+US,PPI Final Demand YoY,13:30,Feb,--,3.5%
+US,Initial Jobless Claims,13:30,--,--,221k
+14 March 2025,--,--,--,--,--
+UK,Monthly GDP (MoM),08:00,Jan,-0.1%,0.4%
+UK,Industrial Production MoM,08:00,Jan,-0.1%,0.5%
+GE,CPI EU Harmonized YoY,08:00,Feb F,2.8%,2.8%
+UK,Trade Balance GBP/Mn,08:00,Jan,-£3000m,-£2816m
+FR,CPI EU Harmonized YoY,08:45,Feb F,0.9%,0.9%
+IT,Industrial Production MoM,10:00,Jan,--,-3.1%
+US,U. of Mich. Sentiment,15:00,Mar P,64.0,64.7
+US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
