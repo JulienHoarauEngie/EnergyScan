@@ -1,39 +1,50 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-09 March 2025,--,--,--,--,--
-CH,PPI YoY,02:30,Feb,-2.1%,-2.3%
-CH,CPI YoY,02:30,Feb,-0.4%,0.5%
-10 March 2025,--,--,--,--,--
-CH,Aggregate Financing CNY YTD,09-15,Feb,9678.4b,7060.0b
-JN,Labor Cash Earnings YoY,00:30,Jan,3.1%,4.8%
-JN,Trade Balance BoP Basis,00:50,Jan,-¥2496.1b,¥62.3b
-JN,Leading Index CI,06:00,Jan P,108.2,108.3
-GE,Industrial Production SA MoM,08:00,Jan,2.0%,-2.4%
-GE,Trade Balance SA,08:00,Jan,20.8b,20.7b
-EC,Sentix Investor Confidence,10:30,Mar,-10.0,-12.7
-US,NY Fed 1-Yr Inflation Expectations,16:00,Feb,--,3.0%
-11 March 2025,--,--,--,--,--
-JN,Household Spending YoY,00:30,Jan,3.6%,2.7%
-JN,GDP SA QoQ,00:50,4Q F,0.7%,0.7%
-JN,Machine Tool Orders YoY,07:00,Feb P,--,4.7%
-US,NFIB Small Business Optimism,11:00,Feb,100.9,102.8
-US,JOLTS Job Openings,15:00,Jan,--,7600k
-US,STEO Current Yr Crude Forecast,17:00,Mar,--,13.59
-12 March 2025,--,--,--,--,--
-JN,PPI YoY,00:50,Feb,4.0%,4.2%
-EC,ECB's Lagarde Speaks at Frankfurt Conference,09:45,--,--,--
-US,CPI YoY,13:30,Feb,2.9%,3.0%
-CA,Bank of Canada Rate Decision,14:45,--,2.75%,3.00%
-US,DOE U.S. Crude Oil Inventories,15:30,--,--,3614k
-13 March 2025,--,--,--,--,--
-EC,Industrial Production SA MoM,11:00,Jan,0.7%,-1.1%
-US,PPI Final Demand YoY,13:30,Feb,--,3.5%
-US,Initial Jobless Claims,13:30,--,--,221k
-14 March 2025,--,--,--,--,--
-UK,Monthly GDP (MoM),08:00,Jan,-0.1%,0.4%
-UK,Industrial Production MoM,08:00,Jan,-0.1%,0.5%
-GE,CPI EU Harmonized YoY,08:00,Feb F,2.8%,2.8%
-UK,Trade Balance GBP/Mn,08:00,Jan,-£3000m,-£2816m
-FR,CPI EU Harmonized YoY,08:45,Feb F,0.9%,0.9%
-IT,Industrial Production MoM,10:00,Jan,--,-3.1%
-US,U. of Mich. Sentiment,15:00,Mar P,64.0,64.7
-US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,--,--
+17 March 2025,--,--,--,--,--
+CH,New Home Prices MoM,2:30,Feb,     --,-0.1%
+CH,Industrial Production YTD YoY,3:00,Feb,5.3%,     --
+CH,Retail Sales YTD YoY,3:00,Feb,3.8%,     --
+CH,Surveyed Jobless Rate,3:00,Feb,5.1%,     --
+US,Empire Manufacturing,13:30,     --,-2.0,5.7
+US,Retail Sales Advance MoM,13:30,     --,0.7%,-0.9%
+US,Business Inventories,15:00,Jan,0.3%,-0.2%
+US,NAHB Housing Market Index,15:00,Mar,42.0,42.0
+18 March 2025,--,--,--,--,--
+GE,ZEW Survey Expectations,11:00,Mar,50.3,26.0
+EC,Trade Balance SA,11:00,Jan,14.0b,14.6b
+US,Housing Starts MoM,13:30,Feb,0.7%,-9.8%
+US,Building Permits MoM,13:30,Feb P,-1.6%,-0.6%
+US,Import Price Index YoY,13:30,Feb,     --,1.9%
+US,Industrial Production MoM,14:15,Feb,0.2%,0.5%
+19 March 2025,--,--,--,--,--
+JN,Trade Balance Adjusted,0:50,Feb,¥509.3b,-¥856.6b
+JN,Core Machine Orders MoM,0:50,Jan,-0.1%,-1.2%
+EC,CPI YoY,11:00,Feb F,2.4%,2.4%
+US,DOE U.S. Crude Oil Inventories,15:30,     --,     --,1448k
+US,FOMC Rate Decision (Upper Bound),19:00,     --,4.5%,4.5%
+US,Net Long-term TIC Flows,21:00,Jan,     --,$72.0b
+JN,BOJ Target Rate,     --,     --,0.5%,0.5%
+20 March 2025,--,--,--,--,--
+CH,1-Year Loan Prime Rate,2:00,     --,3.1%,3.1%
+CH,5-Year Loan Prime Rate,2:00,     --,3.60%,3.60%
+GE,PPI YoY,8:00,Feb,1.0%,0.5%
+UK,Average Weekly Earnings 3M/YoY,8:00,Jan,5.8%,6.0%
+UK,ILO Unemployment Rate 3Mths,8:00,Jan,4.4%,4.4%
+UK,Employment Change 3M/3M,8:00,Jan,91k,107k
+EC,ECB's Lagarde Speaks in EU Parliament,9:00,     --,     --,     --
+EC,ECB Publishes Economic Bulletin,10:00,     --,     --,     --
+EC,Construction Output MoM,11:00,Jan,     --,0.0%
+UK,CBI Trends Total Orders,12:00,Mar,-30.0,-28.0
+UK,Bank of England Bank Rate,13:00,20-Mar,4.5%,4.5%
+US,Current Account Balance,13:30,4Q,-$334.0b,-$310.9b
+US,Initial Jobless Claims,13:30,     --,225k,220k
+US,Philadelphia Fed Business Outlook,13:30,Mar,8.0,18.1
+US,Leading Index,15:00,Feb,-0.3%,-0.3%
+US,Existing Home Sales MoM,15:00,Feb,-3.4%,-4.9%
+21 March 2025,--,--,--,--,--
+JN,Natl CPI YoY,0:30,Feb,3.5%,4.0%
+UK,GfK Consumer Confidence,1:01,Mar,-21.0,-20.0
+UK,Public Sector Net Borrowing,8:00,     --,7.0b,-15.4b
+FR,Business Confidence,8:45,     --,96.0,96.0
+EC,ECB Current Account SA,10:00,Jan,     --,38.4b
+EC,Consumer Confidence,16:00,Mar P,-13.0,-13.6
+US,Baker Hughes U.S. Rotary Oil Rigs,18:00,     --,     --,     --
