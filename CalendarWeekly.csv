@@ -1,52 +1,53 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-24 March 2025,--,--,--,--,--
-JN,Jibun Bank Japan PMI Composite,1:30,Mar P,     --,52.0
-FR,HCOB France Composite PMI,9:15,Mar P,     --,45.1
-GE,HCOB Germany Composite PMI,9:30,Mar P,     --,50.4
-EC,HCOB Eurozone Composite PMI,10:00,Mar P,50.5,50.2
-UK,S&P Global UK Composite PMI,10:30,Mar P,     --,50.5
-US,Chicago Fed Nat Activity Index,13:30,Feb,-14.0%,-3.0%
-US,S&P Global US Composite PMI,14:45,Mar P,     --,51.6
-UK,BOE's Bailey Speaks,19:00,--,     --,     --
-25 March 2025,--,--,--,--,--
-JN,BOJ Minutes of Jan. Meeting,0:50,     --,     --,     --
-EC,EU27 New Car Registrations,6:00,Feb,     --,-2.6%
-JN,Nationwide Dept Sales YoY,6:30,Feb,     --,5.2%
-GE,IFO Business Climate,10:00,Mar,86.6,85.2
-UK,CBI Total Dist. Reported Sales,12:00,Mar,     --,-26.0
-US,FHFA House Price Index MoM,14:00,Jan,     --,0.4%
-US,S&P CoreLogic CS 20-City YoY NSA,14:00,Jan,     --,4.5%
-US,New Home Sales MoM,15:00,Feb,3.5%,-10.5%
-US,Conf. Board Consumer Confidence,15:00,Mar,94.0,98.3
-US,Richmond Fed Manufact. Index,15:00,Mar,     --,6.0
-26 March 2025,--,--,--,--,--
-UK,CPI YoY,8:00,Feb,2.9%,3.0%
-FR,Consumer Confidence,8:45,Mar,94.0,93.0
-UK,House Price Index YoY,10:30,Jan,     --,4.6%
-EC,ECB's Villeroy Speaks in Paris,11:00,--,     --,     --
-US,Cap Goods Orders Nondef Ex Air,13:30,Feb P,     --,0.8%
-US,DOE U.S. Crude Oil Inventories,15:30,--,     --,1745k
-27 March 2025,--,--,--,--,--
-CH,Industrial Profits YTD YoY,2:30,Feb,     --,-3.3%
-EC,M3 Money Supply YoY,10:00,Feb,3.8%,3.6%
-US,GDP Annualized QoQ,13:30,4Q T,2.4%,2.3%
-US,Advance Goods Trade Balance,13:30,Feb,-$134.5b,-$153.3b
-US,Initial Jobless Claims,13:30,--,     --,223k
-US,Retail Inventories MoM,13:30,Feb,     --,-0.1%
-US,Pending Home Sales MoM,15:00,Feb,     --,-4.6%
-US,Kansas City Fed Manf. Activity,16:00,Mar,     --,-5.0
-EC,ECB's Schnabel Speaks in London,19:30,--,     --,     --
-28 March 2025,--,--,--,--,--
-JN,Tokyo CPI YoY,0:30,Mar,2.8%,2.9%
-UK,GDP QoQ,8:00,4Q F,0.1%,0.1%
-GE,GfK Consumer Confidence,8:00,Apr,-22.0,-24.7
-UK,Retail Sales Inc Auto Fuel MoM,8:00,Feb,0.1%,1.7%
-UK,Trade Balance GBP/Mn,8:00,Jan,-£3000m,-£2816m
-FR,Consumer Spending MoM,8:45,Feb,0.1%,-0.5%
-FR,CPI EU Harmonized YoY,8:45,Mar P,1.1%,0.9%
-GE,Unemployment Change (000's),9:55,Mar,10.0k,5.0k
-EC,Economic Confidence,11:00,Mar,97.3,96.3
-US,Personal Spending,13:30,Feb,0.6%,-0.2%
-US,Core PCE Price Index YoY,13:30,Feb,2.7%,2.6%
-US,U. of Mich. Sentiment,15:00,Mar F,     --,57.9
-US,Baker Hughes U.S. Rotary Oil Rigs,18:00,--,     --,     --
+31 March 2025,--,--,--,--,--
+JN,Industrial Production MoM,1:50,Feb P,1.9%,-1.1%
+JN,Retail Sales MoM,1:50,Feb,-0.1%,0.5%
+CH,Manufacturing PMI,3:30,Mar,50.4,50.2
+CH,Non-manufacturing PMI,3:30,Mar,50.5,50.4
+JN,Housing Starts YoY,7:00,Feb,-2.2%,-4.6%
+GE,Import Price Index YoY,8:00,Feb,3.1%,3.1%
+GE,Retail Sales MoM,8:00,Feb,0.0%,0.2%
+UK,Mortgage Approvals,10:30,Feb,     --,66.2k
+IT,CPI EU Harmonized YoY,11:00,Mar P,2.0%,1.7%
+GE,CPI EU Harmonized YoY,14:00,Mar P,2.5%,2.6%
+US,MNI Chicago PMI,15:45,Mar,45.5,45.5
+US,Dallas Fed Manf. Activity,16:30,Mar,-5.0,-8.3
+01 April 2025,--,--,--,--,--
+JN,Jobless Rate,1:30,Feb,2.5%,2.5%
+JN,Tankan Large Mfg Index,1:50,1Q,12.0,14.0
+JN,Jibun Bank Japan PMI Mfg,2:30,Mar F,     --,48.3
+CH,Caixin China PMI Mfg,3:45,Mar,50.6,50.8
+UK,Nationwide House Px NSA YoY,8:00,Mar,     --,3.9%
+EC,Eurozone Manufacturing PMI,10:00,Mar F,48.7,48.7
+UK,UK Manufacturing PMI,10:30,Mar F,     --,44.6
+EC,CPI Estimate YoY,11:00,Mar P,2.3%,2.3%
+EC,Unemployment Rate,11:00,Feb,6.2%,6.2%
+EC,ECB's Lagarde Speaks at AI Conf.,14:30,--,     --,     --
+US,US Manufacturing PMI,15:45,Mar F,     --,49.8
+US,JOLTS Job Openings,16:00,Feb,7690k,7740k
+US,ISM Manufacturing,16:00,Mar,49.8,50.3
+US,Wards Total Vehicle Sales,--,Mar,15.90m,16.00m
+02 April 2025,--,--,--,--,--
+EC,ECB's Schnabel Speaks in Paris,12:30,--,     --,     --
+US,ADP Employment Change,14:15,Mar,119k,77k
+US,Cap Goods Orders Nondef Ex Air,16:00,Feb F,     --,-0.3%
+US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-3341k
+03 April 2025,--,--,--,--,--
+JN,Jibun Bank Japan PMI Services,2:30,Mar F,     --,49.5
+CH,Caixin China PMI Services,3:45,Mar,51.5,51.4
+EC,Eurozone Services PMI,10:00,Mar F,50.4,50.4
+UK,UK Services PMI,10:30,Mar F,53.2,53.2
+EC,PPI YoY,11:00,Feb,3.0%,1.8%
+US,Challenger Job Cuts YoY,13:30,Mar,     --,     --
+US,Trade Balance,14:30,Feb,-$110.0b,-$131.4b
+US,Initial Jobless Claims,14:30,--,     --,224k
+US,US Services PMI,15:45,--,     --,54.3
+US,ISM Services Index,16:00,Mar,53.1,53.5
+04 April 2025,--,--,--,--,--
+JN,Household Spending YoY,1:30,Feb,-0.8%,0.8%
+GE,Factory Orders MoM,8:00,Feb,3.3%,-7.0%
+FR,Industrial Production MoM,8:45,Feb,0.2%,-0.6%
+US,Change in Nonfarm Payrolls,14:30,Mar,135k,151k
+US,Average Hourly Earnings YoY,14:30,Mar,3.9%,4.0%
+US,Fed's Powell Speaks on Eco. Outlook,17:25,--,     --,     --
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
