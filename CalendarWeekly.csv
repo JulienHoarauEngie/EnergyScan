@@ -1,53 +1,39 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-31 March 2025,--,--,--,--,--
-JN,Industrial Production MoM,1:50,Feb P,1.9%,-1.1%
-JN,Retail Sales MoM,1:50,Feb,-0.1%,0.5%
-CH,Manufacturing PMI,3:30,Mar,50.4,50.2
-CH,Non-manufacturing PMI,3:30,Mar,50.5,50.4
-JN,Housing Starts YoY,7:00,Feb,-2.2%,-4.6%
-GE,Import Price Index YoY,8:00,Feb,3.1%,3.1%
-GE,Retail Sales MoM,8:00,Feb,0.0%,0.2%
-UK,Mortgage Approvals,10:30,Feb,     --,66.2k
-IT,CPI EU Harmonized YoY,11:00,Mar P,2.0%,1.7%
-GE,CPI EU Harmonized YoY,14:00,Mar P,2.5%,2.6%
-US,MNI Chicago PMI,15:45,Mar,45.5,45.5
-US,Dallas Fed Manf. Activity,16:30,Mar,-5.0,-8.3
-01 April 2025,--,--,--,--,--
-JN,Jobless Rate,1:30,Feb,2.5%,2.5%
-JN,Tankan Large Mfg Index,1:50,1Q,12.0,14.0
-JN,Jibun Bank Japan PMI Mfg,2:30,Mar F,     --,48.3
-CH,Caixin China PMI Mfg,3:45,Mar,50.6,50.8
-UK,Nationwide House Px NSA YoY,8:00,Mar,     --,3.9%
-EC,Eurozone Manufacturing PMI,10:00,Mar F,48.7,48.7
-UK,UK Manufacturing PMI,10:30,Mar F,     --,44.6
-EC,CPI Estimate YoY,11:00,Mar P,2.3%,2.3%
-EC,Unemployment Rate,11:00,Feb,6.2%,6.2%
-EC,ECB's Lagarde Speaks at AI Conf.,14:30,--,     --,     --
-US,US Manufacturing PMI,15:45,Mar F,     --,49.8
-US,JOLTS Job Openings,16:00,Feb,7690k,7740k
-US,ISM Manufacturing,16:00,Mar,49.8,50.3
-US,Wards Total Vehicle Sales,--,Mar,15.90m,16.00m
-02 April 2025,--,--,--,--,--
-EC,ECB's Schnabel Speaks in Paris,12:30,--,     --,     --
-US,ADP Employment Change,14:15,Mar,119k,77k
-US,Cap Goods Orders Nondef Ex Air,16:00,Feb F,     --,-0.3%
-US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-3341k
-03 April 2025,--,--,--,--,--
-JN,Jibun Bank Japan PMI Services,2:30,Mar F,     --,49.5
-CH,Caixin China PMI Services,3:45,Mar,51.5,51.4
-EC,Eurozone Services PMI,10:00,Mar F,50.4,50.4
-UK,UK Services PMI,10:30,Mar F,53.2,53.2
-EC,PPI YoY,11:00,Feb,3.0%,1.8%
-US,Challenger Job Cuts YoY,13:30,Mar,     --,     --
-US,Trade Balance,14:30,Feb,-$110.0b,-$131.4b
-US,Initial Jobless Claims,14:30,--,     --,224k
-US,US Services PMI,15:45,--,     --,54.3
-US,ISM Services Index,16:00,Mar,53.1,53.5
-04 April 2025,--,--,--,--,--
-JN,Household Spending YoY,1:30,Feb,-0.8%,0.8%
-GE,Factory Orders MoM,8:00,Feb,3.3%,-7.0%
-FR,Industrial Production MoM,8:45,Feb,0.2%,-0.6%
-US,Change in Nonfarm Payrolls,14:30,Mar,135k,151k
-US,Average Hourly Earnings YoY,14:30,Mar,3.9%,4.0%
-US,Fed's Powell Speaks on Eco. Outlook,17:25,--,     --,     --
+07 April 2025,--,--,--,--,--
+JN,Labor Cash Earnings YoY,1:30,Feb,3.0%,2.8%
+JN,Leading Index CI,7:00,Feb P,107.8,108.3
+GE,Industrial Production SA MoM,8:00,Feb,-1.0%,2.0%
+GE,Trade Balance SA,8:00,Feb,     --,16.0b
+EC,Sentix Investor Confidence,10:30,Apr,-8.3,-2.9
+EC,Retail Sales MoM,11:00,Feb,0.5%,-0.3%
+US,Consumer Credit,21:00,Feb,$15.000b,$18.084b
+08 April 2025,--,--,--,--,--
+JN,Trade Balance BoP Basis,1:50,Feb,¥527.5b,-¥2937.9b
+FR,Trade Balance,8:45,Feb,     --,-6540m
+US,NFIB Small Business Optimism,12:00,Mar,     --,100.7
+US,STEO Current Yr Crude Forecast,18:00,Apr,     --,13.6
+09 April 2025,--,--,--,--,--
+JN,Consumer Confidence Index,7:00,Mar,34.7,35.0
+JN,Machine Tool Orders YoY,8:00,Mar P,     --,3.5%
+US,DOE U.S. Crude Oil Inventories,16:30,--,     --,6165k
+US,FOMC Meeting Minutes,20:00,--,     --,     --
+CH,Aggregate Financing CNY YTD,09-15,--,14092.1b,9290.0b
+10 April 2025,--,--,--,--,--
+UK,RICS House Price Balance,1:01,Mar,     --,11.0%
+JN,PPI YoY,1:50,Mar,3.9%,4.0%
+CH,PPI YoY,3:30,Mar,-2.3%,-2.2%
+CH,CPI YoY,3:30,Mar,0.1%,-0.7%
+IT,Industrial Production MoM,10:00,Feb,     --,3.2%
+US,CPI YoY,14:30,Mar,2.6%,2.8%
+US,Initial Jobless Claims,14:30,--,     --,219k
+11 April 2025,--,--,--,--,--
+JN,Money Stock M2 YoY,1:50,Mar,     --,1.2%
+UK,Monthly GDP (MoM),8:00,Feb,0.1%,-0.1%
+UK,Industrial Production MoM,8:00,Feb,0.2%,-0.9%
+GE,CPI EU Harmonized YoY,8:00,Mar F,2.3%,2.3%
+UK,Trade Balance GBP/Mn,8:00,Feb,     --,-£596m
+EC,ECB's Lagarde at Eurogroup Press Conference in Warsaw,11:45,--,     --,     --
+US,PPI Final Demand YoY,14:30,Mar,     --,3.2%
+US,U. of Mich. Sentiment,16:00,Apr P,55.0,57.0
+US,"Fed's Williams Speaks on Outlook, Monetary Policy",17:00,--,     --,     --
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
