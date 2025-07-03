@@ -1,65 +1,35 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-30 June 2025,--,--,--,--,--
-JN,Industrial Production MoM,1:50,May P,3.5%,-1.1%
-CH,Manufacturing PMI,3:30,Jun,49.6,49.5
-CH,Non-manufacturing PMI,3:30,Jun,50.2,50.3
-JN,Housing Starts YoY,7:00,May,-14.6%,-26.6%
-GE,Import Price Index YoY,8:00,May,-0.4%,-0.4%
-GE,Retail Sales MoM,8:00,May,0.5%,-1.1%
-UK,GDP QoQ,8:00,1Q F,0.7%,0.7%
-EC,M3 Money Supply YoY,10:00,May,4.0%,3.9%
-UK,Mortgage Approvals,10:30,May,     --,60.5k
-IT,CPI EU Harmonized YoY,11:00,Jun P,1.8%,1.7%
-GE,CPI EU Harmonized YoY,14:00,Jun P,2.1%,2.1%
-US,MNI Chicago PMI,15:45,Jun,43.0,40.5
-US,Dallas Fed Manf. Activity,16:30,Jun,-14.0,-15.3
-EC,ECB's Lagarde Speaks in Sintra,21:00,--,--,--
-EC,ECB Forum on Central Banking in Sintra,30-2,--,--,--
-01 July 2025,--,--,--,--,--
-JN,Tankan Large Mfg Index,1:50,2Q,10.0,12.0
-JN,Japan PMI Mfg,2:30,Jun F,     --,50.4
-CH,Caixin China PMI Mfg,3:45,Jun,49.2,48.3
-JN,Consumer Confidence Index,7:00,Jun,33.5,32.8
-UK,Nationwide House Px NSA YoY,8:00,Jun,     --,3.5%
-GE,Unemployment Change (000's),9:55,Jun,15.0k,34.0k
-EC,Eurozone Manuf. PMI,10:00,Jun F,49.4,49.4
-EC,ECB 1 Year CPI Expectations,10:00,May,     --,3.1%
-UK,UK Manufacturing PMI,10:30,--,47.7,47.7
-EC,CPI Estimate YoY,11:00,Jun P,1.9%,     --
-EC,"ECB Lagarde, Fed Powell, BOE Bailey, BOJ Ueda, BOK Rhee",15:30,--,     --,     --
-US,US Manufacturing PMI,15:45,Jun F,52.0,52.0
-US,ISM Manufacturing,16:00,Jun,48.8,48.5
-US,Construction Spending MoM,16:00,May,-0.1%,-0.4%
-US,JOLTS Job Openings,16:00,May,     --,7391k
-US,Wards Total Vehicle Sales,--,Jun,15.49m,15.65m
-02 July 2025,--,--,--,--,--
-EC,Unemployment Rate,11:00,May,6.2%,6.2%
-US,Challenger Job Cuts YoY,13:30,Jun,     --,47.0%
-US,ADP Employment Change,14:15,Jun,110k,37k
-EC,ECB's Lagarde Delivers Closing Remarks in Sintra,16:15,--,     --,     --
-US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-5836k
-03 July 2025,--,--,--,--,--
-JN,Japan PMI Composite,2:30,Jun F,--,51.4
-JN,Japan PMI Services,2:30,Jun F,     --,51.5
-CH,Caixin China PMI Services,3:45,Jun,51.0,51.1
-FR,France Composite PMI,9:50,Jun F,     --,48.5
-GE,Germany Composite PMI,9:55,Jun F,50.4,50.4
-EC,Eurozone Services PMI,10:00,Jun F,50.0,50.0
-EC,Eurozone Composite PMI,10:00,Jun F,50.2,50.2
-UK,UK Services PMI,10:30,Jun F,51.3,51.3
-UK,UK Composite PMI,10:30,Jun F,     --,50.7
-EC,ECB Publishes Account of June Policy Meeting,13:30,--,     --,     --
-US,Trade Balance,14:30,May,-$69.8b,-$61.6b
-US,Change in Nonfarm Payrolls,14:30,Jun,120k,139k
-US,Average Hourly Earnings YoY,14:30,Jun,3.9%,3.9%
-US,Initial Jobless Claims,14:30,--,     --,236k
-US,US Services PMI,15:45,Jun F,     --,53.1
-US,US Composite PMI,15:45,Jun F,     --,52.8
-US,ISM Services Index,16:00,Jun,50.8,49.9
-US,Cap Goods Orders Nondef Ex Air,16:00,May F,     --,1.7%
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
 04 July 2025,--,--,--,--,--
-JN,Household Spending YoY,1:30,May,1.3%,-0.1%
-GE,Factory Orders MoM,8:00,May,0.5%,0.6%
-FR,Industrial Production MoM,8:45,May,0.5%,-1.4%
-EC,PPI YoY,11:00,May,     --,0.7%
+JN,Household Spending YoY,1:30,May,1.2%,-0.1%
+GE,Factory Orders MoM,8:00,May,-0.2%,0.6%
+FR,Industrial Production MoM,8:45,May,0.3%,-1.4%
+EC,PPI YoY,11:00,May,0.3%,0.7%
+07 July 2025,--,--,--,--,--
+JN,Leading Index CI,7:00,May P,105.2,104.2
+GE,Industrial Production SA MoM,8:00,May,-0.5%,-1.4%
+EC,Sentix Investor Confidence,10:30,Jul,1.0,0.2
+EC,Retail Sales MoM,11:00,May,-0.8%,0.1%
+08 July 2025,--,--,--,--,--
+JN,BoP Current Account Adjusted,1:50,May,¥2475.8b,¥2306.8b
+GE,Trade Balance SA,8:00,May,     --,14.6b
+FR,Trade Balance,8:45,May,     --,-7968m
+US,NFIB Small Business Optimism,12:00,Jun,97.9,98.8
+US,STEO Current Yr Crude Forecast,18:00,Jul,     --,13.4
+09 July 2025,--,--,--,--,--
+CH,PPI YoY,3:30,Jun,-3.2%,-3.3%
+CH,CPI YoY,3:30,Jun,0.0%,-0.1%
+JN,Machine Tool Orders YoY,8:00,Jun P,     --,3.4%
+US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,3845k
+US,FOMC Meeting Minutes,20:00,     --,     --,     --
+CH,Aggregate Financing CNY YTD,9-15,Jun,22480.7b,18630.0b
+10 July 2025,--,--,--,--,--
+UK,RICS House Price Balance,1:01,Jun,     --,-8.0%
+JN,PPI YoY,1:50,Jun,2.8%,3.2%
+US,Initial Jobless Claims,14:30,     --,     --,233k
+11 July 2025,--,--,--,--,--
+UK,Monthly GDP (MoM),8:00,May,     --,-0.3%
+UK,Industrial Production MoM,8:00,May,     --,-0.6%
+GE,CPI EU Harmonized YoY,8:00,Jun F,2.0%,2.0%
+UK,Trade Balance GBP/Mn,8:00,May,     --,-£7026m
+FR,CPI EU Harmonized YoY,8:45,Jun F,     --,0.8%
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
