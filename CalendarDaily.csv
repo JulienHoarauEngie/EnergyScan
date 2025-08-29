@@ -1,49 +1,47 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2025-08-25,JN,Leading Index CI,7:00,Jun F,     --,106.1
-2025-08-25,JN,Nationwide Dept Sales YoY,7:30,Jul,     --,-7.8%
-2025-08-25,GE,IFO Business Climate,10:00,Aug,88.6,88.6
-2025-08-25,US,Chicago Fed Nat Activity Index,14:30,Jul,     --,-10.0%
-2025-08-25,US,New Home Sales MoM,16:00,Jul,0.2%,0.6%
-2025-08-25,US,Dallas Fed Manf. Activity,16:30,Aug,     --,0.9
-2025-08-26,FR,Consumer Confidence,8:45,Aug,89.0,89.0
-2025-08-26,US,Cap Goods Orders Nondef Ex Air,14:30,Jul P,0.3%,-0.8%
-2025-08-26,US,FHFA House Price Index MoM,15:00,Jun,     --,-0.2%
-2025-08-26,US,S&P CoreLogic CS 20-City YoY NSA,15:00,Jun,     --,2.8%
-2025-08-26,US,Richmond Fed Manufact. Index,16:00,Aug,     --,-20.0
-2025-08-26,US,Conf. Board Consumer Confidence,16:00,Aug,96.4,97.2
-2025-08-27,CH,Industrial Profits YTD YoY,3:30,Jul,     --,-1.8%
-2025-08-27,GE,GfK Consumer Confidence,8:00,Sep,-21.2,-21.5
-2025-08-27,UK,CBI Total Dist. Reported Sales,12:00,Aug,     --,-39.0
-2025-08-27,US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,-6014k
-2025-08-28,EC,EU27 New Car Registrations,6:00,Jul,     --,-7.3%
-2025-08-28,EC,M3 Money Supply YoY,10:00,Jul,3.4%,3.3%
-2025-08-28,EC,Consumer Confidence,11:00,Aug F,     --,-15.5
-2025-08-28,EC,Economic Confidence,11:00,Aug,96.0,95.8
-2025-08-28,EC,ECB Publishes Account of July 23-24 Rate Decision,13:30,     --,     --,     --
-2025-08-28,US,GDP Annualized QoQ,14:30,2Q S,3.1%,3.0%
-2025-08-28,US,Initial Jobless Claims,14:30,     --,     --,235k
-2025-08-28,US,Pending Home Sales MoM,16:00,Jul,0.2%,-0.8%
-2025-08-28,US,Kansas City Fed Manf. Activity,17:00,Aug,     --,1.0
-2025-08-29,JN,Jobless Rate,1:30,Jul,2.5%,2.5%
-2025-08-29,JN,Tokyo CPI YoY,1:30,Aug,2.6%,2.9%
-2025-08-29,JN,Industrial Production MoM,1:50,Jul P,-1.2%,2.1%
-2025-08-29,JN,Retail Sales MoM,1:50,Jul,0.1%,1.0%
-2025-08-29,JN,Housing Starts YoY,7:00,Jul,-9.6%,-15.6%
-2025-08-29,JN,Consumer Confidence Index,7:00,Aug,34.1,33.7
-2025-08-29,GE,Import Price Index YoY,8:00,Jul,-1.2%,-1.4%
-2025-08-29,GE,Retail Sales MoM,8:00,Jul,0.0%,1.0%
-2025-08-29,FR,Consumer Spending MoM,8:45,Jul,     --,0.6%
-2025-08-29,FR,CPI EU Harmonized YoY,8:45,Aug P,0.9%,0.9%
-2025-08-29,FR,GDP QoQ,8:45,2Q F,0.3%,0.3%
-2025-08-29,GE,Unemployment Change (000's),9:55,Aug,10.0k,2.0k
-2025-08-29,IT,GDP WDA QoQ,10:00,2Q F,     --,-0.1%
-2025-08-29,EC,ECB 1 Year CPI Expectations,10:00,Jul,     --,2.6%
-2025-08-29,IT,CPI EU Harmonized YoY,11:00,Aug P,     --,1.7%
-2025-08-29,GE,CPI EU Harmonized YoY,14:00,Aug P,1.9%,1.8%
-2025-08-29,US,Personal Spending,14:30,Jul,0.5%,0.3%
-2025-08-29,US,Core PCE Price Index YoY,14:30,Jul,2.9%,2.8%
-2025-08-29,US,Advance Goods Trade Balance,14:30,Jul,-$87.7b,-$86.0b
-2025-08-29,US,Retail Inventories MoM,14:30,Jul,     --,0.3%
-2025-08-29,US,MNI Chicago PMI,15:45,Aug,45.2,47.1
-2025-08-29,US,U. of Mich. Sentiment,16:00,Aug F,58.6,58.6
-2025-08-29,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
+2025-08-31,CH,Manufacturing PMI,3:30,Aug,49.5,49.3
+2025-08-31,CH,Non-manufacturing PMI,3:30,Aug,50.3,50.1
+2025-09-01,JN,Japan PMI Mfg,2:30,Aug F,     --,49.9
+2025-09-01,CH,China PMI Mfg,3:45,Aug,49.8,49.5
+2025-09-01,UK,Nationwide House Px NSA YoY,8:00,Aug,2.7%,2.4%
+2025-09-01,EC,Eurozone Manuf. PMI,10:00,Aug F,     --,50.5
+2025-09-01,UK,Mortgage Approvals,10:30,Jul,     --,64.2k
+2025-09-01,UK,UK Manufacturing PMI,10:30,Aug F,     --,47.3
+2025-09-01,EC,Unemployment Rate,11:00,Jul,     --,6.2%
+2025-09-02,EC,CPI Estimate YoY,11:00,Aug P,2.1%,2.0%
+2025-09-02,US,US Manufacturing PMI,15:45,Aug F,     --,53.3
+2025-09-02,US,ISM Manufacturing,16:00,Aug,48.8,48.0
+2025-09-02,US,Construction Spending MoM,16:00,Jul,0.1%,-0.4%
+2025-09-03,JN,Japan PMI Composite,2:30,Aug F,     --,51.9
+2025-09-03,JN,Japan PMI Services,2:30,Aug F,     --,52.7
+2025-09-03,CH,China PMI Services,3:45,Aug,52.5,52.6
+2025-09-03,FR,France Composite PMI,9:50,Aug F,     --,49.8
+2025-09-03,GE,Germany Composite PMI,9:55,Aug F,     --,50.9
+2025-09-03,EC,Eurozone Services PMI,10:00,Aug F,     --,50.7
+2025-09-03,EC,Eurozone Composite PMI,10:00,Aug F,     --,51.1
+2025-09-03,UK,UK Services PMI,10:30,Aug F,     --,53.6
+2025-09-03,UK,UK Composite PMI,10:30,Aug F,     --,53.0
+2025-09-03,EC,PPI YoY,11:00,Jul,     --,0.6%
+2025-09-03,US,JOLTS Job Openings,16:00,Jul,     --,7437k
+2025-09-03,US,Cap Goods Orders Nondef Ex Air,16:00,Jul F,     --,1.1%
+2025-09-03,US,Fed Releases Beige Book,20:00,     --,     --,     --
+2025-09-03,US,Wards Total Vehicle Sales,     --,Aug,16.00m,16.41m
+2025-09-04,EC,Retail Sales MoM,11:00,Jul,     --,0.3%
+2025-09-04,US,Challenger Job Cuts YoY,13:30,Aug,     --,139.8%
+2025-09-04,US,ADP Employment Change,14:15,Aug,60k,104k
+2025-09-04,US,Initial Jobless Claims,14:30,     --,     --,229k
+2025-09-04,US,Trade Balance,14:30,Jul,-$62.6b,-$60.2b
+2025-09-04,US,US Services PMI,15:45,Aug F,     --,55.4
+2025-09-04,US,US Composite PMI,15:45,Aug F,     --,55.4
+2025-09-04,US,ISM Services Index,16:00,Aug,50.5,50.1
+2025-09-04,US,DOE U.S. Crude Oil Inventories,18:00,     --,     --,-2392k
+2025-09-05,JN,Household Spending YoY,1:30,Jul,2.3%,1.3%
+2025-09-05,JN,Leading Index CI,7:00,Jul P,105.8,105.6
+2025-09-05,GE,Factory Orders MoM,8:00,Jul,     --,-1.0%
+2025-09-05,UK,Retail Sales Inc Auto Fuel MoM,8:00,Jul,0.3%,0.9%
+2025-09-05,FR,Trade Balance,8:45,Jul,     --,-7623m
+2025-09-05,EC,GDP SA QoQ,11:00,2Q T,     --,0.1%
+2025-09-05,EC,Employment QoQ,11:00,2Q F,     --,0.1%
+2025-09-05,US,Change in Nonfarm Payrolls,14:30,Aug,78k,73k
+2025-09-05,US,Average Hourly Earnings YoY,14:30,Aug,3.8%,3.9%
+2025-09-05,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
