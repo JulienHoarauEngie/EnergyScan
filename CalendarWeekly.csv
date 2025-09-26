@@ -1,154 +1,70 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-22 September 2025,--,--,--,--,--
-CH,1-Year Loan Prime Rate,3:00,--,3.0%,3.0%
-CH,5-Year Loan Prime Rate,3:00,--,3.5%,3.5%
-US,Chicago Fed Nat Activity Index,14:30,Aug,     --,-19.0%
-EC,Consumer Confidence,16:00,Sep P,-15.1,-15.5
-23 September 2025,--,--,--,--,--
-FR,France Composite PMI,9:15,Sep P,     --,49.8
-GE,Germany Composite PMI,9:30,Sep P,50.9,50.5
-EC,Eurozone Manuf. PMI,10:00,Sep P,51.0,50.7
-EC,Eurozone Services PMI,10:00,Sep P,50.8,50.5
-EC,Eurozone Composite PMI,10:00,Sep P,51.3,51.0
-UK,UK Manufacturing PMI,10:30,,47.3,47.0
-UK,UK Services PMI,10:30,Sep P,53.5,54.2
-UK,UK Composite PMI,10:30,Sep P,53.0,53.5
-UK,CBI Trends Total Orders,12:00,Sep,     --,-33.0
-US,Current Account Balance,14:30,2Q,     --,-$450.2b
-US,US Manufacturing PMI,15:45,Sep P,     --,53.0
-US,US Services PMI,15:45,Sep P,     --,54.5
-US,US Composite PMI,15:45,Sep P,     --,54.6
-US,Richmond Fed Manufact. Index,16:00,Sep,     --,-7.0
-US,Fed's Powell Speaks on Economic Outlook,18:35,--,--,--
-24 September 2025,--,--,--,--,--
-JN,Japan PMI Composite,2:30,Sep P,     --,52.0
-JN,Japan PMI Mfg,2:30,Sep P,     --,49.7
-JN,Japan PMI Services,2:30,Sep P,     --,53.1
-JN,Machine Tool Orders YoY,8:00,Aug F,     --,8.1%
-GE,IFO Business Climate,10:00,Sep,89.5,89.0
-US,New Home Sales MoM,16:00,Aug,0.1%,-0.6%
-US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-9285k
-US,Building Permits MoM,--,Aug F,     --,-3.7%
-25 September 2025,--,--,--,--,--
-JN,BoJ Minutes of July Meeting,1:50,--,0.0%,0.0%
-EC,EU27 New Car Registrations,6:00,Aug,     --,7.4%
-JN,Nationwide Dept Sales YoY,7:30,Aug,     --,-6.2%
-GE,GfK Consumer Confidence,8:00,Oct,-22.0,-23.6
-FR,Consumer Confidence,8:45,Sep,87.0,87.0
-EC,M3 Money Supply YoY,10:00,Aug,3.3%,3.4%
-UK,CBI Total Dist. Reported Sales,12:00,Sep,     --,-28.0
-US,Advance Goods Trade Balance,14:30,Aug,-$95.2b,-$103.6b
-US,Retail Inventories MoM,14:30,Aug,     --,0.2%
-US,GDP Annualized QoQ,14:30,2Q T,3.3%,3.3%
-US,Cap Goods Orders Nondef Ex Air,14:30,Aug P,     --,1.1%
-US,Initial Jobless Claims,14:30,--,     --,231k
-US,Existing Home Sales MoM,16:00,Aug,-0.8%,2.0%
-US,Kansas City Fed Manf. Activity,17:00,Sep,     --,1.0
-26 September 2025,--,--,--,--,--
-JN,Tokyo CPI YoY,1:30,Sep,2.8%,2.6%
-EC,ECB 1 Year CPI Expectations,10:00,Aug,2.5%,2.6%
-US,Personal Spending,14:30,Aug,0.5%,0.5%
-US,Core PCE Price Index YoY,14:30,Aug,2.9%,2.9%
-US,U. of Mich. Sentiment,16:00,Sep F,56.0,55.4
+27 September 2025,--,--,--,--,--
+CH,Industrial Profits YTD YoY,3:30,--,     --,-1.7%
+29 September 2025,--,--,--,--,--
+JN,Leading Index CI,7:00,--,     --,105.9
+UK,Mortgage Approvals,10:30,Aug,     --,65.4k
+EC,Consumer Confidence,11:00,Sep F,     --,-14.9
+EC,Economic Confidence,11:00,Sep,95.1,95.2
+US,Pending Home Sales MoM,16:00,Aug,0.1%,-0.4%
+US,Dallas Fed Manf. Activity,16:30,Sep,     --,-1.8
+30 September 2025,--,--,--,--,--
+JN,Industrial Production MoM,1:50,Aug P,-0.8%,-1.2%
+JN,Retail Sales MoM,1:50,Aug,1.2%,-1.6%
+CH,Manufacturing PMI,3:30,Sep,49.6,49.4
+CH,Non-manufacturing PMI,3:30,Sep,50.2,50.3
+CH,China PMI Services,3:45,Sep,     --,53.0
+CH,China PMI Mfg,3:45,Sep,50.2,50.5
+JN,Housing Starts YoY,7:00,Aug,-5.0%,-9.7%
+GE,Import Price Index YoY,8:00,Aug,     --,-1.4%
+GE,Retail Sales MoM,8:00,Aug,0.5%,-1.5%
+UK,GDP QoQ,8:00,2Q F,0.3%,0.3%
+FR,Consumer Spending MoM,8:45,Aug,0.3%,-0.3%
+FR,CPI EU Harmonized YoY,8:45,--,--,--
+GE,Unemployment Change (000's),9:55,Sep,5.0k,-9.0k
+IT,CPI EU Harmonized YoY,11:00,Sep P,1.8%,1.6%
+GE,CPI EU Harmonized YoY,14:00,Sep P,2.2%,2.1%
+EC,ECB's Lagarde speaks in Helsinki,14:50,--,--,--
+US,FHFA House Price Index MoM,15:00,Jul,     --,-0.2%
+US,S&P Cotality CS 20-City YoY NSA,15:00,Jul,     --,2.1%
+US,MNI Chicago PMI,15:45,--,     --,41.5
+US,JOLTS Job Openings,--,Aug,7100k,7181k
+US,Conf. Board Cons. Conf.,16:00,--,95.8,97.4
+01 October 2025,--,--,--,--,--
+JN,Tankan Large Mfg Index,1:50,3Q,14.0,13.0
+JN,Japan PMI Mfg,2:30,Sep F,     --,48.4
+UK,Nationwide House Px NSA YoY,8:00,Sep,     --,2.1%
+EC,Eurozone Manuf. PMI,10:00,Sep F,49.5,49.5
+UK,UK Manufacturing PMI,10:30,Sep F,46.2,46.2
+EC,CPI Estimate YoY,11:00,Sep P,2.2%,2.0%
+US,ADP Employment Change,14:15,Sep,50k,54k
+US,US Manufacturing PMI,15:45,Sep F,     --,52.0
+US,ISM Manufacturing,16:00,Sep,49.2,48.7
+US,Construction Spending MoM,16:00,Aug,-0.1%,-0.1%
+US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-607k
+US,Wards Total Vehicle Sales,--,Sep,16.20m,16.07m
+02 October 2025,--,--,--,--,--
+JN,Consumer Confidence Index,7:00,Sep,35.2,34.9
+EC,Unemployment Rate,11:00,Aug,6.2%,6.2%
+US,Challenger Job Cuts YoY,13:30,Sep,     --,13.3%
+US,Initial Jobless Claims,14:30,--,     --,218k
+US,Cap Goods Orders Nondef Ex Air,16:00,Aug F,     --,0.6%
+03 October 2025,--,--,--,--,--
+JN,Jobless Rate,1:30,Aug,2.4%,2.3%
+JN,Japan PMI Composite,2:30,Sep F,     --,51.1
+JN,Japan PMI Services,2:30,Sep F,     --,53.0
+FR,Industrial Production MoM,8:45,Aug,0.3%,-1.1%
+FR,France Composite PMI,9:50,Sep F,48.4,48.4
+GE,Germany Composite PMI,9:55,Sep F,52.4,52.4
+EC,Eurozone Services PMI,10:00,Sep F,51.4,51.4
+EC,Eurozone Composite PMI,10:00,Sep F,51.2,51.2
+UK,UK Services PMI,10:30,Sep F,51.9,51.9
+UK,UK Composite PMI,10:30,Sep F,51.0,51.0
+EC,PPI YoY,11:00,Aug,-0.3%,0.2%
+EC,ECB's Lagarde speaks in Amsterdam,11:40,--,--,--
+US,Change in Nonfarm Payrolls,14:30,Sep,50k,22k
+US,Average Hourly Earnings YoY,14:30,Sep,3.6%,3.7%
+US,US Services PMI,15:45,Sep F,     --,53.9
+US,US Composite PMI,15:45,Sep F,     --,53.6
+US,ISM Services Index,16:00,Sep,52.0,52.0
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-,,,,,
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
