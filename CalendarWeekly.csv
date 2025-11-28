@@ -1,54 +1,64 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-24 November 2025,--,--,--,--,--
-US,Advance Goods Trade Balance,11/21-12/19,Sep,     --,-$85.5b
-US,Housing Starts MoM,11/21-12/20,Sep,1.7%,     --
-US,Building Permits MoM,11/21-12/21,Sep P,1.3%,     --
-US,Retail Inventories MoM,11/21-12/22,Sep,     --,     --
-US,New Home Sales MoM,11/21-12/23,Sep,     --,     --
-GE,IFO Business Climate,10:00,Nov,88.5,88.4
-US,Chicago Fed Nat Activity Index,14:30,Oct,     --,     --
-US,Dallas Fed Manf. Activity,16:30,Nov,     --,-5.0
-25 November 2025,--,--,--,--,--
-EC,EU27 New Car Registrations,6:00,Oct,     --,10.0%
-JN,Nationwide Dept Sales YoY,6:30,Oct,     --,1.4%
-GE,GDP SA QoQ,8:00,3Q F,0.0%,0.0%
-UK,CBI Total Dist. Reported Sales,12:00,Nov,     --,-30.0
-US,Retail Sales Control Group,14:30,Sep,     --,     --
-US,PPI Final Demand YoY,14:30,Sep,     --,2.6%
-US,FHFA House Price Index MoM,15:00,Sep,     --,0.4%
-US,S&P Cotality CS 20-City YoY NSA,15:00,Sep,     --,1.6%
-US,Business Inventories,16:00,Aug,     --,0.2%
-US,Richmond Fed Manufact. Index,16:00,Nov,     --,-4.0
-US,Conf. Board Consumer Confidence,16:00,Nov,93.3,94.6
-US,Pending Home Sales MoM,16:00,Oct,     --,0.0%
-26 November 2025,--,--,--,--,--
-JN,Leading Index CI,6:00,Sep F,     --,108.0
-JN,Machine Tool Orders YoY,7:00,Oct F,     --,16.8%
-US,Initial Jobless Claims,14:30,22-Nov,     --,220k
-US,Cap Goods Orders Nondef Ex Air,14:30,Sep P,     --,0.4%
-US,MNI Chicago PMI,15:45,--,     --,43.8
-US,DOE U.S. Crude Oil Inventories,16:30,21-Nov,     --,-3426k
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,28-Nov,     --,     --
-US,Fed Releases Beige Book,20:00,--,--,--
-US,Leading Index,11/26-12/24,Sep,     --,     --
-27 November 2025,--,--,--,--,--
-CH,Industrial Profits YTD YoY,2:30,Oct,     --,3.2%
-GE,GfK Consumer Confidence,8:00,Dec,-23.0,-24.1
-EC,M3 Money Supply YoY,10:00,Oct,2.8%,2.8%
-EC,Consumer Confidence,11:00,Nov F,     --,-14.2
-EC,Economic Confidence,11:00,Nov,     --,96.8
-28 November 2025,--,--,--,--,--
-JN,Tokyo CPI YoY,0:30,Nov,2.7%,2.8%
-JN,Jobless Rate,0:30,Oct,2.5%,2.6%
-JN,Retail Sales MoM,0:50,Oct,0.9%,0.3%
-JN,Industrial Production MoM,0:50,Oct P,-0.6%,2.6%
-JN,Housing Starts YoY,6:00,Oct,-4.9%,-7.3%
-FR,Consumer Confidence,8:45,Nov,     --,90.0
-FR,Consumer Spending MoM,8:45,Oct,     --,0.3%
-FR,CPI EU Harmonized YoY,8:45,Nov P,     --,0.8%
-FR,GDP QoQ,8:45,3Q F,     --,0.5%
-GE,Unemployment Change (000's),9:55,Nov,-5.0k,-1.0k
-EC,ECB 1 Year CPI Expectations,10:00,Oct,     --,2.7%
-IT,GDP WDA QoQ,10:00,3Q F,     --,0.0%
-IT,CPI EU Harmonized YoY,11:00,Nov P,     --,1.3%
-GE,CPI EU Harmonized YoY,14:00,Nov P,--,--
+30 November 2025,--,--,--,--,--
+CH,Manufacturing PMI,2:30,Nov,49.3,49.0
+CH,Non-manufacturing PMI,2:30,Nov,50.0,50.1
+01 December 2025,--,--,--,--,--
+JN,Japan PMI Mfg,1:30,Nov F,     --,48.8
+CH,China PMI Mfg,2:45,Nov,50.5,50.6
+EC,Eurozone Manuf. PMI,10:00,Nov F,49.9,49.7
+UK,Mortgage Approvals,10:30,Oct,64.3k,65.9k
+UK,UK Manufacturing PMI,10:30,Nov F,50.2,50.2
+US,US Manufacturing PMI,15:45,Nov F,     --,51.9
+US,ISM Manufacturing,16:00,Nov,49.0,48.7
+US,Retail Inventories MoM,Dec.,Sep,     --,0.0%
+US,Advance Goods Trade Balance,Dec.,Sep,     --,-$85.5b
+US,Leading Index,Dec.,Sep,-0.3%,     --
+US,Housing Starts MoM,Dec.,Sep,1.7%,     --
+US,Building Permits MoM,Dec.,Sep P,1.3%,     --
+US,Construction Spending MoM,Dec.,Sep,     --,0.2%
+US,Cap Goods Orders Nondef Ex Air,Dec.,Sep F,     --,0.9%
+US,New Home Sales MoM,Dec.,Sep,-8.1%,     --
+US,PPI Final Demand YoY,Dec.,Oct,     --,2.7%
+US,Trade Balance,Dec.,Sep,     --,-$59.6b
+02 December 2025,--,--,--,--,--
+JN,Consumer Confidence Index,6:00,Nov,36.2,35.8
+UK,Nationwide House Px NSA YoY,8:00,Nov,1.4%,2.4%
+EC,Unemployment Rate,11:00,Oct,6.3%,6.3%
+EC,CPI Estimate YoY,11:00,Nov P,2.1%,2.1%
+US,Wards Total Vehicle Sales,--,Nov,15.40m,15.32m
+03 December 2025,--,--,--,--,--
+JN,Japan PMI Composite,1:30,Nov F,     --,52.0
+JN,Japan PMI Services,1:30,Nov F,     --,53.1
+CH,China PMI Services,2:45,Nov,52.0,52.6
+FR,France Composite PMI,9:50,Nov F,49.9,49.9
+GE,Germany Composite PMI,9:55,Nov F,52.1,52.1
+EC,Eurozone Services PMI,10:00,Nov F,53.1,53.1
+EC,Eurozone Composite PMI,10:00,Nov F,52.4,52.4
+UK,UK Services PMI,10:30,Nov F,50.5,50.5
+UK,UK Composite PMI,10:30,Nov F,50.5,50.5
+EC,PPI YoY,11:00,Oct,     --,-0.2%
+US,ADP Employment Change,14:15,Nov,20k,42k
+US,Import Price Index MoM,14:30,Sep,0.1%,0.3%
+US,Import Price Index YoY,14:30,Sep,0.3%,0.0%
+US,Industrial Production MoM,15:15,Sep,0.1%,0.1%
+US,US Services PMI,15:45,Nov F,     --,55.0
+US,US Composite PMI,15:45,Nov F,     --,54.8
+US,ISM Services Index,16:00,Nov,52.0,52.4
+US,DOE U.S. Crude Oil Inventories,16:30,--,     --,2774k
+EC,ECB's Lagarde spreaks in European Parliament,16:30,--,--,--
+04 December 2025,--,--,--,--,--
+EC,Retail Sales MoM,11:00,Oct,0.2%,-0.1%
+US,Challenger Job Cuts YoY,13:30,Nov,     --,175.3%
+US,Initial Jobless Claims,14:30,--,     --,216k
+05 December 2025,--,--,--,--,--
+JN,Household Spending YoY,0:30,Oct,1.0%,1.8%
+JN,Leading Index CI,6:00,Oct P,109.3,108.6
+GE,Factory Orders MoM,8:00,Oct,0.5%,1.1%
+FR,Trade Balance,8:45,Oct,     --,-6576m
+FR,Industrial Production MoM,8:45,Oct,     --,0.8%
+EC,GDP SA QoQ,11:00,3Q T,0.2%,0.2%
+EC,Employment QoQ,11:00,3Q F,     --,0.1%
+US,Personal Spending,16:00,Sep,0.3%,     --
+US,Core PCE Price Index YoY,16:00,Sep,2.8%,     --
+US,U. of Mich. Sentiment,16:00,Dec P,52.0,51.0
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,407.0
