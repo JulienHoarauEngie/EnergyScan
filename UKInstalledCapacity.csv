@@ -1,4 +1,4 @@
-Production Type,Wind Onshore,Wind Offshore,Solar,Other,Nuclear,Hydro Run-of-river and poundage,Hydro Pumped Storage,Fossil Oil,Fossil Hard coal,Fossil Gas,Biomass,Total,
+Production Type,Wind Onshore,Wind Offshore,Solar,Other,Nuclear,Hydro Run-of-river and poundage,Hydro Pumped Storage,Fossil Oil,Fossil Hard coal,Fossil Gas,Biomass,Total
 2011,4758,1838.3,1000.2,721.7,10120,1627.5,2900,5332.6,28707.1,35071.6,3280.9,95361.7
 2012,6035,2995.5,1753.5,727,9413,1637.2,2900,3968,26762.9,36992,3200,96392.6
 2013,7586.3,3696,2937.2,689.9,9413,1649.8,2900,2912.2,21298.9,36863.7,3785.7,93740.8
@@ -13,4 +13,5 @@ Production Type,Wind Onshore,Wind Offshore,Solar,Other,Nuclear,Hydro Run-of-rive
 2022,14824.4,14470.3,14660.2,792.4,5883,1890,2900,1485.2,5912.1,35125,6632.6,104583.4
 2023,15415.8,15275.3,16384.4,711,5883,1892,2900,1414,2034,36281.1,6637.6,104834.5
 2024,16093.9,16679.3,18260.2,710,5883,1891.8,2900,1257.9,6.8,34977.5,6696.3,105364.5
+
 
