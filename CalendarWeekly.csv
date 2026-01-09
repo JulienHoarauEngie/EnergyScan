@@ -1,125 +1,43 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-22 December 2025,--,--,--,--,--
-US,Housing Starts MoM,19-21,Sep,1.6%,     --
-US,Building Permits MoM,19-21,Sep P,1.5%,     --
-US,Construction Spending MoM,19-21,Sep,0.0%,0.2%
-US,Building Permits MoM,20-26,Oct P,     --,     --
-CH,1-Year Loan Prime Rate,2:00,--,3.0%,3.0%
-CH,5-Year Loan Prime Rate,2:00,--,3.5%,3.5%
-UK,GDP QoQ,8:00,3Q F,0.1%,0.1%
-US,Chicago Fed Nat Activity Index,14:30,Nov,-20.0%,     --
-US,Housing Starts MoM,22-26,Oct,     --,     --
-US,Business Inventories,22-30,Oct,     --,0.2%
-US,Building Permits MoM,22-26,Sep F,     --,     --
-US,Building Permits MoM,22-02,Oct F,     --,     --
-US,Construction Spending MoM,22-26,Oct,     --,     --
-US,New Home Sales MoM,22-26,Sep,-11.4%,20.5%
-23 December 2025,--,--,--,--,--
-EC,EU27 New Car Registrations,6:00,Nov,     --,5.8%
-JN,Machine Tool Orders YoY,7:00,Nov F,     --,14.2%
-GE,Import Price Index YoY,8:00,Nov,     --,-1.4%
-US,GDP Annualized QoQ,14:30,3Q S,3.2%,     --
-US,Cap Goods Orders Nondef Ex Air,14:30,Oct P,0.4%,0.9%
-US,Industrial Production MoM,15:15,Nov,0.1%,0.1%
-US,Richmond Fed Manufact. Index,16:00,Dec,     --,-15.0
-US,Conf. Board Consumer Confidence,16:00,Dec,91.7,88.7
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
-24 December 2025,--,--,--,--,--
-JN,Leading Index CI,6:00,Oct F,     --,110.0
-US,Initial Jobless Claims,14:30,--,     --,224k
-US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-1274k
-25 December 2025,--,--,--,--,--
-JN,Housing Starts YoY,6:00,Nov,0.6%,3.2%
-JN,Nationwide Dept Sales YoY,6:30,Nov,     --,4.3%
-26 December 2025,--,--,--,--,--
-JN,Tokyo CPI YoY,0:30,Dec,2.3%,2.7%
-JN,Jobless Rate,0:30,Nov,2.6%,2.6%
-JN,Retail Sales MoM,0:50,Nov,0.5%,1.6%
-JN,Industrial Production MoM,0:50,Nov P,-2.0%,1.5%
-27 December 2025,--,--,--,--,--
-CH,Industrial Profits YTD YoY,2:30,Nov,     --,1.9%
-US,Retail Sales Control Group,27-31,Nov,     --,0.8%
-29 December 2025,--,--,--,--,--
-US,Pending Home Sales MoM,16:00,Nov,     --,1.9%
-US,Dallas Fed Manf. Activity,16:30,Dec,     --,-10.4
-US,New Home Sales MoM,29-02,Oct,     --,     --
-30 December 2025,--,--,--,--,--
-US,FHFA House Price Index MoM,15:00,Oct,     --,0.0%
-US,S&P Cotality CS 20-City YoY NSA,15:00,Oct,     --,1.4%
-US,MNI Chicago PMI,15:45,Dec,39.5,36.3
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
-US,FOMC Meeting Minutes,20:00,--,     --,     --
-31 December 2025,--,--,--,--,--
-CH,Manufacturing PMI,2:30,Dec,--,--
-CH,Non-manufacturing PMI,2:30,Dec,49.7,49.5
-CH,RatingDog China PMI Mfg,2:45,Dec,49.7,49.9
-US,Initial Jobless Claims,14:30,--,     --,     --
-US,DOE U.S. Crude Oil Inventories,16:30,--,     --,     --
-01 January 2026,--,--,--,--,--
-US,Cap Goods Orders Nondef Ex Air,01-09,Oct F,     --,     --
-US,Trade Balance,01-09,Oct,     --,-$52.8b
-02 January 2026,--,--,--,--,--
-UK,Nationwide House Px NSA YoY,8:00,Dec,     --,1.8%
-EC,HCOB Eurozone Manufacturing PMI,10:00,Dec F,49.2,49.2
-EC,M3 Money Supply YoY,10:00,Nov,     --,2.8%
-UK,S&P Global UK Manufacturing PMI,10:30,Dec F,51.2,51.2
-US,S&P Global US Manufacturing PMI,15:45,Dec,     --,51.8
-US,Construction Spending MoM,16:00,Nov,     --,     --
-US,Personal Spending,02-30,Oct,     --,0.3%
-US,Core PCE Price Index YoY,02-30,Oct,     --,2.8%
-05 January 2026,--,--,--,--,--
-JN,S&P Global Japan PMI Mfg,1:30,Dec F,     --,49.7
-CH,RatingDog China PMI Services,2:45,Dec,     --,52.1
-EC,Sentix Investor Confidence,10:30,Jan,     --,-6.2
-UK,Mortgage Approvals,10:30,Nov,     --,65.0k
-US,ISM Manufacturing,16:00,Dec,48.3,48.2
-US,Wards Total Vehicle Sales,--,Dec,     --,15.60m
-US,Business Inventories,05-19,Nov,     --,     --
-US,Housing Starts MoM,05-09,Nov,     --,     --
-US,Building Permits MoM,05-09,Nov P,     --,     --
-US,New Home Sales MoM,05-16,Nov,     --,     --
-06 January 2026,--,--,--,--,--
-FR,CPI EU Harmonized YoY,8:45,Dec P,     --,0.8%
-FR,HCOB France Composite PMI,9:50,Dec F,     --,50.1
-GE,HCOB Germany Composite PMI,9:55,Dec F,     --,51.5
-EC,HCOB Eurozone Services PMI,10:00,Dec F,     --,52.6
-EC,HCOB Eurozone Composite PMI,10:00,Dec F,     --,51.9
-UK,S&P Global UK Services PMI,10:30,Dec F,     --,52.1
-UK,S&P Global UK Composite PMI,10:30,Dec F,     --,52.1
-GE,CPI EU Harmonized YoY,14:00,Dec P,     --,2.6%
-US,S&P Global US Services PMI,15:45,Dec F,     --,52.9
-US,S&P Global US Composite PMI,15:45,Dec F,     --,53.0
-07 January 2026,--,--,--,--,--
-JN,S&P Global Japan PMI Composite,1:30,Dec F,     --,51.5
-JN,S&P Global Japan PMI Services,1:30,Dec F,     --,52.5
-GE,Retail Sales MoM,8:00,Nov,     --,-0.3%
-FR,Consumer Confidence,8:45,Dec,90.0,89.0
-GE,Unemployment Change (000's),9:55,Dec,     --,1.0k
-EC,CPI Estimate YoY,11:00,Dec P,     --,2.1%
-US,ADP Employment Change,14:15,Dec,     --,-32k
-US,ISM Services Index,16:00,Dec,     --,52.6
-US,JOLTS Job Openings,16:00,Nov,     --,7670k
-US,DOE U.S. Crude Oil Inventories,16:30,--,     --,     --
-08 January 2026,--,--,--,--,--
-JN,Consumer Confidence Index,6:00,Dec,     --,37.5
-GE,Factory Orders MoM,8:00,Nov,     --,1.5%
-FR,Trade Balance,8:45,Nov,     --,-3918m
-EC,ECB 1 Year CPI Expectations,10:00,Nov,     --,2.8%
-EC,Consumer Confidence,11:00,Dec F,     --,     --
-EC,Economic Confidence,11:00,Dec,     --,97.0
-EC,PPI YoY,11:00,Nov,     --,-0.5%
-EC,Unemployment Rate,11:00,Nov,     --,6.4%
-US,Challenger Job Cuts YoY,13:30,Dec,     --,23.5%
-US,Initial Jobless Claims,14:30,--,     --,     --
-09 January 2026,--,--,--,--,--
-JN,Household Spending YoY,0:30,Nov,     --,-3.0%
-JN,Leading Index CI,6:00,Nov P,     --,     --
-GE,Industrial Production SA MoM,8:00,Nov,     --,1.8%
-GE,Trade Balance SA,8:00,Nov,     --,16.9b
-FR,Consumer Spending MoM,8:45,Nov,     --,0.4%
-FR,Industrial Production MoM,8:45,Nov,     --,0.2%
-EC,Retail Sales MoM,11:00,Nov,     --,0.0%
-US,Change in Nonfarm Payrolls,14:30,Dec,     --,64k
-US,Average Hourly Earnings YoY,14:30,Dec,     --,3.5%
-US,U. of Mich. Sentiment,16:00,Jan P,     --,     --
+12 January 2026,--,--,--,--,--
+CH,Aggregate Financing CNY YTD,12-15,Dec,35295.0b,33390.0b
+EC,Sentix Investor Confidence,10:30,Jan,-5.3,-6.2
+US,Housing Starts MoM,12-20,Nov,     --,     --
+US,Building Permits MoM,12-16,Oct F,     --,     --
+13 January 2026,--,--,--,--,--
+JN,BoP Current Account Adjusted,0:50,Nov,¥3036.4b,¥2476.4b
+US,NFIB Small Business Optimism,12:00,Dec,     --,99.0
+US,CPI YoY,14:30,Dec,2.7%,2.7%
+US,Core CPI YoY,14:30,Dec,2.7%,2.6%
+US,New Home Sales MoM,16:00,Oct,-10.8%,     --
+US,STEO Current Yr Crude Forecast,18:00,Jan,     --,13.6
+14 January 2026,--,--,--,--,--
+JN,Machine Tool Orders YoY,7:00,Dec P,     --,14.8%
+US,PPI Final Demand YoY,14:30,Nov,2.6%,     --
+US,Retail Sales Control Group,14:30,Nov,0.4%,0.8%
+US,Current Account Balance,14:30,3Q,     --,-$251.3b
+US,Existing Home Sales MoM,16:00,Dec,2.4%,0.5%
+US,Business Inventories,16:00,Oct,     --,0.2%
+US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-3832k
+CH,Trade Balance,--,Dec,$114.10b,$111.68b
+15 January 2026,--,--,--,--,--
+JN,PPI YoY,0:50,Dec,2.4%,2.7%
+UK,RICS House Price Balance,1:01,Dec,     --,-16.0%
+UK,Monthly GDP (MoM),8:00,Nov,0.0%,-0.1%
+UK,Industrial Production MoM,8:00,Nov,     --,1.1%
+UK,Trade Balance GBP/Mn,8:00,Nov,     --,-£4824m
+FR,CPI EU Harmonized YoY,8:45,Dec F,0.7%,0.7%
+EC,Industrial Production SA MoM,11:00,Nov,0.0%,0.8%
+EC,Trade Balance SA,11:00,Nov,     --,14.0b
+US,Philadelphia Fed Business Outlook,14:30,Jan,-2.9,-10.2
+US,Initial Jobless Claims,14:30,--,     --,208k
+US,Import Price Index MoM,14:30,Nov,-0.2%,     --
+US,Import Price Index YoY,14:30,Nov,     --,     --
+US,Empire Manufacturing,14:30,Jan,1.0,-3.9
+US,Net Long-term TIC Flows,22:00,Nov,     --,$17.5b
+16 January 2026,--,--,--,--,--
+GE,CPI EU Harmonized YoY,8:00,Dec F,2.0%,2.0%
+IT,CPI EU Harmonized YoY,10:00,Dec F,1.2%,1.2%
+US,Industrial Production MoM,15:15,Dec,0.2%,0.2%
+US,NAHB Housing Market Index,16:00,Jan,     --,39.0
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
