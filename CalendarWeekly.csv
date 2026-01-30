@@ -1,51 +1,54 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-26 January 2026,--,--,--,--,--
-JN,Leading Index CI,6:00,Nov F,     --,110.5
-GE,IFO Business Climate,10:00,Jan,88.0,87.6
-US,Chicago Fed Nat Activity Index,14:30,Nov,     --,-0.2
-US,Cap Goods Orders Nondef Ex Air,14:30,Nov P,0.3%,0.5%
-US,Dallas Fed Manf. Activity,16:30,Jan,     --,-10.9
-GE,Import Price Index YoY,26-30,Dec,     --,-1.9%
-27 January 2026,--,--,--,--,--
-CH,Industrial Profits YTD YoY,2:30,Dec,     --,0.1%
-EC,EU27 New Car Registrations,6:00,Dec,     --,2.1%
-JN,Machine Tool Orders YoY,7:00,Dec F,     --,10.6%
-FR,Consumer Confidence,8:45,Jan,90.0,90.0
-US,FHFA House Price Index MoM,15:00,Nov,     --,0.4%
-US,S&P Cotality CS 20-City YoY NSA,15:00,Nov,1.2%,1.3%
-US,Richmond Fed Manufact. Index,16:00,Jan,     --,-7.0
-US,Conf. Board Consumer Confidence,16:00,Jan,90.0,89.1
-GE,Retail Sales MoM,27-02,Dec,0.1%,-0.6%
-28 January 2026,--,--,--,--,--
-GE,GfK Consumer Confidence,8:00,Feb,-25.0,-26.9
-CA,Bank of Canada Rate Decision,15:45,--,2.3%,2.3%
-US,DOE U.S. Crude Oil Inventories,16:30,--,     --,3602k
-US,FOMC Rate Decision (Upper Bound),20:00,--,3.75%,3.75%
-29 January 2026,--,--,--,--,--
-JN,Consumer Confidence Index,6:00,Jan,37.0,37.2
-EC,M3 Money Supply YoY,10:00,Dec,3.0%,3.0%
-EC,Economic Confidence,11:00,Jan,96.9,96.7
-EC,Consumer Confidence,11:00,Jan F,     --,-12.4
-FR,Total Jobseekers,12:00,4Q,     --,3045.8k
-US,Initial Jobless Claims,14:30,--,     --,200k
-US,Trade Balance,14:30,Nov,-$45.0b,-$29.4b
-US,Cap Goods Orders Nondef Ex Air,16:00,Nov F,     --,     --
-30 January 2026,--,--,--,--,--
-JN,Tokyo CPI YoY,0:30,Jan,1.7%,2.0%
-JN,Jobless Rate,0:30,Dec,2.6%,2.6%
-JN,Retail Sales MoM,0:50,Dec,-0.4%,0.6%
-JN,Industrial Production MoM,0:50,Dec P,-0.4%,-2.7%
-JN,Housing Starts YoY,6:00,Dec,-4.4%,-8.5%
-FR,Consumer Spending MoM,7:30,Dec,-0.4%,-0.3%
-FR,GDP QoQ,7:30,4Q P,0.2%,0.5%
-GE,Unemployment Change (000's),9:55,Jan,1.5k,3.0k
-GE,GDP SA QoQ,10:00,4Q P,0.2%,0.0%
-EC,ECB 1 Year CPI Expectations,10:00,Dec,     --,2.8%
-IT,GDP WDA QoQ,10:00,4Q P,0.2%,0.1%
-UK,Mortgage Approvals,10:30,Dec,     --,64.5k
-EC,GDP SA QoQ,11:00,4Q A,0.2%,0.3%
-EC,Unemployment Rate,11:00,Dec,6.3%,6.3%
-GE,CPI EU Harmonized YoY,14:00,Jan P,2.1%,2.0%
-US,PPI Final Demand YoY,14:30,Dec,     --,3.0%
-US,MNI Chicago PMI,15:45,Jan,44.0,43.5
+31 January 2026,--,--,--,--,--
+CH,Manufacturing PMI,2:30,Jan,50.1,50.1
+CH,Non-manufacturing PMI,2:30,Jan,50.3,50.2
+02 February 2026,--,--,--,--,--
+JN,Japan PMI Mfg,1:30,Jan F,     --,51.5
+CH,China PMI Mfg,2:45,Jan,50.0,50.1
+GE,Retail Sales MoM,8:00,Dec,-0.1%,-0.6%
+UK,Nationwide House Px NSA YoY,8:00,Jan,0.7%,0.6%
+EC,Eurozone Manuf. PMI,10:00,Jan F,49.4,49.4
+UK,UK Manufacturing PMI,10:30,Jan F,51.6,51.6
+US,US Manufacturing PMI,15:45,Jan F,     --,51.9
+US,ISM Manufacturing,16:00,Jan,48.3,47.9
+03 February 2026,--,--,--,--,--
+FR,CPI EU Harmonized YoY,8:45,Jan P,0.6%,0.7%
+US,JOLTS Job Openings,16:00,Dec,7100k,7146k
+US,Wards Total Vehicle Sales,--,Jan,15.40m,16.02m
+04 February 2026,--,--,--,--,--
+JN,Japan PMI Composite,1:30,Jan F,     --,52.8
+JN,Japan PMI Services,1:30,Jan F,     --,53.4
+CH,RatingDog China PMI Services,2:45,Jan,51.7,52.0
+FR,France Composite PMI,9:50,Jan F,     --,48.6
+GE,Germany Composite PMI,9:55,Jan F,     --,52.5
+EC,Eurozone Services PMI,10:00,Jan F,51.9,51.9
+EC,Eurozone Composite PMI,10:00,Jan F,51.5,51.5
+UK,UK Services PMI,10:30,Jan F,54.1,54.3
+UK,UK Composite PMI,10:30,Jan F,53.9,53.9
+IT,CPI EU Harmonized YoY,11:00,Jan P,     --,1.2%
+EC,PPI YoY,11:00,Dec,-1.6%,-1.7%
+EC,CPI Estimate YoY,11:00,Jan P,1.8%,1.9%
+US,ADP Employment Change,14:15,Jan,48k,41k
+US,US Services PMI,15:45,Jan F,     --,52.5
+US,US Composite PMI,15:45,Jan F,     --,52.8
+US,ISM Services Index,16:00,Jan,53.5,54.4
+US,DOE U.S. Crude Oil Inventories,16:30,--,     --,-2295k
+05 February 2026,--,--,--,--,--
+GE,Factory Orders MoM,8:00,Dec,0.8%,5.6%
+FR,Industrial Production MoM,8:45,Dec,     --,-0.1%
+EC,Retail Sales MoM,11:00,Dec,-0.1%,0.2%
+UK,Bank of England Bank Rate,13:00,--,3.75%,3.75%
+US,Challenger Job Cuts YoY,13:30,Jan,     --,-8.3%
+EC,ECB Deposit Facility Rate,14:15,--,2.0%,2.0%
+US,Initial Jobless Claims,14:30,--,     --,209k
+06 February 2026,--,--,--,--,--
+JN,Household Spending YoY,0:30,Dec,-0.3%,2.9%
+JN,Leading Index CI,6:00,Dec P,109.8,109.9
+GE,Industrial Production SA MoM,8:00,Dec,-0.7%,0.8%
+GE,Trade Balance SA,8:00,Dec,     --,13.1b
+FR,Trade Balance,8:45,Dec,     --,-4167m
+FR,Wages QoQ,8:45,4Q P,     --,0.3%
+US,Change in Nonfarm Payrolls,14:30,Jan,78k,50k
+US,Average Hourly Earnings YoY,14:30,Jan,3.6%,3.8%
+US,U. of Mich. Sentiment,16:00,Feb P,55.5,56.4
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,--,     --,     --
