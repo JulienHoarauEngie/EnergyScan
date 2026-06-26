@@ -1,117 +1,96 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-19 June 2026,--,--,--,--,--
-UK,GfK Consumer Confidence,1:01,Jun,-23.0,-23.0
-JN,Natl CPI YoY,1:30,May,1.5%,1.4%
-UK,Public Sector Net Borrowing,8:00,May,18.9b,24.3b
-GE,PPI YoY,8:00,May,2.5%,1.7%
-UK,Retail Sales Inc Auto Fuel MoM,8:00,May,0.5%,-1.3%
-FR,Wages QoQ,8:45,1Q F,0.7%,0.7%
-22 June 2026,--,--,--,--,--
-CH,1-Year Loan Prime Rate,3:00,     --,3.0%,3.0%
-CH,5-Year Loan Prime Rate,3:00,     --,3.5%,3.5%
-EC,Consumer Confidence,16:00,Jun P,     --,-19.0
-23 June 2026,--,--,--,--,--
-JN,Japan PMI Composite,2:30,Jun P,     --,51.1
-JN,Japan PMI Mfg,2:30,Jun P,     --,54.5
-JN,Japan PMI Services,2:30,Jun P,     --,50.0
-EC,EU27 New Car Registrations,6:00,May,     --,5.1%
-FR,Business Confidence,8:45,Jun,     --,94.0
-FR,France Composite PMI,9:15,Jun P,     --,44.9
-GE,Germany Composite PMI,9:30,Jun P,     --,48.8
-EC,Eurozone Manufacturing PMI,10:00,Jun P,     --,51.6
-EC,Eurozone Services PMI,10:00,Jun P,     --,47.7
-EC,Eurozone Composite PMI,10:00,Jun P,     --,48.5
-UK,UK Services PMI,10:30,Jun P,     --,49.3
-UK,UK Manufacturing PMI,10:30,Jun P,     --,53.9
-UK,UK Composite PMI,10:30,Jun P,     --,49.7
-UK,CBI Trends Total Orders,12:00,Jun,     --,-41.0
-US,US Manufacturing PMI,15:45,Jun P,54.8,55.1
-US,US Services PMI,15:45,Jun P,51.2,50.7
-US,US Composite PMI,15:45,Jun P,     --,51.5
-US,Richmond Fed Manufact. Index,16:00,Jun,     --,13.0
-24 June 2026,--,--,--,--,--
-GE,IFO Business Climate,10:00,Jun,     --,84.9
-US,Current Account Balance,14:30,1Q,-$241.0b,-$190.7b
-US,New Home Sales MoM,16:00,May,     --,-6.2%
-US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,-8263k
-25 June 2026,--,--,--,--,--
-JN,Leading Index CI,7:00,Apr F,     --,115.9
-JN,Nationwide Dept Sales YoY,7:30,May,     --,5.2%
-JN,Machine Tool Orders YoY,8:00,May F,     --,37.4%
-GE,GfK Consumer Confidence,8:00,Jul,     --,-29.8
-FR,Consumer Confidence,8:45,Jun,     --,82.0
-UK,CBI Total Dist. Reported Sales,12:00,Jun,     --,-35.0
-US,Personal Spending,14:30,May,0.5%,0.5%
-US,Chicago Fed Nat Activity Index,14:30,May,     --,14.0%
-US,Core PCE Price Index YoY,14:30,May,3.4%,3.3%
-US,Initial Jobless Claims,14:30,     --,     --,     --
-US,Cap Goods Orders Nondef Ex Air,14:30,May P,0.8%,-1.0%
-US,GDP Annualized QoQ,14:30,1Q T,1.6%,1.6%
-US,Kansas City Fed Manf. Activity,17:00,Jun,     --,8.0
-26 June 2026,--,--,--,--,--
-JN,Tokyo CPI YoY,1:30,Jun,1.6%,1.4%
-EC,ECB 1 Year CPI Expectations,10:00,May,     --,4.0%
-US,Advance Goods Trade Balance,14:30,May,-$83.3b,-$82.4b
-US,Retail Inventories MoM,14:30,May,     --,0.7%
-US,U. of Mich. Sentiment,16:00,Jun F,     --,48.9
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
 27 June 2026,--,--,--,--,--
 CH,Industrial Profits YTD YoY,3:30,May,     --,18.2%
 29 June 2026,--,--,--,--,--
-JN,Retail Sales MoM,1:50,May,     --,1.3%
-EC,M3 Money Supply YoY,10:00,May,     --,2.7%
-UK,Mortgage Approvals,10:30,May,     --,65.9k
-EC,Economic Confidence,11:00,Jun,     --,93.5
-EC,Consumer Confidence,11:00,Jun F,     --,     --
+JN,Retail Sales MoM,1:50,May,-0.3%,1.3%
+EC,M3 Money Supply YoY,10:00,May,2.7%,2.7%
+UK,Mortgage Approvals,10:30,May,63.0k,65.9k
+EC,Economic Confidence,11:00,Jun,94.5,93.5
+EC,Consumer Confidence,11:00,Jun F,     --,-17.7
 US,Dallas Fed Manf. Activity,16:30,Jun,     --,0.4
 30 June 2026,--,--,--,--,--
-JN,Jobless Rate,1:30,May,     --,2.5%
-JN,Industrial Production MoM,1:50,May P,     --,0.5%
-CH,Manufacturing PMI,3:30,Jun,     --,50.0
-CH,Non-manufacturing PMI,3:30,Jun,     --,50.1
-JN,Housing Starts YoY,7:00,May,     --,11.40%
-UK,GDP QoQ,8:00,1Q F,     --,0.6%
+JN,Jobless Rate,1:30,May,2.5%,2.5%
+JN,Industrial Production MoM,1:50,May P,0.3%,0.5%
+CH,Manufacturing PMI,3:30,Jun,50.1,50.0
+CH,Non-manufacturing PMI,3:30,Jun,49.9,50.1
+JN,Housing Starts YoY,7:00,May,32.0%,11.4%
+UK,GDP QoQ,8:00,1Q F,0.6%,0.6%
+GE,Import Price Index YoY,8:00,May,     --,5.3%
+GE,Retail Sales MoM,8:00,May,0.0%,-0.3%
 FR,Consumer Spending MoM,8:45,May,     --,-0.5%
-FR,CPI EU Harmonized YoY,8:45,Jun P,     --,2.8%
-GE,Unemployment Change (000's),9:55,Jun,     --,-12.0k
+FR,CPI EU Harmonized YoY,8:45,Jun P,2.4%,2.8%
+GE,Unemployment Change (000's),9:55,Jun,7.5k,-12.0k
 IT,CPI EU Harmonized YoY,11:00,Jun P,     --,3.2%
-GE,CPI EU Harmonized YoY,14:00,Jun P,     --,2.7%
+GE,CPI EU Harmonized YoY,14:00,Jun P,2.7%,2.7%
 US,FHFA House Price Index MoM,15:00,Apr,     --,0.1%
 US,S&P Cotality CS 20-City YoY NSA,15:00,Apr,     --,0.8%
-US,MNI Chicago PMI,15:45,Jun,     --,6270.0%
-US,Conf. Board Consumer Confidence,16:00,Jun,     --,9310.0%
-US,JOLTS Job Openings,16:00,May,     --,7618k
-JN,Tankan Large Mfg Index,1:50,2Q,     --,17.0
+US,MNI Chicago PMI,15:45,Jun,     --,62.7
+US,Conf. Board Consumer Confidence,16:00,Jun,94.3,93.1
+US,JOLTS Job Openings,16:00,May,7275k,7618k
 01 July 2026,--,--,--,--,--
-JN,S&P Global Japan PMI Mfg,2:30,Jun F,     --,     --
-CH,RatingDog China PMI Mfg,3:45,Jun,     --,51.8
-JN,Consumer Confidence Index,7:00,Jun,     --,33.6
-EC,S&P Global Eurozone Manufacturing PMI,10:00,Jun F,     --,     --
-UK,S&P Global UK Manufacturing PMI,10:30,Jun F,     --,     --
-EC,CPI Estimate YoY,11:00,Jun P,     --,3.2%
-EC,CPI YoY,11:00,Jun P,     --,3.2%
+JN,Tankan Large Mfg Index,1:50,2Q,16.0,17.0
+JN,Japan PMI Mfg,2:30,Jun F,     --,54.9
+CH,RatingDog China PMI Mfg,3:45,Jun,52.0,51.8
+JN,Consumer Confidence Index,7:00,Jun,34.1,33.6
+UK,Nationwide House Px NSA YoY,8:00,Jun,     --,1.7%
+EC,Eurozone Manuf. PMI,10:00,Jun F,51.3,51.3
+UK,Manufacturing PMI,10:30,Jun F,53.1,53.1
+EC,CPI Estimate YoY,11:00,Jun P,3.1%,3.2%
+EC,CPI YoY,11:00,Jun P,3.1%,3.2%
 US,Challenger Job Cuts YoY,11:30,Jun,     --,3.4%
-US,ADP Employment Change,14:15,Jun,     --,122k
-US,S&P Global US Manufacturing PMI,15:45,Jun F,     --,     --
-US,ISM Manufacturing,16:00,Jun,     --,54.0
+US,ADP Employment Change,14:15,Jun,118k,122k
+US,US Manufacturing PMI,15:45,Jun F,     --,55.7
+US,ISM Manufacturing,16:00,Jun,53.8,54.0
 US,Construction Spending MoM,16:00,May,     --,0.4%
-US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,     --
-US,Omdia Total Vehicle Sales,     --,Jun,     --,16.08m
+US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,-6088k
+US,Omdia Total Vehicle Sales,     --,Jun,16.00m,16.08m
 02 July 2026,--,--,--,--,--
-EC,Unemployment Rate,11:00,May,     --,6.3%
-US,Change in Nonfarm Payrolls,14:30,Jun,     --,172k
-US,Average Hourly Earnings YoY,14:30,Jun,     --,3.4%
-US,Initial Jobless Claims,14:30,     --,     --,     --
-US,Cap Goods Orders Nondef Ex Air,16:00,May F,     --,     --
+EC,Unemployment Rate,11:00,May,6.3%,6.3%
+US,Change in Nonfarm Payrolls,14:30,Jun,115k,172k
+US,Average Hourly Earnings YoY,14:30,Jun,3.5%,3.4%
+US,Initial Jobless Claims,14:30,     --,220k,215k
+US,Cap Goods Orders Nondef Ex Air,16:00,May F,     --,1.6%
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
 03 July 2026,--,--,--,--,--
-JN,S&P Global Japan PMI Composite,2:30,Jun F,     --,     --
-JN,S&P Global Japan PMI Services,2:30,Jun F,     --,     --
-CH,RatingDog China PMI Services,3:45,Jun,     --,54.4
-FR,Industrial Production MoM,8:45,May,     --,0.1%
-FR,S&P Global France Composite PMI,9:50,Jun F,     --,     --
-GE,S&P Global Germany Composite PMI,9:55,Jun F,     --,     --
-EC,S&P Global Eurozone Services PMI,10:00,Jun F,     --,     --
-EC,S&P Global Eurozone Composite PMI,10:00,Jun F,     --,     --
-UK,S&P Global UK Services PMI,10:30,Jun F,     --,     --
-UK,S&P Global UK Composite PMI,10:30,Jun F,     --,     --
+JN,Japan PMI Composite,2:30,Jun F,     --,52.5
+JN,Japan PMI Services,2:30,Jun F,     --,51.8
+CH,RatingDog China PMI Services,3:45,Jun,53.5,54.4
+FR,Industrial Production MoM,8:45,May,-0.3%,0.1%
+FR,France Composite PMI,9:50,Jun F,     --,47.6
+GE,Germany Composite PMI,9:55,Jun F,     --,48.0
+EC,Eurozone Services PMI,10:00,Jun F,48.9,48.9
+EC,Eurozone Composite PMI,10:00,Jun F,     --,49.5
+UK,UK Services PMI,10:30,Jun F,49.0,48.7
+UK,UK Composite PMI,10:30,Jun F,     --,49.4
+06 July 2026,--,--,--,--,--
+GE,Factory Orders MoM,8:00,May,     --,-3.8%
+EC,Sentix Investor Confidence,10:30,Jul,     --,-13.4
+EC,PPI YoY,11:00,May,     --,4.9%
+EC,Retail Sales MoM,11:00,May,     --,-0.4%
+US,S&P Global US Services PMI,15:45,Jun F,     --,51.3
+US,S&P Global US Composite PMI,15:45,Jun F,     --,52.2
+US,ISM Services Index,16:00,Jun,     --,54.5
+07 July 2026,--,--,--,--,--
+JN,Household Spending YoY,1:30,May,     --,-0.5%
+JN,Leading Index CI,7:00,May P,     --,116.1
+GE,Industrial Production SA MoM,8:00,May,     --,0.4%
+FR,Trade Balance,8:45,May,     --,-5640m
+US,Trade Balance,14:30,May,     --,-$55.9b
+US,STEO Current Yr Crude Forecast,18:00,Jul,     --,13.7
+08 July 2026,--,--,--,--,--
+JN,BoP Current Account Adjusted,1:50,May,     --,¥4211.1b
+US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,     --
+US,FOMC Meeting Minutes,20:00,     --,     --,     --
+09 July 2026,--,--,--,--,--
+UK,RICS House Price Balance,1:01,Jun,     --,-35.0%
+CH,PPI YoY,3:30,Jun,     --,3.9%
+CH,CPI YoY,3:30,Jun,     --,1.2%
+JN,Machine Tool Orders YoY,8:00,Jun P,     --,37.5%
+GE,Trade Balance SA,8:00,May,     --,14.5b
+US,Initial Jobless Claims,14:30,     --,     --,     --
+US,Existing Home Sales MoM,16:00,Jun,     --,3.2%
+10 July 2026,--,--,--,--,--
+JN,PPI YoY,1:50,Jun,     --,6.3%
+GE,CPI EU Harmonized YoY,8:00,Jun F,     --,     --
+FR,CPI EU Harmonized YoY,8:45,Jun F,     --,     --
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
