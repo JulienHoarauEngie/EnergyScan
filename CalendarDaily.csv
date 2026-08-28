@@ -1,39 +1,52 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2026-08-24,US,Chicago Fed Nat Activity Index,14:30,Jul,     --,-0.02
-2026-08-25,JN,Leading Index CI,7:00,Jun F,     --,116.4
-2026-08-25,JN,Nationwide Dept Sales YoY,7:30,Jul,     --,2.3%
-2026-08-25,GE,GDP SA QoQ,8:00,2Q F,0.2%,0.2%
-2026-08-25,FR,Consumer Confidence,8:45,Aug,86.0,86.0
-2026-08-25,GE,IFO Business Climate,10:00,Aug,87.2,86.6
-2026-08-25,US,FHFA House Price Index MoM,15:00,Jun,0.2%,0.3%
-2026-08-25,US,S&P Cotality CS 20-City YoY NSA,15:00,Jun,1.7%,1.6%
-2026-08-25,US,Richmond Fed Manufact. Index,16:00,Aug,7.0,5.0
-2026-08-25,US,New Home Sales MoM,16:00,Jul,-1.3%,1.6%
-2026-08-25,US,Conf. Board Consumer Confidence,16:00,Aug,90.2,90.8
-2026-08-25,US,Building Permits MoM,     --,Jul F,     --,5.0%
-2026-08-26,UK,CBI Total Dist. Reported Sales,12:00,Aug,     --,1.0
-2026-08-26,US,Personal Spending,14:30,Jul,0.1%,0.3%
-2026-08-26,US,Core PCE Price Index YoY,14:30,Jul,3.3%,3.3%
-2026-08-26,US,GDP Annualized QoQ,14:30,2Q S,1.5%,1.5%
-2026-08-26,US,Cap Goods Orders Nondef Ex Air,14:30,Jul P,1.0%,1.2%
-2026-08-26,US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,4405k
-2026-08-27,CH,Industrial Profits YTD YoY,3:30,Jul,     --,18.7%
-2026-08-27,JN,Machine Tool Orders YoY,8:00,Jul F,     --,50.4%
-2026-08-27,GE,GfK Consumer Confidence,8:00,Sep,-29.2,-29.6
-2026-08-27,EC,M3 Money Supply YoY,10:00,Jul,3.4%,3.3%
-2026-08-27,US,Advance Goods Trade Balance,14:30,Jul,-$99.5b,-$101.5b
-2026-08-27,US,Retail Inventories MoM,14:30,Jul,     --,0.0%
-2026-08-27,US,Initial Jobless Claims,14:30,     --,208k,206k
-2026-08-27,US,Kansas City Fed Manf. Activity,17:00,Aug,     --,9.0
-2026-08-28,JN,Tokyo CPI YoY,1:30,Aug,1.9%,2.0%
-2026-08-28,JN,Jobless Rate,1:30,Jul,2.5%,2.5%
-2026-08-28,GE,Import Price Index YoY,8:00,Jul,     --,6.1%
-2026-08-28,FR,CPI EU Harmonized YoY,8:45,Aug P,2.6%,2.4%
-2026-08-28,FR,Consumer Spending MoM,8:45,Jul,     --,0.4%
-2026-08-28,FR,GDP QoQ,8:45,2Q F,0.2%,0.2%
-2026-08-28,GE,Unemployment Change (000's),9:55,Aug,8.0k,6.0k
-2026-08-28,EC,Economic Confidence,11:00,Aug,97.1,96.9
-2026-08-28,EC,Consumer Confidence,11:00,Aug F,     --,     --
-2026-08-28,US,MNI Chicago PMI,15:45,Aug,59.0,57.6
-2026-08-28,US,U. of Mich. Sentiment,16:00,Aug F,51.0,51.0
-2026-08-28,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
+2026-08-31,JN,Retail Sales MoM,1:50,Jul,1.6%,-4.1%
+2026-08-31,JN,Industrial Production MoM,1:50,Jul P,-0.8%,1.9%
+2026-08-31,CH,Manufacturing PMI,3:30,Aug,49.6,49.2
+2026-08-31,CH,Non-manufacturing PMI,3:30,Aug,49.5,49.0
+2026-08-31,JN,Housing Starts YoY,7:00,Jul,7.6%,18.6%
+2026-08-31,GE,CPI EU Harmonized YoY,14:00,Aug P,3.1%,2.8%
+2026-08-31,US,Dallas Fed Manf. Activity,16:30,Aug,1.6,1.3
+2026-08-31,GE,Retail Sales MoM,31-01,Jul,0.5%,-0.7%
+2026-09-01,JN,Japan PMI Mfg,2:30,Aug F,     --,55.1
+2026-09-01,CH,RatingDog China PMI Mfg,3:45,Aug,51.3,50.9
+2026-09-01,JN,Consumer Confidence Index,7:00,Aug,35.3,34.9
+2026-09-01,UK,Nationwide House Px NSA YoY,8:00,Aug,2.1%,1.8%
+2026-09-01,IT,GDP WDA QoQ,10:00,2Q F,     --,0.2%
+2026-09-01,EC,Eurozone Manuf. PMI,10:00,Aug F,52.8,52.8
+2026-09-01,UK,Mortgage Approvals,10:30,Jul,60.0k,58.2k
+2026-09-01,UK,UK Manufacturing PMI,10:30,Aug F,51.5,51.5
+2026-09-01,EC,CPI Estimate YoY,11:00,Aug P,3.3%,2.9%
+2026-09-01,EC,CPI YoY,11:00,Aug P,3.3%,2.9%
+2026-09-01,IT,CPI EU Harmonized YoY,11:00,Aug P,3.3%,2.9%
+2026-09-01,EC,Unemployment Rate,11:00,Jul,6.2%,6.3%
+2026-09-01,US,US Manufacturing PMI,15:45,Aug F,     --,53.2
+2026-09-01,US,ISM Manufacturing,16:00,Aug,55.2,55.6
+2026-09-01,US,Construction Spending MoM,16:00,Jul,0.2%,-0.1%
+2026-09-01,US,JOLTS Job Openings,16:00,Jul,7380k,7359k
+2026-09-01,US,Omdia Total Vehicle Sales,     --,Aug,16.28m,16.33m
+2026-09-02,US,ADP Employment Change,14:15,Aug,48k,44k
+2026-09-02,CA,Bank of Canada Rate Decision,15:45,     --,2.25%,2.25%
+2026-09-02,US,Cap Goods Orders Nondef Ex Air,16:00,Jul F,     --,0.2%
+2026-09-02,US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,95k
+2026-09-03,JN,Japan PMI Composite,2:30,Aug F,     --,53.4
+2026-09-03,JN,Japan PMI Services,2:30,Aug F,     --,52.3
+2026-09-03,CH,RatingDog China PMI Services,3:45,Aug,50.5,50.4
+2026-09-03,FR,France Composite PMI,9:50,Aug F,     --,48.8
+2026-09-03,GE,Germany Composite PMI,9:55,Aug F,51.0,51.0
+2026-09-03,EC,Eurozone Services PMI,10:00,Aug F,51.7,51.7
+2026-09-03,EC,Eurozone Composite PMI,10:00,Aug F,52.1,52.1
+2026-09-03,UK,UK Services PMI,10:30,Aug F,52.8,52.8
+2026-09-03,UK,UK Composite PMI,10:30,Aug F,52.5,52.5
+2026-09-03,EC,PPI YoY,11:00,Jul,     --,4.6%
+2026-09-03,US,Challenger Job Cuts YoY,11:30,Aug,     --,-46.1%
+2026-09-03,US,Trade Balance,14:30,Jul,-$74.5b,-$73.3b
+2026-09-03,US,Initial Jobless Claims,14:30,     --,205k,203k
+2026-09-03,US,US Services PMI,15:45,Aug F,     --,56.8
+2026-09-03,US,US Composite PMI,15:45,Aug F,     --,56.0
+2026-09-03,US,ISM Services Index,16:00,Aug,54.3,54.1
+2026-09-04,JN,Household Spending YoY,1:30,Jul,-1.6%,-3.3%
+2026-09-04,GE,Factory Orders MoM,8:00,Jul,0.3%,3.1%
+2026-09-04,EC,Retail Sales MoM,11:00,Jul,     --,-0.3%
+2026-09-04,US,Change in Nonfarm Payrolls,14:30,Aug,55k,-23k
+2026-09-04,US,Average Hourly Earnings YoY,14:30,Aug,3.0%,3.2%
+2026-09-04,US,Baker Hughes U.S. Rotary Oil Rigs,     --,     --,     --,     --
