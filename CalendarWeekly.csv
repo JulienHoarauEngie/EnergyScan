@@ -1,73 +1,61 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-05 October 2026,--,--,--,--,--
-JN,Japan PMI Composite,2:30,Sep F,     --,52.5
-JN,Japan PMI Services,2:30,Sep F,     --,51.6
-JN,Consumer Confidence Index,7:00,Sep,35.3,35.5
-FR,France Composite PMI,9:50,Sep F,51.2,51.2
-GE,Germany Composite PMI,9:55,Sep F,53.8,53.8
-EC,Eurozone Services PMI,10:00,Sep F,53.0,53.0
-EC,Eurozone Composite PMI,10:00,Sep F,53.1,53.1
-EC,Sentix Investor Confidence,10:30,Oct,4.5,5.1
-UK,Services PMI,10:30,Sep F,51.7,51.7
-UK,S&P Global UK Composite PMI,10:30,Sep F,51.7,51.7
-EC,PPI YoY,11:00,Aug,7.6%,5.8%
-US,US Services PMI,15:45,Sep F,58.7,58.7
-US,US Composite PMI,15:45,Sep F,     --,58.4
-US,ISM Services Index,16:00,Sep,55.2,55.4
-06 October 2026,--,--,--,--,--
-GE,Factory Orders MoM,8:00,Aug,-1.0%,2.5%
-FR,Industrial Production MoM,8:45,Aug,0.4%,-0.4%
-EC,Retail Sales MoM,11:00,Aug,0.3%,-0.6%
-US,Trade Balance,14:30,Aug,-$89.8b,-$88.6b
-US,STEO Current Yr Crude Forecast,18:00,Oct,     --,13.8
-07 October 2026,--,--,--,--,--
-JN,Leading Index CI,7:00,Aug P,     --,117.7
-GE,Industrial Production SA MoM,8:00,Aug,0.5%,-1.1%
-FR,Trade Balance,8:45,Aug,     --,-6669m
-US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,922k
-US,FOMC Meeting Minutes,20:00,     --,     --,     --
-08 October 2026,--,--,--,--,--
-UK,RICS House Price Balance,1:01,Sep,-30.0%,-28.0%
-JN,BoP Current Account Adjusted,1:50,Aug,¥2112.3b,¥2523.1b
-GE,Trade Balance SA,8:00,Aug,19.0b,21.3b
-US,Initial Jobless Claims,14:30,     --,     --,197k
-09 October 2026,--,--,--,--,--
-JN,Household Spending YoY,1:30,Aug,-3.6%,-3.6%
-JN,Machine Tool Orders YoY,8:00,Sep P,     --,64.7%
-US,U. of Mich. Sentiment,16:00,Oct P,48.0,48.1
+19 October 2026,--,--,--,--,--
+CH,New Home Prices MoM,3:30,Sep,     --,-0.2%
+CH,Used Home Prices MoM,3:30,Sep,     --,-0.3%
+CH,GDP YoY,4:00,3Q,4.4%,4.3%
+CH,Retail Sales YoY,4:00,Sep,0.5%,0.4%
+CH,Industrial Production YoY,4:00,Sep,5.4%,5.2%
+CH,Surveyed Jobless Rate,4:00,Sep,5.3%,5.3%
+US,NAHB Housing Market Index,16:00,Oct,31.0,32.0
+20 October 2026,--,--,--,--,--
+CH,1-Year Loan Prime Rate,3:00,     --,3.0%,3.0%
+CH,5-Year Loan Prime Rate,3:00,     --,3.5%,3.5%
+GE,PPI YoY,8:00,Sep,5.6%,4.6%
+UK,Weekly Earnings ex Bonus 3M/YoY,8:00,Aug,     --,3.5%
+UK,Private Earnings ex Bonus 3M/YoY,8:00,Aug,     --,2.9%
+UK,Employment Change 3M/3M,8:00,Aug,     --,66k
+UK,Payrolled Employees Monthly Change,8:00,Sep,     --,-26k
+EC,ECB Current Account SA,10:00,Aug,     --,27.6b
+GE,ZEW Survey Expectations,11:00,Oct,30.0,34.7
+EC,Construction Output MoM,11:00,Aug,     --,0.0%
+US,Housing Starts MoM,14:30,Sep,2.3%,-2.6%
+US,Building Permits MoM,14:30,Sep P,-1.7%,-2.1%
+US,Pending Home Sales MoM,16:00,Sep,0.0%,0.3%
+21 October 2026,--,--,--,--,--
+JN,Trade Balance Adjusted,1:50,Sep,-¥250.1b,-¥840.6b
+UK,CPI YoY,8:00,Sep,3.3%,3.1%
+UK,Public Sector Net Borrowing,8:00,Sep,     --,18.3b
+UK,House Price Index YoY,10:30,Aug,     --,1.4%
+EC,Govt Debt/GDP Ratio,11:00,2025 F,     --,87.8%
+US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,-8557k
+22 October 2026,--,--,--,--,--
+EC,EU27 New Car Registrations,6:00,Sep,     --,4.5%
+JN,Machine Tool Orders YoY,8:00,Sep F,     --,60.4%
+FR,Business Confidence,8:45,Oct,     --,96.0
+UK,CBI Trends Total Orders,12:00,Oct,-20.0,-9.0
+US,Initial Jobless Claims,14:30,     --,200k,199k
+EC,Consumer Confidence,16:00,Oct P,-16.8,-16.5
+US,Leading Index,16:00,Sep,-0.2%,-0.1%
+US,Kansas City Fed Manf. Activity,17:00,Oct,     --,14.0
+23 October 2026,--,--,--,--,--
+UK,GfK Consumer Confidence,1:01,Oct,     --,-13.0
+JN,Natl CPI YoY,1:30,Sep,2.1%,1.9%
+JN,Japan PMI Composite,2:30,Oct P,     --,52.3
+JN,Japan PMI Mfg,2:30,Oct P,     --,54.1
+JN,Japan PMI Services,2:30,Oct P,     --,51.3
+JN,Nationwide Dept Sales YoY,7:30,Sep,     --,2.6%
+UK,Retail Sales Inc Auto Fuel MoM,8:00,Sep,0.1%,0.5%
+FR,France Composite PMI,9:15,Oct P,     --,51.1
+GE,Germany Composite PMI,9:30,Oct P,53.6,53.8
+EC,Eurozone Manuf. PMI,10:00,Oct P,52.5,52.9
+EC,Eurozone Services PMI,10:00,Oct P,52.5,53.0
+EC,Eurozone Composite PMI,10:00,Oct P,52.5,53.1
+EC,ECB 1 Year CPI Expectations,10:00,Sep,     --,3.0%
+UK,UK Services PMI,10:30,Oct P,51.5,52.1
+UK,UK Manufacturing PMI,10:30,Oct P,51.7,51.9
+UK,UK Composite PMI,10:30,Oct P,     --,52.0
+US,US Manufacturing PMI,15:45,Oct P,55.5,55.9
+US,US Services PMI,15:45,Oct P,57.9,58.8
+US,US Composite PMI,15:45,Oct P,     --,58.4
+US,U. of Mich. Sentiment,16:00,Oct F,46.3,46.3
 US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
-12 October 2026,--,--,--,--,--
-13 October 2026,--,--,--,--,--
-JN,PPI YoY,1:50,Sep,     --,7.6%
-GE,CPI EU Harmonized YoY,8:00,Sep F,     --,3.3%
-US,NFIB Small Business Optimism,12:00,Sep,     --,98.7
-US,Existing Home Sales MoM,16:00,Sep,     --,-2.0%
-14 October 2026,--,--,--,--,--
-CH,PPI YoY,3:30,Sep,     --,3.8%
-CH,CPI YoY,3:30,Sep,     --,0.8%
-US,CPI YoY,14:30,Sep,     --,3.4%
-US,Core CPI YoY,14:30,Sep,     --,2.4%
-CH,Trade Balance,     --,Sep,     --,$119.09b
-15 October 2026,--,--,--,--,--
-JN,Core Machine Orders MoM,1:50,Aug,     --,-3.7%
-JN,Industrial Production MoM,6:30,Aug F,     --,-1.7%
-UK,Monthly GDP (MoM),8:00,Aug,     --,0.4%
-UK,Industrial Production MoM,8:00,Aug,     --,0.2%
-UK,Trade Balance GBP/Mn,8:00,Aug,     --,-£3450m
-FR,CPI EU Harmonized YoY,8:45,Sep F,     --,3.4%
-EC,Industrial Production SA MoM,11:00,Aug,     --,-0.1%
-US,Retail Sales Control Group,14:30,Sep,     --,1.4%
-US,Philadelphia Fed Business Outlook,14:30,Oct,     --,37.8
-US,Initial Jobless Claims,14:30,     --,     --,     --
-US,PPI Final Demand YoY,14:30,Sep,     --,5.4%
-US,Business Inventories,16:00,Aug,     --,0.8%
-US,DOE U.S. Crude Oil Inventories,18:00,     --,     --,     --
-16 October 2026,--,--,--,--,--
-EC,Trade Balance SA,11:00,Aug,     --,5.0b
-EC,CPI YoY,11:00,Sep F,     --,3.8%
-IT,CPI EU Harmonized YoY,11:00,Sep F,     --,4.1%
-US,Import Price Index MoM,14:30,Sep,     --,0.7%
-US,Import Price Index YoY,14:30,Sep,     --,7.0%
-US,Industrial Production MoM,15:15,Sep,     --,0.0%
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
-US,Net Long-term TIC Flows,22:00,Aug,     --,-$27.9b
