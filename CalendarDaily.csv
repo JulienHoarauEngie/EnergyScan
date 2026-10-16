@@ -1,63 +1,56 @@
 ﻿Date,Country,Main indicators & events,Time,Period,Consensus,T-1
-2026-10-05,JN,Japan PMI Composite,2:30,Sep F,     --,52.5
-2026-10-05,JN,Japan PMI Services,2:30,Sep F,     --,51.6
-2026-10-05,JN,Consumer Confidence Index,7:00,Sep,35.3,35.5
-2026-10-05,FR,France Composite PMI,9:50,Sep F,51.2,51.2
-2026-10-05,GE,Germany Composite PMI,9:55,Sep F,53.8,53.8
-2026-10-05,EC,Eurozone Services PMI,10:00,Sep F,53.0,53.0
-2026-10-05,EC,Eurozone Composite PMI,10:00,Sep F,53.1,53.1
-2026-10-05,EC,Sentix Investor Confidence,10:30,Oct,4.5,5.1
-2026-10-05,UK,Services PMI,10:30,Sep F,51.7,51.7
-2026-10-05,UK,S&P Global UK Composite PMI,10:30,Sep F,51.7,51.7
-2026-10-05,EC,PPI YoY,11:00,Aug,7.6%,5.8%
-2026-10-05,US,US Services PMI,15:45,Sep F,58.7,58.7
-2026-10-05,US,US Composite PMI,15:45,Sep F,     --,58.4
-2026-10-05,US,ISM Services Index,16:00,Sep,55.2,55.4
-2026-10-06,GE,Factory Orders MoM,8:00,Aug,-1.0%,2.5%
-2026-10-06,FR,Industrial Production MoM,8:45,Aug,0.4%,-0.4%
-2026-10-06,EC,Retail Sales MoM,11:00,Aug,0.3%,-0.6%
-2026-10-06,US,Trade Balance,14:30,Aug,-$89.8b,-$88.6b
-2026-10-06,US,STEO Current Yr Crude Forecast,18:00,Oct,     --,13.8
-2026-10-07,JN,Leading Index CI,7:00,Aug P,     --,117.7
-2026-10-07,GE,Industrial Production SA MoM,8:00,Aug,0.5%,-1.1%
-2026-10-07,FR,Trade Balance,8:45,Aug,     --,-6669m
-2026-10-07,US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,922k
-2026-10-07,US,FOMC Meeting Minutes,20:00,     --,     --,     --
-2026-10-08,UK,RICS House Price Balance,1:01,Sep,-30.0%,-28.0%
-2026-10-08,JN,BoP Current Account Adjusted,1:50,Aug,¥2112.3b,¥2523.1b
-2026-10-08,GE,Trade Balance SA,8:00,Aug,19.0b,21.3b
-2026-10-08,US,Initial Jobless Claims,14:30,     --,     --,197k
-2026-10-09,JN,Household Spending YoY,1:30,Aug,-3.6%,-3.6%
-2026-10-09,JN,Machine Tool Orders YoY,8:00,Sep P,     --,64.7%
-2026-10-09,US,U. of Mich. Sentiment,16:00,Oct P,48.0,48.1
-2026-10-09,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
-2026-10-13,JN,PPI YoY,1:50,Sep,     --,7.6%
-2026-10-13,GE,CPI EU Harmonized YoY,8:00,Sep F,     --,3.3%
-2026-10-13,US,NFIB Small Business Optimism,12:00,Sep,     --,98.7
-2026-10-13,US,Existing Home Sales MoM,16:00,Sep,     --,-2.0%
-2026-10-14,CH,PPI YoY,3:30,Sep,     --,3.8%
-2026-10-14,CH,CPI YoY,3:30,Sep,     --,0.8%
-2026-10-14,US,CPI YoY,14:30,Sep,     --,3.4%
-2026-10-14,US,Core CPI YoY,14:30,Sep,     --,2.4%
-2026-10-14,CH,Trade Balance,     --,Sep,     --,$119.09b
-2026-10-15,JN,Core Machine Orders MoM,1:50,Aug,     --,-3.7%
-2026-10-15,JN,Industrial Production MoM,6:30,Aug F,     --,-1.7%
-2026-10-15,UK,Monthly GDP (MoM),8:00,Aug,     --,0.4%
-2026-10-15,UK,Industrial Production MoM,8:00,Aug,     --,0.2%
-2026-10-15,UK,Trade Balance GBP/Mn,8:00,Aug,     --,-£3450m
-2026-10-15,FR,CPI EU Harmonized YoY,8:45,Sep F,     --,3.4%
-2026-10-15,EC,Industrial Production SA MoM,11:00,Aug,     --,-0.1%
-2026-10-15,US,Retail Sales Control Group,14:30,Sep,     --,1.4%
-2026-10-15,US,Philadelphia Fed Business Outlook,14:30,Oct,     --,37.8
-2026-10-15,US,Initial Jobless Claims,14:30,     --,     --,     --
-2026-10-15,US,PPI Final Demand YoY,14:30,Sep,     --,5.4%
-2026-10-15,US,Business Inventories,16:00,Aug,     --,0.8%
-2026-10-15,US,DOE U.S. Crude Oil Inventories,18:00,     --,     --,     --
-2026-10-16,EC,Trade Balance SA,11:00,Aug,     --,5.0b
-2026-10-16,EC,CPI YoY,11:00,Sep F,     --,3.8%
-2026-10-16,IT,CPI EU Harmonized YoY,11:00,Sep F,     --,4.1%
-2026-10-16,US,Import Price Index MoM,14:30,Sep,     --,0.7%
-2026-10-16,US,Import Price Index YoY,14:30,Sep,     --,7.0%
-2026-10-16,US,Industrial Production MoM,15:15,Sep,     --,0.0%
-2026-10-16,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
-2026-10-16,US,Net Long-term TIC Flows,22:00,Aug,     --,-$27.9b
+2026-10-19,CH,New Home Prices MoM,3:30,Sep,     --,-0.2%
+2026-10-19,CH,Used Home Prices MoM,3:30,Sep,     --,-0.3%
+2026-10-19,CH,GDP YoY,4:00,3Q,4.4%,4.3%
+2026-10-19,CH,Retail Sales YoY,4:00,Sep,0.5%,0.4%
+2026-10-19,CH,Industrial Production YoY,4:00,Sep,5.4%,5.2%
+2026-10-19,CH,Surveyed Jobless Rate,4:00,Sep,5.3%,5.3%
+2026-10-19,US,NAHB Housing Market Index,16:00,Oct,31.0,32.0
+2026-10-20,CH,1-Year Loan Prime Rate,3:00,     --,3.0%,3.0%
+2026-10-20,CH,5-Year Loan Prime Rate,3:00,     --,3.5%,3.5%
+2026-10-20,GE,PPI YoY,8:00,Sep,5.6%,4.6%
+2026-10-20,UK,Weekly Earnings ex Bonus 3M/YoY,8:00,Aug,     --,3.5%
+2026-10-20,UK,Private Earnings ex Bonus 3M/YoY,8:00,Aug,     --,2.9%
+2026-10-20,UK,Employment Change 3M/3M,8:00,Aug,     --,66k
+2026-10-20,UK,Payrolled Employees Monthly Change,8:00,Sep,     --,-26k
+2026-10-20,EC,ECB Current Account SA,10:00,Aug,     --,27.6b
+2026-10-20,GE,ZEW Survey Expectations,11:00,Oct,30.0,34.7
+2026-10-20,EC,Construction Output MoM,11:00,Aug,     --,0.0%
+2026-10-20,US,Housing Starts MoM,14:30,Sep,2.3%,-2.6%
+2026-10-20,US,Building Permits MoM,14:30,Sep P,-1.7%,-2.1%
+2026-10-20,US,Pending Home Sales MoM,16:00,Sep,0.0%,0.3%
+2026-10-21,JN,Trade Balance Adjusted,1:50,Sep,-¥250.1b,-¥840.6b
+2026-10-21,UK,CPI YoY,8:00,Sep,3.3%,3.1%
+2026-10-21,UK,Public Sector Net Borrowing,8:00,Sep,     --,18.3b
+2026-10-21,UK,House Price Index YoY,10:30,Aug,     --,1.4%
+2026-10-21,EC,Govt Debt/GDP Ratio,11:00,2025 F,     --,87.8%
+2026-10-21,US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,-8557k
+2026-10-22,EC,EU27 New Car Registrations,6:00,Sep,     --,4.5%
+2026-10-22,JN,Machine Tool Orders YoY,8:00,Sep F,     --,60.4%
+2026-10-22,FR,Business Confidence,8:45,Oct,     --,96.0
+2026-10-22,UK,CBI Trends Total Orders,12:00,Oct,-20.0,-9.0
+2026-10-22,US,Initial Jobless Claims,14:30,     --,200k,199k
+2026-10-22,EC,Consumer Confidence,16:00,Oct P,-16.8,-16.5
+2026-10-22,US,Leading Index,16:00,Sep,-0.2%,-0.1%
+2026-10-22,US,Kansas City Fed Manf. Activity,17:00,Oct,     --,14.0
+2026-10-23,UK,GfK Consumer Confidence,1:01,Oct,     --,-13.0
+2026-10-23,JN,Natl CPI YoY,1:30,Sep,2.1%,1.9%
+2026-10-23,JN,Japan PMI Composite,2:30,Oct P,     --,52.3
+2026-10-23,JN,Japan PMI Mfg,2:30,Oct P,     --,54.1
+2026-10-23,JN,Japan PMI Services,2:30,Oct P,     --,51.3
+2026-10-23,JN,Nationwide Dept Sales YoY,7:30,Sep,     --,2.6%
+2026-10-23,UK,Retail Sales Inc Auto Fuel MoM,8:00,Sep,0.1%,0.5%
+2026-10-23,FR,France Composite PMI,9:15,Oct P,     --,51.1
+2026-10-23,GE,Germany Composite PMI,9:30,Oct P,53.6,53.8
+2026-10-23,EC,Eurozone Manuf. PMI,10:00,Oct P,52.5,52.9
+2026-10-23,EC,Eurozone Services PMI,10:00,Oct P,52.5,53.0
+2026-10-23,EC,Eurozone Composite PMI,10:00,Oct P,52.5,53.1
+2026-10-23,EC,ECB 1 Year CPI Expectations,10:00,Sep,     --,3.0%
+2026-10-23,UK,UK Services PMI,10:30,Oct P,51.5,52.1
+2026-10-23,UK,UK Manufacturing PMI,10:30,Oct P,51.7,51.9
+2026-10-23,UK,UK Composite PMI,10:30,Oct P,     --,52.0
+2026-10-23,US,US Manufacturing PMI,15:45,Oct P,55.5,55.9
+2026-10-23,US,US Services PMI,15:45,Oct P,57.9,58.8
+2026-10-23,US,US Composite PMI,15:45,Oct P,     --,58.4
+2026-10-23,US,U. of Mich. Sentiment,16:00,Oct F,46.3,46.3
+2026-10-23,US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
