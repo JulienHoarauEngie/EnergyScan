@@ -1,55 +1,54 @@
 ﻿Country,Main indicators & events,Time,Period,Consensus,T-1
-23 November 2026,--,--,--,--,--
-FR,France Composite PMI,9:15,Nov P,     --,46.6
-GE,Germany Composite PMI,9:30,Nov P,52.8,53.4
-EC,Eurozone Manuf. PMI,10:00,Nov P,52.7,52.7
-EC,Eurozone Services PMI,10:00,Nov P,51.6,51.4
-EC,Eurozone Composite PMI,10:00,Nov P,51.6,51.7
-UK,UK Services PMI,10:30,Nov P,53.0,52.8
-UK,UK Manufacturing PMI,10:30,Nov P,53.1,52.8
-UK,UK Composite PMI,10:30,Nov P,53.1,52.9
-US,Chicago Fed Nat Activity Index,14:30,Oct,     --,0.07
-US,US Manufacturing PMI,15:45,Nov P,54.5,54.9
-US,US Services PMI,15:45,Nov P,55.7,56.1
-US,US Composite PMI,15:45,Nov P,     --,55.9
-24 November 2026,--,--,--,--,--
-JN,Japan PMI Composite,1:30,Nov P,     --,52.1
-JN,Japan PMI Mfg,1:30,Nov P,     --,53.3
-JN,Japan PMI Services,1:30,Nov P,     --,51.7
-EC,EU27 New Car Registrations,6:00,Oct,     --,9.3%
-GE,IFO Business Climate,10:00,Nov,90.5,90.2
-UK,CBI Total Dist. Reported Sales,12:00,Nov,     --,-6.0
-US,FHFA House Price Index MoM,15:00,Sep,0.2%,0.3%
-US,S&P Cotality CS 20-City YoY NSA,15:00,Sep,2.7%,2.7%
-US,Richmond Fed Manufact. Index,16:00,Nov,     --,-2.0
-US,Conf. Board Consumer Confidence,16:00,Nov,92.1,91.7
-25 November 2026,--,--,--,--,--
-JN,Nationwide Dept Sales YoY,6:30,Oct,     --,4.2%
-JN,Machine Tool Orders YoY,7:00,Oct F,     --,42.5%
-GE,GDP SA QoQ,8:00,3Q F,0.2%,0.2%
-FR,Consumer Confidence,8:45,Nov,     --,80.0
-US,Personal Spending,14:30,Oct,0.4%,0.5%
-US,Core PCE Price Index YoY,14:30,Oct,3.2%,3.1%
-US,GDP Annualized QoQ,14:30,3Q S,3.5%,3.4%
-US,Initial Jobless Claims,14:30,     --,200k,203k
-US,Cap Goods Orders Nondef Ex Air,14:30,Oct P,0.8%,0.6%
-US,New Home Sales MoM,16:00,Oct,-5.3%,-0.6%
-US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,3380k
-US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,     --
-US,Building Permits MoM,     --,Oct F,     --,-7.4%
-26 November 2026,--,--,--,--,--
-JN,Leading Index CI,6:00,Sep F,     --,116.4
-GE,GfK Consumer Confidence,8:00,Dec,-29.0,-30.8
-EC,M3 Money Supply YoY,10:00,Oct,3.5%,3.5%
-27 November 2026,--,--,--,--,--
-JN,Tokyo CPI YoY,0:30,Nov,3.1%,2.8%
-CH,Industrial Profits YTD YoY,2:30,Oct,     --,15.5%
-FR,CPI EU Harmonized YoY,8:45,Nov P,3.7%,3.7%
-FR,GDP QoQ,8:45,3Q F,-0.1%,-0.1%
-FR,Consumer Spending MoM,8:45,Oct,     --,-0.5%
-GE,Unemployment Change (000's),9:55,Nov,6.0k,4.0k
-EC,ECB 1 Year CPI Expectations,10:00,Oct,     --,3.1%
-EC,Economic Confidence,11:00,Nov,97.2,96.9
-EC,Consumer Confidence,11:00,Nov F,     --,     --
-US,Advance Goods Trade Balance,14:30,Oct,-$133.0b,-$134.9b
-US,Retail Inventories MoM,14:30,Oct,     --,0.3%
+30 November 2026,--,--,--,--,--
+JN,Retail Sales MoM,0:50,Oct,1.0%,-0.7%
+JN,Industrial Production MoM,0:50,Oct P,2.1%,2.0%
+CH,Manufacturing PMI,2:30,Nov,49.4,49.3
+CH,Non-manufacturing PMI,2:30,Nov,49.6,49.7
+JN,Housing Starts YoY,6:00,Oct,-6.7%,-2.7%
+UK,Mortgage Approvals,10:30,Oct,52.9k,53.4k
+IT,CPI EU Harmonized YoY,11:00,Nov P,5.7%,5.6%
+GE,CPI EU Harmonized YoY,14:00,Nov P,2.7%,2.9%
+US,MNI Chicago PMI,15:45,Nov,     --,55.30
+US,Dallas Fed Manf. Activity,16:30,Nov,10.2,13.4
+01 December 2026,--,--,--,--,--
+JN,Jobless Rate,0:30,Oct,2.4%,2.4%
+JN,Japan PMI Mfg,1:30,Nov F,     --,53.7
+CH,China PMI Mfg,2:45,Nov,51.7,52.0
+IT,GDP WDA QoQ,10:00,3Q F,     --,0.0%
+EC,Eurozone Manuf. PMI,10:00,Nov F,52.9,52.9
+UK,UK Manufacturing PMI,10:30,Nov F,52.7,52.7
+EC,CPI Estimate YoY,11:00,Nov P,4.0%,4.0%
+US,US Manufacturing PMI,15:45,Nov F,     --,54.5
+US,JOLTS Job Openings,16:00,Oct,7450k,7523k
+US,ISM Manufacturing,16:00,Nov,55.0,55.5
+US,Construction Spending MoM,16:00,Oct,0.8%,-1.9%
+US,Omdia Total Vehicle Sales,     --,Nov,15.70m,15.54m
+02 December 2026,--,--,--,--,--
+JN,Consumer Confidence Index,6:00,Nov,34.7,35.0
+EC,Unemployment Rate,11:00,Oct,6.5%,6.5%
+US,ADP Employment Change,14:15,Nov,80k,86k
+US,DOE U.S. Crude Oil Inventories,16:30,     --,     --,1109k
+03 December 2026,--,--,--,--,--
+JN,Japan PMI Composite,1:30,Nov F,     --,51.5
+JN,Japan PMI Services,1:30,Nov F,     --,50.5
+CH,China PMI Services,2:45,Nov,50.6,50.8
+FR,France Composite PMI,9:50,Nov F,     --,46.2
+GE,Germany Composite PMI,9:55,Nov F,     --,55.0
+EC,Eurozone Services PMI,10:00,Nov F,51.2,51.2
+EC,Eurozone Composite PMI,10:00,Nov F,51.7,51.7
+UK,UK Services PMI,10:30,Nov F,52.0,52.0
+UK,UK Composite PMI,10:30,Nov F,52.3,52.3
+EC,PPI YoY,11:00,Oct,     --,11.1%
+US,Challenger Job Cuts YoY,11:30,Nov,     --,-71.3%
+US,Initial Jobless Claims,14:30,     --,193k,189k
+US,US Services PMI,15:45,Nov F,     --,54.7
+US,US Composite PMI,15:45,Nov F,     --,54.6
+US,ISM Services Index,16:00,Nov,54.5,54.5
+US,Cap Goods Orders Nondef Ex Air,16:00,Oct F,     --,1.2%
+04 December 2026,--,--,--,--,--
+FR,Industrial Production MoM,8:45,Oct,     --,-0.5%
+EC,Retail Sales MoM,11:00,Oct,0.5%,-0.7%
+US,Change in Nonfarm Payrolls,14:30,Nov,90k,165k
+US,Average Hourly Earnings YoY,14:30,Nov,3.0%,3.1%
+US,U. of Mich. Sentiment,16:00,Dec P,52.5,51.5
+US,Baker Hughes U.S. Rotary Oil Rigs,19:00,     --,     --,470.0
